@@ -4,9 +4,12 @@ This repository contains the code for openBIMdisk, a Flask-backed DApp for seman
 ## Architecture
 ![image](https://github.com/KarleKong/openBIMdisk/blob/main/openBIMdisk/Architecture.png)
 ## Usage
-You can use the <kbd>clone</kbd> script to download this repository to your local devices.  
+You can use the <kbd>clone</kbd> script to download this repository to your local devices. The recommanded python version is 3.8.    
 `git clone https://github.com/KarleKong/openBIMdisk`  
-The recommanded python version is 3.8. To run the openBIMdisk, firstly `cd openBIMdisk/apps`, then install the required dependencies through `pip install -r requirements.txt`.
+You can run the openBIMdisk through the following steps:  
+Step 1: `cd openBIMdisk/apps`,  
+Step 2: Install the required dependencies through `pip install -r requirements.txt`,  
+Step 3: Back to the upper folder `cd..` and set environmental variables for the flask app `(Unix/Mac) export FLASK_APP = run.py` `(Windows) set FLASK_APP=run.py` `(Powershell) $env:FLASK_APP=".\run.py"`
 ### Blockchain 3.0 backbone
 The Blockchain 3.0 backbone extends a cached layer for BIM data indexing, querying, and analysing. The BIM change contract (BCC) serves as a communication bridge between both the Blockchain 2.0 network and the cached layer, enabling off-line data storage and on-line data synchronization.
 ### tSDT model
