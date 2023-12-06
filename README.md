@@ -4,16 +4,16 @@ This repository contains the code for openBIMdisk, a Flask-backed DApp for seman
 ## Architecture
 ![image](https://github.com/KarleKong/openBIMdisk/blob/main/openBIMdisk/Architecture.png)
 ## Usage
-You can use the <kbd>clone</kbd> script to download this repository to your local devices. The recommanded python version is 3.8.    
-`git clone https://github.com/KarleKong/openBIMdisk`  
-You can run the openBIMdisk through the following steps:  
-Step 1: `cd openBIMdisk/apps`,  
-Step 2: Install the required dependencies through `pip install -r requirements.txt`,  
-Step 3: Back to the upper folder `cd..` and set environmental variables for the flask app  
+$ # Get the code (he recommanded python version is 3.8)        
+`git clone https://github.com/KarleKong/openBIMdisk`    
+`cd openBIMdisk/apps`    
+$ # Install the required dependencies    
+`pip install -r requirements.txt`  
+$ # Set the FLASK_APP environment variable  
 `(Unix/Mac) export FLASK_APP = run.py`  
 `(Windows) set FLASK_APP=run.py`  
 `(Powershell) $env:FLASK_APP=".\run.py"`  
-Step 4: Start the application (development mode)  
+$ # Start the application (development mode)  
 `flask run --host=0.0.0.0 --port=5000`  
 Now, you can access the dashboard in browser: http://127.0.0.1:5000/
 ### Blockchain 3.0 backbone
