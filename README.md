@@ -17,9 +17,26 @@ $ # Set the FLASK_APP environment variable
 $ # Start the application (development mode)  
 `flask run --host=0.0.0.0 --port=5000`  
 Now, you can access the dashboard in browser: http://127.0.0.1:5000/
-### Blockchain 3.0 backbone
+## Blockchain 3.0 backbone
 The Blockchain 3.0 backbone extends a cached layer for BIM data indexing, querying, and analysing. The BIM change contract (BCC) serves as a communication bridge between both the Blockchain 2.0 network and the cached layer, enabling off-line data storage and on-line data synchronization.
-### tSDT model
+### Deploy the test fabric blockchain network
+In this case, the fabric blockchain network is deployed on the windows subsystem for linux (WSL) with the ubuntu 20.04.6. Users can also deploy it on the remote server.
+
+To deploy the test fabric blockchain network, please refer to **https://github.com/hyperledger/fabric-samples/tree/main/test-network**. Users can find the configuration files in **/fabric**. To deploy a simple fabric blockchain network in your devices, follow the steps (deploy in the WSL as an example):
+
+$ # Access to the code  
+`cp -r your/path/to/test-network your/server/folder`  
+$ # Start the docker service  
+`sudo service docker start`  
+$ # Start the network  
+`./network.sh up`  
+$ # Check the docker status  
+`docker ps -a`  
+$ # Start the hyperledger explorer  
+`cp -r your/path/to/explorer your/server/folder`  
+`cd explorer`  
+`docker-compose up -d`  
+## tSDT model
 The traceable Semantic Differential Transaction (tSDT) model incorporates two key features: (1) remove duplicated instances of BIM semantics; and (2) indexing BIM data such as Id, GUID, change type, etc., and further storing them on a local cached database for querying of BIM semantic changes.
 ## Application UI
 ![image](https://github.com/KarleKong/openBIMdisk/blob/main/openBIMdisk/UserInterface.png)
