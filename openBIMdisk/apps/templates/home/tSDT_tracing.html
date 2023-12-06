@@ -1,0 +1,186 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} tSDT_tracing {% endblock %} 
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}
+<link rel="stylesheet" type="text/css" href="{{ config.ASSETS_ROOT }}/css/timeline.css">
+<link rel="stylesheet" href="{{config.ASSETS_ROOT}}/css/fonts/font.default.css">
+<script src="{{ config.ASSETS_ROOT }}/js/echarts.js"></script>
+<link href="{{ config.ASSETS_ROOT }}/css/button.css" rel="stylesheet">
+<script src="{{ config.ASSETS_ROOT }}/js/sweetalert2.min.js"></script>
+<link rel="stylesheet" type="text/css" href="{{ config.ASSETS_ROOT }}/css/sweetalert2.min.css">
+<link href="{{ config.ASSETS_ROOT }}/css/dashboard.css" rel="stylesheet">
+
+{% endblock stylesheets %}
+
+{% block content %}
+
+    <!-- ============================================================== -->
+    <!-- Bread crumb and right sidebar toggle -->
+    <!-- ============================================================== -->
+    <div class="page-breadcrumb">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-8 align-self-center">
+                <h3 class="page-title mb-0 p-0">tSDT Tracing</h3>
+                <div class="d-flex align-items-center">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="{{url_for('home_blueprint.index')}}">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Tracing Semantic Changes on the Component Level</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+            <div class="col-md-6 col-4 align-self-center">
+                <div class="text-end upgrade-btn">
+                    <a href="https://appseed.us/support/"
+                       class="btn btn-danger d-none d-md-inline-block text-white" target="_blank">
+                       Support        
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Bread crumb and right sidebar toggle -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- Container fluid  -->
+    <!-- ============================================================== -->
+    <div class="container-fluid">
+        <!-- ============================================================== -->
+        <!-- Start Page Content -->
+        <!-- ============================================================== -->
+        <div class="row">
+            <div class="col-lg-4 col-xlg-3 col-md-5">
+                <div class="content-card" id="three-model">
+                    <div class="hint">
+                        Click to load the 3D model
+                    </div>
+                    <div class="module-info hide">
+                        <div>
+                            <span class="attr-name">Unit ID:</span>
+                            <span class="module-id"></span>
+                        </div>
+                        <div>
+                            <span class="attr-name">Status:</span>
+                            <div class="status-label"></div>
+                            <span class="module-status"></span>
+                        </div>
+                    </div>
+                    <div id="canvas-container">
+                        <canvas id="canvas"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-8 col-xlg-9 col-md-7">
+                <div class="table">
+                    <div class="container">
+                      <div class="row d_flex">
+                        <div style="height:700px;overflow: auto;">
+                           <table class="table" style="table-layout:fixed;word-break:break-all;word-wrap:break-word" id="refreshedTable">
+                              <thead class="thead-dark">
+                                <tr>
+                                <th>transID</th>
+                                <th>IFC Entity</th>
+                                <th>Change Type</th>
+                                <th>Transaction Time</th>
+                                <th>tSDT File</th>
+                                </tr>
+                              </thead>
+                              <tbody >
+                              </tbody>
+                           </table>
+                        </div>             
+                      </div>
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <!-- ============================================================== -->
+        <!-- End PAge Content -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Right sidebar -->
+        <!-- ============================================================== -->
+        <!-- .right-sidebar -->
+        <!-- ============================================================== -->
+        <!-- End Right sidebar -->
+        <!-- ============================================================== -->
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Container fluid  -->
+    <!-- ============================================================== -->
+
+{% endblock content %}
+
+{% block javascripts %}
+
+<script>
+    function handleSubmit() {
+        var base_version = document.getElementById('baseVersion').value;
+        var target_version = document.getElementById('targetVersion').value;
+        var Project = document.getElementById('Project').value;
+        // determine whether there is the difference record
+        var sdt_aim = base_version + "-" + target_version
+        var sdt_aim_reverse = target_version + "-" + base_version
+        var log_folder_records = document.getElementById('logfolderId').getAttribute('d') // this is a string result
+        // console.log("The type of log_folder_records is " + typeof(log_folder_records)) 
+        // Convert the Result from String to a list
+        var logFolderList = []
+        logFolderList = log_folder_records.replace("[", "").replace("]","").split(",")
+        for(k=0;k<=logFolderList.length-1;k++){
+            log_item = logFolderList[k].replace("'","").replace("'","").replace(" ","")
+            console.log(log_item)
+            if(k<logFolderList.length-1 && log_item === sdt_aim){
+                var base_version_real = base_version
+                var target_version_real = target_version
+                break;
+            }
+            else if (k<logFolderList.length-1 && log_item === sdt_aim_reverse){
+                var base_version_real = target_version
+                var target_version_real = base_version
+                break;
+            }
+            else if (k<logFolderList.length-1){
+                continue
+            }
+            else if (k === logFolderList.length-1){
+                if(log_item === sdt_aim){
+                    var base_version_real = base_version
+                    var target_version_real = target_version
+                    break;
+                }
+                else if(log_item === sdt_aim_reverse){
+                    var base_version_real = target_version
+                    var target_version_real = base_version
+                    break;
+                }
+                else{
+                    console.log("No tSDT records!")
+                    swal({
+                        title: "No tSDT Records!",
+                        text: "The semantic difference of these two BIM versions has not been computed before, please run tSDT function to capture differences first.",
+                        showCancelButton: true
+                    })
+                } 
+            }
+        }   
+        console.log("The real base version is " + base_version_real)
+        console.log("The real target version is " + target_version_real)
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', '/tsdt_restore');
+        xhr.setRequestHeader('Content-Type', 'application/json'); 
+        xhr.onload = function() {
+            if(xhr.status === 200){
+                window.location.href = '/restore_result'
+            }
+            console.log(xhr.responseText);
+        };
+        xhr.send(JSON.stringify({baseVersion: base_version_real, targetVersion: target_version_real, Project: Project}));
+        return false;
+    }
+ </script>
+ <script type="module" src="{{config.ASSETS_ROOT}}/js/dashboard_3d.js"></script>
+{% endblock javascripts %}

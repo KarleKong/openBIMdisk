@@ -1,0 +1,176 @@
+{
+  "data_type": {
+    "IfcWindow": {
+      "29e60985-cb6b-472b-9bff-516f8e665dfa": {
+        "objectPlacement": {
+          "placementRelTo": {
+            "relativePlacement": {
+              "location": {
+                "coordinates": {
+                  "$insert": [
+                    [
+                      0,
+                      8260.0
+                    ]
+                  ],
+                  "$delete": [
+                    [
+                      0,
+                      10760.0
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "IfcOpeningElement": {
+      "29e60985-cb6b-472b-9bff-517c8e665dfa": {
+        "objectPlacement": {
+          "relativePlacement": {
+            "location": {
+              "coordinates": {
+                "$insert": [
+                  [
+                    0,
+                    8260.0
+                  ]
+                ],
+                "$delete": [
+                  [
+                    0,
+                    10760.0
+                  ]
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "IfcOwnerHistory": {
+      "6f9186e8-a2c6-4c16-ba01-9ce60e952002": {
+        "creationDate": [
+          1676443950,
+          1677393940
+        ]
+      }
+    },
+    "IfcRelAssociatesMaterial": [
+      {
+        "3036c826-b5f0-4b21-9500-faa296d8120d": {
+          "globalId": "3036c826-b5f0-4b21-9500-faa296d8120d",
+          "ownerHistory": {
+            "ref": "6f9186e8-a2c6-4c16-ba01-9ce60e952002"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-517a8e665da8"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Door - Frame/Mullion",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Door - Handle",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Door - Panel",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "a02ca6d4-f928-45a9-b70f-b91763d6e2d6": {
+          "globalId": "a02ca6d4-f928-45a9-b70f-b91763d6e2d6",
+          "ownerHistory": {
+            "ref": "6f9186e8-a2c6-4c16-ba01-9ce60e952002"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-517a8e665d32"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Window Frame",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Glass",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        }
+      },
+      {
+        "d7c05d46-724d-4450-86e7-e5dcf074f356": {
+          "globalId": "d7c05d46-724d-4450-86e7-e5dcf074f356",
+          "ownerHistory": {
+            "ref": "6f9186e8-a2c6-4c16-ba01-9ce60e952002"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-517a8e665da8"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Door - Frame/Mullion",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Door - Panel",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Door - Handle",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "53499fce-9ae3-4ebd-81f6-c4f8c3234ee8": {
+          "globalId": "53499fce-9ae3-4ebd-81f6-c4f8c3234ee8",
+          "ownerHistory": {
+            "ref": "6f9186e8-a2c6-4c16-ba01-9ce60e952002"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-517a8e665d32"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Glass",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Window Frame",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        }
+      }
+    ]
+  }
+}

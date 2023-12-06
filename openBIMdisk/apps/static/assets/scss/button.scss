@@ -1,0 +1,133 @@
+$borderradius: 10px;
+$cardmargin: 15px;
+
+@mixin cardGradient {
+  @for $i from 0 through 4 {
+    &:nth-child(#{$i}) {
+      //filter: hue-rotate(#{$i * 5}deg);
+      animation-delay: -#{$i * 370}ms;
+      background: linear-gradient(
+        #{random(360)}deg,
+        #fb891a,
+        #bc28f3,
+        #28f3a4,
+        #28b3f3
+      );
+      background-size: 450% 900%;
+    }
+  }
+}
+
+body {
+  background-color: #161231;
+}
+
+@keyframes cardBGcol {
+  0% {
+    background-position: 0% 0%;
+  }
+  50% {
+    background-position: 100% 100%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
+}
+@keyframes cardTransform {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(5px, 5px);
+  }
+}
+
+.container {
+  margin: 75px;
+  font-family: sans-serif;
+  color: #fff;
+}
+
+.stack {
+  display: flex;
+  gap: 25px;
+  width: 100%;
+  height: 100%;
+  flex-wrap: wrap;
+  will-change: transform; /* hardware accel */
+}
+
+.card {
+  @include cardGradient;
+  display: flex;
+  flex-direction: column;
+  flex-basis: 250px;
+  flex-grow: 1;
+  background: linear-gradient(330deg, #fb891a, #bc28f3, #28f3a4, #28b3f3);
+  background-size: 400% 400%;
+  min-height: 350px;
+  border-radius: $borderradius;
+  animation-name: cardBGcol, cardTransform;
+  animation-duration: 10s, 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: cubic-bezier(0.75, 0.25, 0.25, 0.75);
+  animation-play-state: paused;
+  cursor: pointer;
+  border-top: 1px solid #ffffff55;
+  transition: 300ms ease-out;
+
+  &:hover {
+    animation-play-state: running;
+  }
+
+  &--active {
+    flex-grow: 20;
+    animation-play-state: running, paused;
+    cursor: default;
+    .card__body {
+      -webkit-mask-image: -webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        from(rgba(0, 0, 0, 1)),
+        to(rgba(0, 0, 0, 1))
+      );
+    }
+  }
+
+  &__title {
+    margin: ($cardmargin * 2) 0 0 ($cardmargin * 2);
+  }
+
+  &__body {
+    pointer-events: none; // band-aid fix clickable blur expansion
+    margin: $cardmargin 0 0 $cardmargin;
+    -webkit-mask-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(rgba(0, 0, 0, 1)),
+      to(rgba(0, 0, 0, 0))
+    );
+    p {
+      overflow-wrap: wrap;
+      margin-right: $cardmargin;
+      text-wrap: balance;
+    }
+  }
+
+  &__footer {
+    margin-top: auto;
+    height: 65px;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: hue-rotate(5deg) blur(50px);
+    border-radius: 0 0 $borderradius $borderradius;
+    display: flex;
+    align-items: center;
+    pointer-events: none; // band-aid fix clickable blur expansion
+    span {
+      margin-left: $cardmargin;
+    }
+  }
+}

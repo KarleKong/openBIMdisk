@@ -1,0 +1,2240 @@
+{
+  "hash_dict": {
+    "003aa1cf-0d83-48d8-98ef-eea683c71bc5": "Rvt-IfcSlabType-321367#2",
+    "009de5d6-f90f-4d82-bbc5-9f157449854d": "IfcRelDefinesByProperties-182a5a6f7a66eef0ad4ab1184ddb520a507bb8b2",
+    "01bac7e6-41fe-4873-a3ee-4b42bef2a895": "IfcRelDefinesByProperties-c68fd60a45cf85819d8574c905a590b469e0aa61",
+    "01c28e4c-5173-44a6-940f-74058c09f38d": "IfcGeometricRepresentationSubContext-FootPrint#1",
+    "01c5b295-2ffe-4963-9a69-bfdd66fa0853": "IfcPropertySet-9bc59dce614ab3948f1ba69203a2db53b74c4931",
+    "03785871-5f05-4bc3-8421-87024d6060d1": "IfcRelDefinesByProperties-e34ec773192995d30e6e52f5f80d46407805471f",
+    "03d66edb-6e63-4f25-aef0-d7c565ab60f1": "IfcRelDefinesByProperties-ce4ad760a0ca0f126feb7d7363fb8645af75d5f1",
+    "041de529-e82e-4534-acda-d419b4b14842": "IfcShapeRepresentation-70a3a99bedbc3a742336159f7a7e4757d9685c09",
+    "05f6f2bf-5483-44ea-a06f-f4ed2ed68d19": "IfcRelDefinesByProperties-5d87a46cb93ed7fee945eb0409a7d27747dbeba5",
+    "05fbc50e-b97e-4076-aea2-bf96af4757eb": "IfcRelDefinesByType-1f4d62740bb0236f65e6dbf613015aa45243dbdb",
+    "0608dff4-3337-4fc3-b065-6b71f420bcde": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "06c88ffa-5de7-4835-b19f-44bd6d6c8433": "IfcPropertySet-7a45d3124bc156b22ed92a06ab95bd36aa92fdd9",
+    "06e05d72-06c7-470b-b0eb-3fa4562bf3b8": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "0767aec1-bef5-4590-975b-dc6c67a01977": "IfcRelDefinesByProperties-231f0b9d8385db9066b17e88f9d992f13e820bf7",
+    "08ca66be-02c1-4f5b-89f7-2fd8f7f04165": "IfcPropertySet-9bc59dce614ab3948f1ba69203a2db53b74c4931",
+    "09109bd9-dec5-4c9d-b9c6-b0a453e2cfe4": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "0a1f1527-24b6-4b3a-8c44-5fe4268a689e": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "0abd2bf4-63ae-456b-b7f1-5e6e28237f8e": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "0c36515c-ca26-4cda-8733-88d2957c30eb": "IfcRelDefinesByProperties-033db1069561772046a2ab0d1b1fa89e69493d6f",
+    "0c88ab75-a0bb-4c49-9f21-7b132c6ff123": "IfcPropertySet-478de81d6d61f25a98dfbac9ff234fd428489e2c",
+    "0ca2feba-8542-432a-a35d-53121f4bbc81": "IfcRelDefinesByType-521b74f450a7f4f20b2a7c9d13d4945912eb02e0",
+    "0ca31144-4084-426c-8071-a21758962cda": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "0ccaf3f0-6ccd-40cd-ba6c-21bc3ff6b043": "IfcPropertySet-8b017f79f8b0f1efebc12464ea3b889d75b34545",
+    "0ccc2b28-32ac-4c21-929d-796920792631": "IfcPropertySet-b3665f54898a61ca1c03b029392c24410223c13f",
+    "0ce814c1-83cf-42df-9e37-ad241ca2edd0": "IfcPropertySet-9bc59dce614ab3948f1ba69203a2db53b74c4931",
+    "0d825c57-1e53-41bb-a784-3646e17d3036": "IfcShapeRepresentation-25601fba8d53e010d1e16195c6a213c64e924c08",
+    "0dd5bb45-d8ba-4940-a211-eaecb2a82dec": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "0f03696f-671f-4682-9f5d-c0befb95a3f0": "IfcRelAssociatesMaterial-b7bf3a12248cc37b0d223c261b3a5a01062c3ff5",
+    "0f183ea5-0225-409f-a309-9a656d9a0de5": "IfcRelDefinesByProperties-c37ba190593fc8446126f36dc54eae79ea299f07",
+    "10047aea-d9bf-4bb2-90dd-e72d3ed99677": "IfcRelAssociatesMaterial-e93193078b9df790e5d57ef612d0f2ad082d7d74",
+    "105972e0-af73-4038-8ced-43532902a6f4": "IfcRelDefinesByProperties-37da103cea006ce89aa9f12a85052a95e370a2f0",
+    "114cdaa2-df68-4d14-85bb-47acd64393d9": "IfcRelDefinesByProperties-16276ec5ee90a1d91423b5a0ea454eb8bca3b601",
+    "12239ed8-23b2-411a-808b-87b2380b39bc": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "123bb544-feb9-4195-865a-068deb484a27": "IfcPropertySet-9bc59dce614ab3948f1ba69203a2db53b74c4931",
+    "1248fae1-daa0-4b6f-8e42-8db14e0495cb": "IfcRelDefinesByProperties-0619fa301bb916333b8ee5c1087d30bc4f175f40",
+    "12af2133-4e8e-4056-99eb-e3d2a9c60886": "IfcPropertySet-0a03d7c7773fc4505705ba2dbe2f5f39fcfd13af",
+    "14046486-8498-49bc-8d9d-92c9f4e44e76": "IfcRelDefinesByType-a36180065d8cd5fa0267ce20f5574c8400f2c039",
+    "147a7436-3f4e-48a6-b4b7-f58a89ce4d5a": "IfcPropertySet-9bc59dce614ab3948f1ba69203a2db53b74c4931",
+    "158732ff-ade4-4b43-abf8-55ab81c8faf3": "IfcRelDefinesByProperties-485e3e56f66355281839ff575ccfdf81428949f2",
+    "15882dfd-5371-4a76-a0db-b2f28d9962c9": "IfcRelDefinesByProperties-5f351128ef7cb8a2aa124693694b9cb9610bdd6c",
+    "169cdde3-7b3d-4ea4-8855-036b7e373360": "IfcPropertySet-7a45d3124bc156b22ed92a06ab95bd36aa92fdd9",
+    "17560bc7-92f5-4d0b-b12c-e0ff5baf203b": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "1783e6dc-88a8-4d87-ac7d-a78cdea22f2f": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "17924ed7-2c7a-4d31-a578-56e1e399b0a7": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "17b06bb0-62fd-47ed-940f-364a52065386": "IfcPropertySet-4b7c3f6a04a48f10c56348e0c96592127a4dd496",
+    "17ba7374-8003-4af3-a416-a19397143eec": "IfcRelConnectsPathElements-40be12b9ae1a09ef1f2c6e6f55a20e757eaa8335",
+    "18e65d1e-2e34-431d-919e-bad79ba657f4": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "191db005-db0d-43ef-bed5-38439a15221e": "IfcPropertySet-0a03d7c7773fc4505705ba2dbe2f5f39fcfd13af",
+    "1b2d4c3f-4084-4e16-bf67-cdc7a2474527": "IfcShapeRepresentation-1fdcb45e72ec260d75a5ae5765598ee8b83c0bf3",
+    "1b734eb9-a2fa-4216-8471-43ce9c8db9d7": "IfcPropertySet-91b22f090fe3080057fb77ed95c799db88c27668",
+    "1bcae1ae-469a-4429-bb67-6f5582fab9ce": "IfcRelDefinesByProperties-ab6b67031781b65fec15f27395a73a1516d3482c",
+    "1c9b5b35-499f-460a-9ddc-5ac2782f0214": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "1d4d14f9-a342-473a-ac5f-923e00c13388": "Rvt-IfcSlabType-321398#4",
+    "1d967f8b-dc6e-4985-879b-f7392ce7c8a7": "Rvt-IfcSlabType-321367#10",
+    "1ded61f4-581e-4a50-8d0a-37a8134b31f1": "IfcRelDefinesByProperties-07063e52fea035dea6ed35bf8e12c5c110218558",
+    "1e448981-c8d3-4c54-baac-4390969fd970": "IfcRelDefinesByProperties-8c6bcaad45474cf2c1bfb4638cf00944dbfffc1a",
+    "1f01c39f-00b1-4bcf-a92c-d2afe5388329": "IfcRelDefinesByProperties-f9eeb1872ea6a8238b187f99161543eea9acede9",
+    "1f5961c4-ae13-4e44-a278-a28062396f11": "IfcRelAssociatesMaterial-62c53d51fd974990cde78323ac0c9027793b9989",
+    "1f6f81a6-a22a-4d2b-9aa4-e22c54224c6a": "IfcShapeRepresentation-675d3a7f0adf6ba72a38c5495546a6b491a7bdec",
+    "200c7784-666a-49b6-bbc2-2e4e27655231": "IfcShapeRepresentation-70a3a99bedbc3a742336159f7a7e4757d9685c09",
+    "20ce78c7-0a34-4708-978c-871ca960c8fa": "IfcRelDefinesByProperties-465cf673e8c787eb5c4444b0574e82fd1c50b564",
+    "20dd506b-c894-442c-8b05-7d226b6d1448": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "218fc713-ba47-4209-acf8-28df8dc21c19": "IfcPropertySet-6463464cbb45070da178e105abf53b39867ea8ed",
+    "21b8d58a-89a8-43b1-99aa-36c86fb7a7b9": "IfcRelDefinesByProperties-7dc13939717009dc77d55cc6c66760661e7580ad",
+    "21fd059d-c72d-41ba-80c6-0880ab264d1e": "IfcPropertySet-8b017f79f8b0f1efebc12464ea3b889d75b34545",
+    "2270d6ae-9025-43dc-8cc5-7bfac8e72d0a": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "22a722be-3887-43c9-9cc5-5affad689b9b": "IfcRelDefinesByProperties-40a6e6e7c54a6bc7b214c89a61b024a897616482",
+    "22ef7beb-2ad5-422c-bd39-740a9daf690d": "IfcRelDefinesByProperties-a25e29f33a2b68a59566d92b0636a24a877d5248",
+    "232e389e-858c-4eb2-b625-018b25548469": "IfcPropertySet-51a3c6cbed60485f84c8ba27055fb6b69eaaf8d0",
+    "23da68e0-0109-450c-b5ea-5c67ad0e909b": "IfcPropertySet-6463464cbb45070da178e105abf53b39867ea8ed",
+    "23dc0bb8-df8f-437c-8b35-8f240f320e7c": "IfcPropertySet-b3665f54898a61ca1c03b029392c24410223c13f",
+    "24a3a6ce-4fb2-4376-83b9-f9a7b1949831": "IfcRelAssociatesMaterial-b6a6069146d7670fbe24a91067b24c8bb209b415",
+    "263bdaee-06fa-4578-af66-c43ed54627c0": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "2647ac4f-7ba0-4dac-b297-394620baa195": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "264931dc-4f9e-4b18-bc04-bc8515cbc19a": "IfcPropertySet-7f1bcb4c3e2090c02bde3c955f578936f83030f1",
+    "26d80f2e-3273-4a9f-aa3c-c788b8226d92": "IfcRelDefinesByType-e9389e288a91c505d72a49e083204ad141ae8064",
+    "27a20bf9-677b-46c9-a11f-20c5fb381ecd": "IfcPropertySet-67bbd34fd5dd6f60c08299a922c5f7ddc671f137",
+    "27defffa-445c-4b59-bc6a-53080e8644d6": "IfcRelDefinesByProperties-fdf0c5c9ed1132ab5ed0e60902f5cdcebe8460c5",
+    "29766876-b832-4f81-921f-77f6fffa678c": "IfcShapeRepresentation-193c82cca679179d05a9669abaf6ed2d6e53a149",
+    "299d2bb6-28db-4395-be6c-288f7a23eee1": "IfcRelDefinesByProperties-22b52541ec69e73d7b51904270e1c3ed91545cda",
+    "29e60985-cb6b-472b-9bff-516a8e665e41": "Rvt-IfcSlab-324316#4",
+    "29e60985-cb6b-472b-9bff-516b8e665e41": "Rvt-IfcSlab-324316#3",
+    "29e60985-cb6b-472b-9bff-516c8e665e41": "Rvt-IfcSlab-324316#2",
+    "29e60985-cb6b-472b-9bff-516d8e665d99": "IfcDoorPanelProperties#1",
+    "29e60985-cb6b-472b-9bff-516d8e665e41": "Rvt-IfcSlab-324316",
+    "29e60985-cb6b-472b-9bff-516e8e665d03": "IfcWindowLiningProperties-6420868ecc2687e0969c30838e0fb1b46573b430",
+    "29e60985-cb6b-472b-9bff-516e8e665d6e": "IfcWindowLiningProperties-64ece5b7bd793170c44aff44fd2794700bfd999d",
+    "29e60985-cb6b-472b-9bff-516e8e665d99": "IfcDoorLiningProperties#1",
+    "29e60985-cb6b-472b-9bff-516e8e665dfa": "IfcWindowLiningProperties-11ff815513cbb3783c611152dc1d6b6c90da3886",
+    "29e60985-cb6b-472b-9bff-516f8e664036": "Rvt-IfcColumn-322731",
+    "29e60985-cb6b-472b-9bff-516f8e6640a0": "Rvt-IfcColumn-322621",
+    "29e60985-cb6b-472b-9bff-516f8e6641d8": "Rvt-IfcColumn-322885",
+    "29e60985-cb6b-472b-9bff-516f8e66429e": "Rvt-IfcColumn-323075",
+    "29e60985-cb6b-472b-9bff-516f8e664348": "Rvt-IfcWallStandardCase-323541",
+    "29e60985-cb6b-472b-9bff-516f8e6643a1": "Rvt-IfcWallStandardCase-323388",
+    "29e60985-cb6b-472b-9bff-516f8e665c4b": "Rvt-IfcWallStandardCase-323798",
+    "29e60985-cb6b-472b-9bff-516f8e665c76": "Rvt-IfcSlab-323819",
+    "29e60985-cb6b-472b-9bff-516f8e665cab": "Rvt-IfcWallStandardCase-323638",
+    "29e60985-cb6b-472b-9bff-516f8e665d03": "Rvt-IfcWindow-323998",
+    "29e60985-cb6b-472b-9bff-516f8e665d6e": "Rvt-IfcWindow-324083",
+    "29e60985-cb6b-472b-9bff-516f8e665d99": "Rvt-IfcDoor-323844",
+    "29e60985-cb6b-472b-9bff-516f8e665dfa": "Rvt-IfcWindow-323943",
+    "29e60985-cb6b-472b-9bff-516f8e665e0d": "Rvt-IfcWindow-324240",
+    "29e60985-cb6b-472b-9bff-516f8e665e21": "Rvt-IfcSlab-324284",
+    "29e60985-cb6b-472b-9bff-516f8e665e22": "Rvt-IfcSlab-324287",
+    "29e60985-cb6b-472b-9bff-516f8e665e23": "Rvt-IfcSlab-324286",
+    "29e60985-cb6b-472b-9bff-516f8e665e41": "IfcRoof#1",
+    "29e60985-cb6b-472b-9bff-516f8e665e5c": "Rvt-IfcSlab-324289",
+    "29e60985-cb6b-472b-9bff-516f8e665e5d": "Rvt-IfcSlab-324288",
+    "29e60985-cb6b-472b-9bff-516f8e665ed7": "Rvt-IfcWindow-324170",
+    "29e60985-cb6b-472b-9bff-517a8e665d09": "Rvt-IfcWindowStyle-323988",
+    "29e60985-cb6b-472b-9bff-517a8e665d32": "Rvt-IfcWindowStyle-324015",
+    "29e60985-cb6b-472b-9bff-517a8e665da8": "IfcDoorStyle#1",
+    "29e60985-cb6b-472b-9bff-517a8e665edd": "Rvt-IfcWindowStyle-324160",
+    "29e60985-cb6b-472b-9bff-517b8e665d03": "IfcRelVoidsElement-ddb110549e95dcab88aa92e5a2edb5df5ef89087",
+    "29e60985-cb6b-472b-9bff-517b8e665d6e": "IfcRelVoidsElement-75f9a7d86fe0d58f59fff27a5cef8fc712c40314",
+    "29e60985-cb6b-472b-9bff-517b8e665d99": "IfcRelVoidsElement-32989985b20fc7fb42e51fbf169bd9f7fa23f53b",
+    "29e60985-cb6b-472b-9bff-517b8e665dfa": "IfcRelVoidsElement-32989985b20fc7fb42e51fbf169bd9f7fa23f53b",
+    "29e60985-cb6b-472b-9bff-517b8e665e0d": "IfcRelVoidsElement-d124b7ebd235b09993c10b75cf4824768d079101",
+    "29e60985-cb6b-472b-9bff-517b8e665ed7": "IfcRelVoidsElement-75f9a7d86fe0d58f59fff27a5cef8fc712c40314",
+    "29e60985-cb6b-472b-9bff-517c8e665d03": "Rvt-IfcOpeningElement-323998",
+    "29e60985-cb6b-472b-9bff-517c8e665d6e": "Rvt-IfcOpeningElement-324083",
+    "29e60985-cb6b-472b-9bff-517c8e665d99": "Rvt-IfcOpeningElement-323844",
+    "29e60985-cb6b-472b-9bff-517c8e665dfa": "Rvt-IfcOpeningElement-323943",
+    "29e60985-cb6b-472b-9bff-517c8e665e0d": "Rvt-IfcOpeningElement-324240",
+    "29e60985-cb6b-472b-9bff-517c8e665ed7": "Rvt-IfcOpeningElement-324170",
+    "29e60985-cb6b-472b-9bff-5a918e665d03": "IfcPropertySet-23152584ac499f7bebfdc009b0246814dc64892d",
+    "29e60985-cb6b-472b-9bff-5a918e665d6e": "IfcPropertySet-8e85d0eeb1f60b3eaaf90d2b34cc67cae77ecb30",
+    "29e60985-cb6b-472b-9bff-5a918e665dfa": "IfcPropertySet-71744a59503878ad0b3e1958dbe0e9bc04fbda7b",
+    "29e60985-cb6b-472b-9bff-5a918e665e0d": "IfcPropertySet-39c07db9772259727d1f6d6a9f711ead3a37b903",
+    "29e60985-cb6b-472b-9bff-5a918e665ed7": "IfcPropertySet-39c07db9772259727d1f6d6a9f711ead3a37b903",
+    "29e60985-cb6b-472b-9bff-5a928e664348": "IfcPropertySet-95fa755aa269981dbdff4eb60d8ec3cc83aa2b0e",
+    "29e60985-cb6b-472b-9bff-5a928e6643a1": "IfcPropertySet-95fa755aa269981dbdff4eb60d8ec3cc83aa2b0e",
+    "29e60985-cb6b-472b-9bff-5a928e665c4b": "IfcPropertySet-95fa755aa269981dbdff4eb60d8ec3cc83aa2b0e",
+    "29e60985-cb6b-472b-9bff-5a928e665cab": "IfcPropertySet-95fa755aa269981dbdff4eb60d8ec3cc83aa2b0e",
+    "29e60985-cb6b-472b-9bff-5a948e665c76": "IfcPropertySet-9719aa9375d101b157231cc956e2819792d2dc18",
+    "29e60985-cb6b-472b-9bff-5a948e665e21": "IfcPropertySet-45bbd998906c4699e92c01884920631823d1a644",
+    "29e60985-cb6b-472b-9bff-5a948e665e22": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "29e60985-cb6b-472b-9bff-5a948e665e23": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "29e60985-cb6b-472b-9bff-5a948e665e41": "IfcPropertySet-10305bf60f2322f7e6132a1d17d9ffeff6ad1174",
+    "29e60985-cb6b-472b-9bff-5a948e665e5c": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "29e60985-cb6b-472b-9bff-5a948e665e5d": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "29e60985-cb6b-472b-9bff-5a968e665e41": "IfcPropertySet-67408291f1eb998257e1cc35c6b6c13a7c76a4ff",
+    "29e60985-cb6b-472b-9bff-5a9f8e665d99": "IfcPropertySet-3f18797e2986e43bf33e2e640f0bf808307b3696",
+    "29f98994-ca77-4b49-b1fc-6abb43e28577": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "2ae39796-a2d6-41cd-bc57-9a378607da96": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "2bfd6093-c753-4e07-a618-5d4f4434024b": "IfcRelDefinesByProperties-3e4843b8b43cfdb60708fa8b698e064610c64b73",
+    "2cc86cf6-8a90-4625-8009-1aa7794ebff7": "IfcRelDefinesByProperties-8691fcdb3565ccfdb1022681273943f6c1f5a832",
+    "2d1a0b93-2e8c-41c3-a905-18348b7f993f": "IfcRelDefinesByProperties-4d2c930c84cccb8a4632a47cff31e2ff3cca812f",
+    "2d9d4a07-a250-4e07-bd9a-1732943418b6": "IfcRelDefinesByProperties-aa8551d1ea87fe9bd0dbf7869e48462ca22c39da",
+    "2e14a56b-680e-4cb3-9481-262e531171c1": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "2e2805ed-23c3-4d52-8a2f-e14c7a95194c": "IfcShapeRepresentation-23c64de74255426e66b25851885453facf867bed",
+    "2e81bb43-0972-46b4-845e-1ae43f41e40b": "IfcRelDefinesByProperties-a83421b4fefb41932959043900d2215ac817e4e6",
+    "2eff826a-3a3e-4b1f-8649-258e4da1ff44": "IfcPropertySet-e530231558a2ccdf2835c1bc022a23ec94c4226c",
+    "2f857487-1683-44c4-9148-122cc1bf1e6f": "IfcPropertySet-e530231558a2ccdf2835c1bc022a23ec94c4226c",
+    "2fa35ac4-a6a9-4fc7-b552-ecd9e9530217": "IfcShapeRepresentation-dd7baa746ababe661a6d52ae872a7879cd7d6865",
+    "305933cd-bf27-4c4c-aa8d-f436802ab37b": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "30908b57-8df2-4ac7-a962-92e2400422a0": "IfcWallType#1",
+    "30908b57-8df2-4ac7-a962-991f400422a0": "IfcPropertySet-40ff69837fe5314ce21231350fa5e45c7edfc105",
+    "317a88d4-bd73-4559-b223-f68a2ca83dfc": "IfcRelDefinesByProperties-77578e7b27ee99f90f0d3a5edaa0b8a2d67e06c1",
+    "33394e2d-8b5c-49b5-92a6-28931e4b2b61": "IfcRelDefinesByProperties-31cbfba79a0d643c78d662c26934a321c3c38a54",
+    "333c594e-42bc-42d6-b0f4-96b59f37d308": "IfcShapeRepresentation-8671afb2abb6f67d2d7592b522123884c8c08137",
+    "338f214f-c600-45fa-8588-b8d62db28dd7": "IfcRelAssociatesMaterial-30bcbd22798f7cee8a1a4a4dd525b7a2806435a4",
+    "344a1b82-00af-4d9f-a209-92ddf13f9562": "IfcRelDefinesByProperties-024e6b86b67f1c321975f177c508a60c6ec14a2c",
+    "348edd6d-b30b-4624-b41b-82b5da426f78": "IfcShapeRepresentation-3a9773948b0efb6b87d9ea99f7dc0365ddb7c461",
+    "3548d66c-873d-4d25-ae37-894be6af8df1": "IfcRelDefinesByProperties-9e1d1ea6678a3dea71bde169ca30f43640f3cc4c",
+    "35a15b57-572d-4d2c-8b64-56f0d9ffceff": "IfcRelDefinesByProperties-f24a0dc002ca156743edd01778d1131341922a16",
+    "3688006a-5881-414a-9f55-37992741db7e": "IfcRelDefinesByType-7bc6d7ad2333c8d76584718b49e334e5fd056b39",
+    "368a8a5b-a36e-4eb3-ae23-49fd20911820": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "3699f9e8-1826-484f-8c01-45905ca8d5ff": "IfcRelDefinesByType-11cc7723411a05e7ea674ca78658a8c1a0f3f097",
+    "36e36196-7a8d-4c9b-8061-4b37d7e30b24": "IfcRelDefinesByProperties-82c6b51ceb7f62320f7618c860b9598d822a4b69",
+    "37e19cdc-085a-49ca-ae7b-d77799444557": "IfcRelDefinesByType-63291f628b33ede2d3d92888a1b592a735f7db23",
+    "38c70755-7f5c-4cfc-be8e-2d1ca1cddfb5": "IfcShapeRepresentation-83a8293ba6a112f0d25f890516845a16cb5349c6",
+    "39c2578b-aad6-4ba8-befb-7ee8d5149743": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "39ddaa74-2493-4578-bde4-d1abbd0611d3": "IfcPropertySet-6779af7cee2bca9a050026f4341c25138b575f16",
+    "39f96ada-3a6b-4ba9-bb1b-d18ae17ea5c8": "IfcRelDefinesByProperties-62ac306192aa5c743efed61d7b8993cdb37ee799",
+    "3a000a23-e556-438f-8982-51105d684d31": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "3c3360c5-d498-4d3d-84a4-180825739f68": "IfcRelDefinesByProperties-62906eed1f880faca1592ede83fe4f8862e6e463",
+    "3cd930c5-bcd0-413f-b14a-bae0062c36a4": "IfcRelDefinesByType-b332bf009c75de375daae03600e6f330ba4aac68",
+    "3cf68dbe-a13f-46a0-b8cb-6f4f1c7ebfae": "IfcRelDefinesByProperties-31ce74f6ad935aa812fe44205482c064059d65e6",
+    "3dc5b215-53d4-4f43-a230-8eb46f21ea54": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "3de5253d-5d9e-462d-b331-95b22e8d836a": "IfcPropertySet-6779af7cee2bca9a050026f4341c25138b575f16",
+    "3ea33c50-a445-41f0-a306-c4d7d453522b": "IfcRelAggregates-1e06ee18265ffd10fc345094b7156c3ba2458431",
+    "3ede48d0-50ae-41bb-bef7-17f194729c5d": "Rvt-IfcSlabType-321367#4",
+    "3eec7e4f-cc5e-439c-b2f2-474995024b03": "IfcRelDefinesByProperties-c4ad67fc81bdd5da8440db2f07ffc1e770c36b3c",
+    "41314676-81db-43e6-85b8-4a17e35f8cfe": "IfcPropertySet-8b017f79f8b0f1efebc12464ea3b889d75b34545",
+    "41bbda91-b25b-4dfd-8474-1420aba93f4e": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "421756f4-95ee-46dc-aaab-2d57c49c3acf": "IfcShapeRepresentation-e995bc243c3527d3a42821ae9ad7b67a8ae64c15",
+    "42859684-ca54-44e1-a498-e95813e5da6a": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "439a846d-ec75-449d-af5a-b07a408e890d": "IfcPropertySet-0a03d7c7773fc4505705ba2dbe2f5f39fcfd13af",
+    "43e9e224-8336-4f1f-b72b-b0db06fe6745": "IfcRelDefinesByProperties-c758e961c2597153509a731bcea05402bea8202c",
+    "43ec4b97-aadf-4fbc-965d-2aae126c0662": "IfcPropertySet-058dd957556d6d8024f7cd43c1801d0eb1ecb11a",
+    "4457da25-3e43-4d77-86eb-4140acb76219": "Rvt-IfcSlabType-321367#3",
+    "44642dc3-413c-4a38-b9ec-753548ece08b": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "458c0e49-01bb-11d5-9302-0001863f251b": "IfcRelContainedInSpatialStructure-1b1d3831f5dbe3bd45de7277a6bddd9ba5e42288",
+    "458c0e49-01bb-11d5-9302-0bec863f251b": "IfcPropertySet-b6459042aae56d7775bb337a85d0f37bb2914390",
+    "45bc412b-17b5-4135-8824-981188ad1aaa": "IfcRelAssociatesMaterial-7d4fdadeaa993f3f196286126813fb74f3cd5684",
+    "47015695-e4a5-4ad6-a8fa-bceaf1184098": "IfcRelDefinesByProperties-0690c354f85158fb489eb8036439d60568731bd9",
+    "4734fd82-29ab-4ffe-b859-f0842e069adc": "IfcRelDefinesByProperties-c33ebf381b50f3c314a783026977ff0e744fc934",
+    "47df2290-9b3d-4bc9-8482-6c3c37a85d5b": "IfcRelDefinesByProperties-6c942697c8e6293c2ba4ca218879d97702746367",
+    "47fdb1cb-f2f4-4aee-a6f0-ba70de28f2dd": "IfcRelDefinesByProperties-fdf4d4e295b4d26321701957d040e832bc1cee22",
+    "487e563d-9056-4025-898c-089a0819016e": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "48e937ed-fa85-4c6a-afb2-a4983404c33f": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "4a36b6f3-4e95-4e76-b33f-278917cc1667": "Rvt-IfcSlabType-321367#12",
+    "4a840d29-7d8a-4d3b-bcb8-5b9490091335": "IfcGeometricRepresentationContext#1",
+    "4abfab36-76fb-4bab-9bca-e9c399e3246f": "IfcShapeRepresentation-bba85ef11083485ecaa7d9ebcb904a71e488bde4",
+    "4bb7e63b-d72a-448b-9405-95646916d8dc": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "4bc2eded-c0a2-4079-8165-4cb70a1d194a": "IfcPropertySet-4b7c3f6a04a48f10c56348e0c96592127a4dd496",
+    "4cae7e1c-5d1e-4729-814e-e017d3a4eb47": "IfcRelDefinesByProperties-c4dc2477da6688943d8f0f5d434ac0f4ebeabd49",
+    "4e6fb4a8-9064-4d07-a0e1-54a0ab720c3b": "Rvt-IfcSlabType-321367#13",
+    "4e931237-189c-4f3a-9f7c-6df05824c30e": "IfcShapeRepresentation-3fc426fc690e7f3a1c1b980d9048913df0b73d24",
+    "4edee9bc-9ecf-4c3c-b0a3-1783ddd4d46d": "IfcRelDefinesByProperties-0ff65729fc82f691169f83d0e0fada8f6c19cd8f",
+    "5096b5ec-fd5c-4097-a1b8-432dd92c009b": "IfcRelDefinesByProperties-f4336a4d8a417955428f162f9b603bcca6fb547a",
+    "50a61ff4-2f12-42ba-884c-4a10e5a72fe6": "IfcShapeRepresentation-dd7baa746ababe661a6d52ae872a7879cd7d6865",
+    "50b6aab9-4065-44f2-98b8-df7f3defab93": "IfcRelDefinesByProperties-ca43f69c246efaafede0cff1c56b843d9df154bf",
+    "50c4b053-7bed-47ef-b757-ec494ab6d61d": "IfcPropertySet-fdda70dca5f4361f9b17665188cff6721579045b",
+    "510f641d-292e-4b48-b96b-7ecead7ea662": "IfcRelDefinesByProperties-fef057bd4a5c1e2a960a1973a2cfb865be6f5ffd",
+    "51322310-77cb-468c-a501-a293ad539bb5": "IfcRelAggregates-32623bbf1e6afee1470a078d60203c471675a486",
+    "5270bbf9-34b4-45f6-904b-c6f25091f08f": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "5276006d-e011-424c-8489-24913c02d945": "IfcRelDefinesByProperties-cde6f5c236dc921f74dc9690b2db5f3c054f222d",
+    "52a238e0-04fa-474d-bed9-8384a177b3b0": "IfcRelDefinesByType-fdd16723b8b714c3538ef8b8e3211103e04e3d36",
+    "52bf911f-747e-4cb9-aa1e-da5c7893fe4b": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "52de4811-91c2-40af-b7b4-e3fc4d88ad2d": "IfcShapeRepresentation-45935bf7acee7d9e6f7e0451886eaef97a694309",
+    "53bbd95f-ba59-4c0a-9f78-124e40f3cba1": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "54284ac6-30cb-45c8-b4d2-b6d7fda4c9b2": "IfcShapeRepresentation-d2f0348db3f8ba2539a11f59d0e0757a17a612f8",
+    "5486a9f7-421c-42e9-8884-619bea94cba5": "IfcPropertySet-058dd957556d6d8024f7cd43c1801d0eb1ecb11a",
+    "549b951f-dad7-4007-824f-e25ec980cfe6": "Rvt-IfcSlabType-321367#11",
+    "54fc5a4c-1308-4304-ae4f-86283b66def7": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "55692b48-a4dd-42bb-80f9-c18907139f46": "IfcPropertySet-058dd957556d6d8024f7cd43c1801d0eb1ecb11a",
+    "55780c20-4106-4873-ae7b-a00c08bd9755": "IfcRelDefinesByProperties-36033e72bb0015c8a79361b17283eb48a3990e8c",
+    "559a6d54-1487-44da-96ba-09401c29a9a5": "IfcPropertySet-c699227a09f357d042eea57fd13158c767c0f127",
+    "563f472c-f2ac-4350-961e-dc3905621ee7": "IfcShapeRepresentation-b87aaeb422b0f0e73fea3e57b26545aca03e9af1",
+    "574f3b96-9bfc-4ae0-95b5-a61302869e06": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "57f5690c-be8f-440f-9638-b3df1e139ade": "IfcRelDefinesByProperties-5a66e894c555f831e8c5a580384d00393fdfcafd",
+    "59dccc1a-7b9f-4916-93e0-8a6261e0e4b3": "IfcPropertySet-9bc59dce614ab3948f1ba69203a2db53b74c4931",
+    "5a3999d9-7b0d-465c-810e-fc9443dbc600": "IfcPropertySet-51a3c6cbed60485f84c8ba27055fb6b69eaaf8d0",
+    "5a47ea59-acc9-4339-b3a5-2257842946cc": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "5bae254a-30d1-4979-abae-27a362ff9d42": "IfcRelDefinesByType-90f57e8b0aab6be87b9849b8e1e35c50ca884ed2",
+    "5bbf9bf6-d27d-4123-ab86-3d272b040b6c": "IfcRelDefinesByType-1b929b98d14e065ea15c786811cea4820ee34a05",
+    "5bdf073c-f408-4f19-bb4e-5854f6f3115c": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "5c418c86-997b-4053-bb83-5abd2ca5d064": "Rvt-IfcSlabType-321367#8",
+    "5c471f07-f295-4e8c-b2bf-c19a62055788": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "5ca4c482-0070-4b8b-b275-8c74709ce768": "Rvt-IfcSlabType-321367#5",
+    "5d2ff410-9f96-4c8a-ba9c-5b039e0756d7": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "5d50367c-738c-4df0-bf87-8afe53027808": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "5dedd47a-bfbe-4622-b0c2-93abe81cbc70": "IfcRelDefinesByProperties-e0918bb6246cadeae9000deaee63d8ed2b482e8f",
+    "5e1264ab-a974-4e86-a20f-b1344941f552": "IfcRelDefinesByProperties-dea0d1b6d94a391826887637ffcb37664c8d3c2b",
+    "5e5ad4ae-1b10-4ead-94c2-d06d01bbc3d1": "Rvt-IfcSlabType-321398#3",
+    "5ec9dd8f-26c6-46f6-b25a-85c4bd6dcac0": "IfcRelDefinesByProperties-51f9aa2a8966020a6de89354e8fa8fbfa0a1e506",
+    "5f7d94f1-ae43-4d9e-a4fa-56085821d7aa": "IfcRelDefinesByType-bbcfa939c56f72bfc1e2e574579200847db868c9",
+    "604e7dae-f886-4069-819f-7f8220b20209": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "60558a8c-9447-43bf-a8cd-01addfb60f64": "IfcRelDefinesByType-b3c35688365415c4be7fd12e137fe3a2e9dbe7a1",
+    "6074d47e-19ff-4e3e-8db3-5ac0b3667f6d": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "62b1b080-9a30-4325-987b-48c6ba7491fd": "IfcRelDefinesByProperties-24a8a9441010c5ad147ae6b8cca9bae53bc6d35f",
+    "62ceadc3-61f4-4094-be7a-534b2d847c19": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "6341c7d1-48e1-4c75-aa18-c56a79929dbc": "IfcRelDefinesByType-851b21d82248602f8e0e91db81538337676573e8",
+    "641b58ec-5107-40ba-8390-dd526923c2ba": "IfcRelDefinesByProperties-de04e80a7ffeb98879221e433a0743b91d1fc9ec",
+    "644559ae-c2cd-43cf-ac4a-033efe852182": "IfcRelDefinesByProperties-3014afb606cf690248235af0506c3d059bbac328",
+    "64527aca-4c3f-4700-a151-b0fff8979e69": "Rvt-IfcSlabType-217696#2",
+    "647f1939-e114-46a4-86b9-463b15c67f0f": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "64a42f02-08b4-4650-b887-a3e03b21b0b4": "IfcShapeRepresentation-783de8af408a03574c704c752ffa62b4ab3fd0e6",
+    "64ba8e54-e6d7-40a2-926f-a47758e9b4b7": "IfcRelDefinesByProperties-285ce0c691e1a3c2c529d85b75f1654fb2276343",
+    "6571056f-1ea0-46a4-9d59-1e85e01eae33": "IfcPropertySet-8b017f79f8b0f1efebc12464ea3b889d75b34545",
+    "6599bc9d-8a36-46e0-87f1-43976ccc5043": "IfcPropertySet-51a3c6cbed60485f84c8ba27055fb6b69eaaf8d0",
+    "664f4ce1-62d7-44af-96bc-d7fad4f478e8": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "6680da0a-faa0-4844-8b01-9bb4b45e98f6": "IfcRelDefinesByProperties-de3dbe4e6e430014699d9baae8fed59c4812a04e",
+    "66eb98cf-ec77-47da-a069-94f2e3a8c545": "IfcRelDefinesByProperties-d77571feddaf9e61e898203c3ac020e1004e83b8",
+    "67773f6b-276c-47f6-b3d5-78ed7b15ab32": "IfcShapeRepresentation-c3cd8e02da282505f5e765463ad6a7efa88562f0",
+    "67aaebbb-059b-4e03-989a-2eabf4146045": "IfcRelAssociatesClassification-c4ec0a16510b95e4b05049b1757e6f7bcd395ce2",
+    "67f209c7-dc5f-4207-80e0-144eeb03ce6d": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "680bb2d2-957b-4567-bec6-17190dee1840": "IfcRelDefinesByProperties-3bdfb674b12c70ff953199d2f121275b6284d607",
+    "6832f85e-782f-4010-b265-1a49b48f0ab1": "IfcPropertySet-9e680614a7876479b307543abe3ea5837d2548cb",
+    "68fa6812-878c-4ea2-a377-6011955c2c84": "IfcGrid-2a0c59fca01e61c600e221330ef424ce2901b975",
+    "69425df6-2bf0-4fa3-8134-77764a81287c": "IfcRelDefinesByProperties-80e97702f23fa2958a064c9de46895472aae9344",
+    "699baaca-5767-427e-b993-10eba751ef14": "IfcShapeRepresentation-8b02403d90998622e122588de745ee5381b4a2eb",
+    "6a0616e4-8f6f-4e8b-a862-c93d4443a87f": "IfcRelDefinesByProperties-c4faf5a2c2c7daf6a6d5253a1cffc93e19a4c684",
+    "6a1fa38d-55e8-48dc-9668-f7af216bad23": "IfcRelAssociatesMaterial-5e6ef46ff212c9dca1fdd81f35b5eabd524e413f",
+    "6a21c3e1-f9c5-484b-845a-cf6d766a3746": "IfcRelDefinesByProperties-d5b174a2bfb03be10c1ee1acdc774a95c14245ef",
+    "6a9c3fa4-2f99-4452-ae52-302d3d27bc17": "IfcPropertySet-8b017f79f8b0f1efebc12464ea3b889d75b34545",
+    "6ae0ac81-b777-4e55-8610-3f551b177fd7": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "6b2402df-efd4-4713-8f50-7f1fa10731b7": "IfcRelDefinesByProperties-97a0891088151bf73682e5deae4633b2944a4a98",
+    "6b90232f-5c45-4619-9d05-5f9d8e37cafc": "IfcRelDefinesByProperties-b49558fa14162abf1bb56bfef68a7569c9081ccf",
+    "6c4c5a1e-a051-47b9-b462-2ab655b03266": "IfcColumnType#1",
+    "6cc73b27-c78c-4211-bfea-34eeca11a266": "Rvt-IfcSlabType-321367#9",
+    "6ccc9bb1-e6c6-4a30-b7b7-5bd389ba66c5": "IfcShapeRepresentation-d591cb50b4a4e82114a13db0c33411242ece175d",
+    "6d2712b7-4853-4771-9a3e-3243d01333c1": "IfcShapeRepresentation-6755dbfc92ac997c9ae5ff51ed987e4df9784e63",
+    "6d83b4c3-d836-435c-a8d4-7e5dc23061f6": "IfcRelDefinesByProperties-f5662d0447a72fd0ab2dce2ad65ff1e80e45554f",
+    "6dd2933f-dd68-4ea2-b95e-c15bd7eabe63": "IfcPropertySet-691dedfdcad34e456dc2bbbe0968893144a9f806",
+    "6dffd749-c5db-4387-a63b-8c90d5374447": "IfcGeometricRepresentationSubContext-Body#1",
+    "6e4298ec-eed2-4b81-ac4f-6c174fc3e7df": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "6f876bc9-ce23-4698-b1f3-bf27cc278d91": "IfcRelDefinesByProperties-dcb08ad7df29a241bcc0a4b634af42b3ff0743f8",
+    "70b2c451-b90a-4800-9eb7-bd80bfbc9e17": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "722f96b4-2ad5-4979-b08e-0ff5f7e06322": "IfcRelDefinesByProperties-1a8212b36ca3969b17ab45a6585734a0d33d8b32",
+    "72ac6bc1-4f6c-4290-9b1a-64dd02b08fba": "IfcPropertySet-0c426eb4ecf9e0dea91150453c6187f881f13566",
+    "73ab7d4f-04b5-444c-a55e-2201ead19d27": "IfcRelDefinesByProperties-847e801e1c20659dbf63df99a24cd5c9947c39c1",
+    "74395d3e-a0e3-457a-9675-cfd448339645": "IfcRelDefinesByProperties-c157f6de44c4297bdcb23230c0f0fd7a4134ad13",
+    "74a4cdac-32d9-46ed-a070-2e8d91c8e41e": "IfcRelDefinesByType-ffaefb0ab0253294b0add15f183425ec19ca5691",
+    "75fed87b-b0e4-41c8-854a-673ce620ea9e": "IfcRelDefinesByProperties-517f3141c1d564d1da5c50de7b9b4d32c618901b",
+    "779e5465-b554-4865-be15-c605ed88aafb": "IfcRelDefinesByProperties-014cbcaa8959d01cbdd443baa3c41de3728433e1",
+    "790fe5f9-287e-4a53-bdae-1979de7db156": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "795d71c6-78a7-460e-bfff-a46749333813": "Rvt-IfcSlabType-321367#7",
+    "7993a885-00ab-45e7-b0f0-8d2889611125": "IfcRelDefinesByProperties-fd0942d7c6f14c4af10f1a46315a8655fbf9b9a1",
+    "79e346ef-c304-40e6-b7f1-8f15aba575cd": "IfcShapeRepresentation-a05b3d5c6888a78fd30d0090247bc70c616a26ea",
+    "7a0a4f0a-a0d3-4b35-8986-3b76f908594c": "IfcRelDefinesByType-6b15f5d153ca15e9ac5b0cadc33c746d0b3977e8",
+    "7b0d4792-cb95-47ec-815f-a7a631c0fba6": "IfcRelDefinesByProperties-0ec130b6a2825d08af81ad9a04abb1047a7eb491",
+    "7b21bac5-0e73-47f6-b692-fa96367780d9": "IfcRelDefinesByType-c98ca19c1bcce98fe9822566a4bdfafe0a82fcd5",
+    "7b383a7e-90b9-425b-9dba-097606007eeb": "IfcRelDefinesByProperties-755f254d09a1ce808a1df9cfc4a602cf726b52bb",
+    "7b52148c-45db-479c-9e5b-c80aa0add0d3": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "7be7a7d3-16e2-4a0c-a7b3-7812256c93b3": "IfcRelDefinesByProperties-949e64610347913f8a7f85db15999f6a398ede05",
+    "7c39cd01-1241-44a1-afc5-3b43972262bb": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "7cc3a213-14f9-478f-8bab-4ede448e9793": "IfcPropertySet-0a03d7c7773fc4505705ba2dbe2f5f39fcfd13af",
+    "7ce52a40-684f-4d74-94fb-cb383a1fceeb": "IfcRelDefinesByProperties-5ab848bf3f595904f97a34272b93688805db7008",
+    "7cf9fe02-ea40-49e7-9b57-32239afd7819": "IfcPropertySet-10305bf60f2322f7e6132a1d17d9ffeff6ad1174",
+    "7da00058-62fc-4777-9415-4e899b6b728e": "IfcPropertySet-a2af1839688623b54cf698b1a0d44f1087d72436",
+    "7db2aa0a-5c5d-4fb4-8702-171375b1294a": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "7e9c4f4b-ef95-4c18-9581-94cbb56cd9bd": "IfcRelDefinesByProperties-068d7ab7c18d66ada778da603c8d0cf0e5546c72",
+    "7f0712c4-2c43-4eaf-beff-29ccd5339443": "IfcShapeRepresentation-3bc87be16bd977d8a347fdc229a887c3947d0db4",
+    "7f96160f-3ea1-4537-997f-c8d641b04a40": "IfcPropertySet-0a03d7c7773fc4505705ba2dbe2f5f39fcfd13af",
+    "7fbc93c2-6b7e-4c47-9c08-3d20fc0ab7c7": "IfcRelFillsElement-e40c5fe5e0c0b579e4c71ad85a7b6979d7d88911",
+    "803f14df-ed38-490e-8061-accc488c4b9a": "IfcRelDefinesByProperties-41bead1a978fa8b4f99a1dfaf7ad69b948959805",
+    "81177d67-6d9d-4e8d-be8d-71e443afea21": "IfcShapeRepresentation-13972dc2c195f11aeb58433d1d42ce9ed3e580b2",
+    "813e0554-8836-41d4-acee-d264bf1e457e": "IfcRelDefinesByProperties-0a1c0f927aa765b61d2c402b717580be67962a5d",
+    "81bfbb7f-ac6f-483b-9565-80fd00b9a111": "IfcRelAssociatesMaterial-f13572ae23c897a776e4a7abbe1a6228fa96896e",
+    "825ee70c-b2df-4f06-9d3a-cf43ec8bb3b9": "IfcPropertySet-3bfd29bb65f037ecccb0fe9b0ab55d490b626487",
+    "82be23ae-118f-4cb2-85c7-a4bcb01a39cb": "IfcRelDefinesByProperties-073596eb298f0c0a48e3e37e901cfcac4da41875",
+    "82dd1222-0eaf-4508-9e50-482d1226acdb": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "83c8603d-75b8-4ef5-8988-1bf78b5cd72d": "IfcPropertySet-51a3c6cbed60485f84c8ba27055fb6b69eaaf8d0",
+    "848a611e-ec17-4671-ba6e-18d04b1f9405": "IfcRelDefinesByProperties-1d51c26098b4d2dfeefce857a6e221143bfba3a6",
+    "85766236-cc42-4394-a504-3f48e00831b3": "IfcRelDefinesByProperties-a44003b88ab2f02830bac6a9a2a1551b2b1336f1",
+    "85d21d4f-ea3e-4b01-8621-f73eb582dfb9": "IfcPropertySet-3bfd29bb65f037ecccb0fe9b0ab55d490b626487",
+    "8671aece-a439-4616-a3b7-24c49bab2450": "IfcRelDefinesByProperties-cf1ce804acdc46c08c73a9531be5d1541dcc5039",
+    "8686696f-83e6-4487-abe3-ee065063f93d": "IfcRelDefinesByProperties-14b064fc821fe2412cbc73954ca85f768a6a0a2d",
+    "86e6bad5-e7ca-4b97-8792-3b56e932ed8f": "IfcShapeRepresentation-ee17b9d38c9854d5eb83e291b596376cbcc43923",
+    "86faecf9-9cb2-48cc-8149-29e58303e1eb": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "8763cbd0-d28e-4c95-8e73-58f9814f83ca": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "8818cb3a-c048-4928-9e06-ac1977b5e6df": "IfcPropertySet-68a227e7f7c42758389c51c331b6d10eef18d669",
+    "8a5d2e63-2718-4886-8266-51320d8181be": "IfcShapeRepresentation-209e175c7899cb8a395218f713f88dc44d755500",
+    "8a83b7b9-e546-4668-a230-52b47875d587": "IfcRelAssociatesMaterial-cc4e21db7a9631b05b0b767236c1f56582f2d3aa",
+    "8af44369-e54d-4d3f-a715-a91920d948d3": "IfcRelDefinesByProperties-7f61dfdcfe048ae3dd19b28df37f43f33d52b5bb",
+    "8bc39289-302e-4f77-bb19-9dd9dee432ab": "IfcRelDefinesByProperties-defa9ed95ba9a87f9f10948953e8e9d4a300c140",
+    "8bca0736-af46-4400-a344-f9dd0ccd1900": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "8c534944-0aa6-461b-b953-3ab8bfe39c2f": "IfcRelAssociatesMaterial-9ec11f5e4c606a172226384465773b553f997c6f",
+    "8c64b7df-601f-40ad-b23a-9f0fedbb3ae4": "IfcRelDefinesByProperties-a7d673fb8a03de0ca1a0088b08b39e10713c3887",
+    "8ce720e9-a63e-45cf-adcd-1897765c14ce": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "8d06de86-b8e0-48b7-9a3b-145432920a29": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "8d179592-58f5-4a74-a7d1-6e1f081d7745": "IfcPropertySet-4b7c3f6a04a48f10c56348e0c96592127a4dd496",
+    "8e009e2e-35e9-42ac-b26d-216ea83e539c": "IfcPropertySet-058dd957556d6d8024f7cd43c1801d0eb1ecb11a",
+    "8f2c33a9-893f-4d9b-892d-3314f209e565": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "8f34b332-f408-401c-8096-710f1c77baf7": "IfcRelDefinesByProperties-d60819b10552dc8242194b8e3c6458184ebd1c34",
+    "900a7657-c078-4bf9-9eb4-9d6f88a9c176": "IfcRelAssociatesMaterial-6cd3ce7eac06decd461dc39141225646df87e2d7",
+    "90318007-e1b1-42b5-9176-12c9e559e529": "IfcRelDefinesByProperties-1782fb31dc9bea688a29bfab29f1d7629afbd189",
+    "90917463-c8e9-4791-82af-f05b0fcf9765": "IfcRelDefinesByType-b067a152e81a03319f3468aa35157311ba7a6173",
+    "90ae1b12-bf1c-4a2f-a8c9-cdaab7ef4c4d": "IfcPropertySet-68a227e7f7c42758389c51c331b6d10eef18d669",
+    "90ef1bd4-cc2f-4845-abb4-43b9353dbe84": "IfcRelDefinesByProperties-a3e10b1964bec17d22f772ad341e0f1f5d80e5fc",
+    "913639e6-30c1-47cc-8358-9792445ba7b9": "IfcRelDefinesByProperties-5f9971cb165ce93bf8c49e5faff3c7d6c24c9cea",
+    "922b97cb-8374-40a9-a38c-2088a1ba5954": "Rvt-IfcSlabType-321367#14",
+    "9252e317-e0d6-4b8c-babc-ca11d2ef83a6": "IfcRelDefinesByProperties-c67412d0bbd5a20841ed7135c7759335d21e655c",
+    "93618b94-3015-452f-ac2f-ac3fc6fe5f51": "IfcRelDefinesByType-09037f36cc34782efe4928a1058eb844b986dbe3",
+    "93857dde-4684-4711-a6c8-ce95cdfe4394": "IfcRelDefinesByProperties-0abd99b8c649ea12f71563aa9a4161df027dfb21",
+    "9438401b-e8dd-44ab-b8e1-e6af556a13ac": "IfcRelDefinesByProperties-f2387605b651cdf8ddf4d2db0fe50e0ba8f9a257",
+    "945b5915-f983-499f-819e-e31b2aa12ee1": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "949dfec0-e042-42fa-b79c-e0d6a5ea4030": "IfcRelFillsElement-05832d55cc8dc3b7b304243e7fca543e2d3e87d1",
+    "955ef1e3-7e9f-4874-8764-071d7a50fc22": "IfcRelDefinesByProperties-7fe8fe57d1512447ced3c8623994f585d3db9bd4",
+    "956c4e5f-bd9e-4822-9534-1c40808fb5c3": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "958ba9c7-844a-41c8-9af5-3e5f7703ba4b": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "9611e809-38c9-4ad7-a510-d95b50c4be74": "IfcRelDefinesByProperties-c27c9038839c00c76fd41811a35a9e1a605c9d8c",
+    "962ae0d4-89f4-48d2-a070-b8abdf922e93": "IfcRelDefinesByProperties-0538092d2c00a0198268a60d0a9cd69ab6cd7fb8",
+    "967f9842-5d39-412e-8406-ab6319d3f119": "IfcRelDefinesByProperties-9ff0ef76eb5e10128d7b2db6d872e7556caf708a",
+    "96de3526-5d20-4bc5-9517-e2e332e0ce75": "IfcShapeRepresentation-49a51bce0d94891d8c175a37e7f5391c7081219b",
+    "97599234-d28a-4f5f-bb6c-eff834c396da": "Rvt-IfcSlabType-321367#15",
+    "97852bcd-16ac-40ca-a125-57b5438c5bc2": "IfcRelDefinesByProperties-b54fd27482178dda02d6050773ff788383f80fc1",
+    "981c61b3-f38a-4232-8209-8b1a55ef42c5": "IfcPropertySet-e530231558a2ccdf2835c1bc022a23ec94c4226c",
+    "98509388-332e-4d3f-86cc-0e73a9ec06e9": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "9889c19e-3856-45fa-ace7-4e905d0b1278": "IfcShapeRepresentation-6893ffe8af3f6bc3698dc90f8437da3aa065e61b",
+    "9a0fc79b-5c2d-4174-a0af-08c1275aca1e": "IfcPropertySet-231049f917ddf2ea9fd415877d5d3be0a0bf6d2a",
+    "9aaef455-321c-4db1-962e-c4443d6437de": "IfcRelDefinesByType-6b5f51c8b16c3cbadc5543dbb0fedd1cd3ae9037",
+    "9b3d7786-4d53-45bb-8910-b609abff72d5": "IfcPropertySet-3f18797e2986e43bf33e2e640f0bf808307b3696",
+    "9b3d7786-4d53-45bb-8910-bdeaabff72d5": "Rvt-IfcOpeningElement-324480",
+    "9b3d7786-4d53-45bb-8910-bdedabff72d5": "IfcRelVoidsElement-75f9a7d86fe0d58f59fff27a5cef8fc712c40314",
+    "9b3d7786-4d53-45bb-8910-bdf9abff72d5": "Rvt-IfcDoor-324480",
+    "9bc85630-27cd-4b2d-b444-3b21953dabc5": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "9bd2bdb1-eac7-4475-b1dc-c97983c44f5b": "IfcRelFillsElement-7f1265ddf076e3d72d667b533a51052ee1f6e1c4",
+    "9c097528-dc4c-4327-a151-75139e689e7b": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "9c1f6241-ff63-44a5-b433-287ee3097b40": "IfcRelDefinesByProperties-0054648b72d3b264f251049e57ff0972e724d9cf",
+    "9c2c44d7-65b5-4708-8869-ac8dc66a8685": "IfcRelDefinesByProperties-392d8fa714b6d73721b9b41f8f75d916a425fed3",
+    "9c68c820-2218-4f7d-9895-75afbd643eee": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "9cd6a179-22a8-4586-a41a-6bd981ee9dfb": "IfcRelDefinesByProperties-52d368c357f7d30ce82fa6908e2439f770f20202",
+    "9d25b167-2c1f-4c71-8b87-abee821158c2": "IfcRelDefinesByProperties-e3d747b8a083c398a9b1eb99bea5222dcd0ce624",
+    "9da3ee58-c845-4d4f-8037-4850dcd99e08": "IfcRelDefinesByProperties-286f15028054a6659feeb59bb61e4b06438ebf07",
+    "9db3302c-d970-485a-ab72-7e07665199fa": "IfcRelDefinesByProperties-8bcdc6a5bda4d62a343e33e801faf907411ae700",
+    "9dc6d38b-a42a-4107-9079-13d816252db9": "IfcShapeRepresentation-b392865a03ece99674994e3604c0eac7f6637d0a",
+    "9e43cf58-8792-4873-a223-820fb55360c1": "IfcRelFillsElement-78e0c120ff9f5cc2b734a36154b5aca885b3e5b4",
+    "9e622cc5-20e1-48a5-a15e-7e51b7b3b7b8": "IfcPropertySet-3bfd29bb65f037ecccb0fe9b0ab55d490b626487",
+    "9edefa72-eae1-4f29-a356-8008398d13a0": "IfcRelAssociatesMaterial-e027a540b6b08f8a7e7c69840b13b2cb8e0c7585",
+    "9f4ad69a-301a-4b26-8849-f015d6d8f772": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "9f96c065-a00f-49f3-bcf0-f05e2e3148e4": "IfcPropertySet-0a03d7c7773fc4505705ba2dbe2f5f39fcfd13af",
+    "9fd18d03-276c-493b-a05c-aad70b03ace3": "IfcRelDefinesByProperties-bce33d35fbf987e1fa16bfefb36396028d8ce77c",
+    "9fff4654-6850-4e4f-8d50-92240b06af1d": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "Rvt-IfcColumnType-12190": "IfcColumnType#1",
+    "Rvt-IfcDoorStyle-179379": "IfcDoorStyle#1",
+    "Rvt-IfcRoof-324316": "IfcRoof#1",
+    "Rvt-IfcWallType-216762": "IfcWallType#1",
+    "a03f00c6-7a9f-4417-ae63-0f0458420755": "IfcPropertySet-4b7c3f6a04a48f10c56348e0c96592127a4dd496",
+    "a0b7f010-0734-41cc-8113-e97573d263e8": "IfcRelDefinesByProperties-cef0267a62a95726413cacb1076aa2ea97fbf68e",
+    "a17d6587-284c-477f-b6e2-a05aadc01275": "IfcShapeRepresentation-7b63f777df966fef11b77554bbe9269c05ea827c",
+    "a198532a-74d8-4ca7-8fa9-e67fabeb6dc0": "IfcPropertySet-3bfd29bb65f037ecccb0fe9b0ab55d490b626487",
+    "a1ac14ca-0a3d-4fd6-8719-64715eb15602": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "a24a9ec6-b5c1-42d5-89bb-35495074d913": "IfcRelDefinesByProperties-a92336d63ebf8b5084ca004429fdbe4afd194f29",
+    "a257ae78-d1e9-4705-9857-486aca596e8a": "IfcRelDefinesByProperties-cad8b4cb853a79f331caf426bb87d337aed396ff",
+    "a29734d3-6e3f-4286-80af-ae73d451a467": "IfcPropertySet-6463464cbb45070da178e105abf53b39867ea8ed",
+    "a2ccde94-310e-4027-94e5-cee4544f5d45": "IfcGrid-2f07a0562acb14e2ee71aff99d2575d64f2238f3",
+    "a338901a-240e-41a4-ab21-e5c9555d88f8": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "a4105000-02ee-4d61-94ef-138cd0e5a466": "IfcRelDefinesByProperties-b864d97cd5cf755d4dfa61a4a0fa8340bbbba02a",
+    "a420c613-612d-4b71-a86d-99fad5939312": "IfcRelAssociatesMaterial-67d4385bee00c5fa2b3f1942756caf7d7a84653a",
+    "a521836d-b719-4df6-a3ba-1280f0e7a6e8": "IfcRelDefinesByProperties-acd643391a7b4c864f1c9764da2351e766b90730",
+    "a54733f2-f732-4a83-a2b2-ddb215420741": "IfcRelDefinesByProperties-b8899d3f1dac7aba937917d61d0edb93a1ad3231",
+    "a5c92b49-52cb-4d58-a07a-ebbfa5ba5a4d": "Rvt-IfcSlabType-321367#16",
+    "a5e413fa-0cc0-4134-a215-029c4bfab6fa": "IfcShapeRepresentation-af4b2c9797b5bb2cad920e9e26c3781edec174b8",
+    "a6355a34-1564-4461-b17b-1f3ae028ae6e": "IfcPropertySet-67bbd34fd5dd6f60c08299a922c5f7ddc671f137",
+    "a6507f6b-9629-4bc6-8ba2-fdcb3a63be42": "IfcPropertySet-2e69cfd47e0ad08638004d645636fb86987a216b",
+    "a65570a3-9e13-46a5-8387-ac4da1f24016": "IfcRelAssociatesMaterial-c555d45abdea2d320c0b5b219232add7b4b745c9",
+    "a670337a-1fa3-4be8-9e04-d6c730dae8a6": "IfcRelDefinesByProperties-88a5f6c8e68ae44571db93e35fa3fec0444a2c6d",
+    "a6dbca85-6559-4195-8079-b302df532902": "IfcPropertySet-5dacc61459d9e12d0039ef8ff9a6d8461e5307aa",
+    "a6e0e561-7168-402e-84bf-b8f5ee012a90": "IfcRelDefinesByProperties-44db3d7e4d4ed8334faf3bb9b38035e342b1dba2",
+    "a7628dcf-1973-44d6-be64-85fe18e51c60": "IfcRelDefinesByProperties-83b624ea0c15253116b268864e6aa9d091fbf401",
+    "a7bffd46-db35-4db9-a764-682257385cec": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "a9065a13-e924-453d-9028-d38e313240c0": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "aa0aec95-28fe-4126-ba9e-b7ecd0324a6a": "IfcRelAssociatesMaterial-70c5fe9e7318995ed800d04e91cf1fe8c11289ea",
+    "aa6ce14b-baf9-44c7-a944-ded8b2208fa2": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "ab0a79a4-170c-412f-9567-dfc5ff2dcaf8": "IfcRelDefinesByProperties-a876d5219135241764ee24ed340f6c3c25d9bf43",
+    "ab6a8053-2045-457d-8c69-2f338864706b": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "ac3256e1-7b4e-4fa8-974f-becf24cc9949": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "ac3a8488-ca45-4b93-bfde-a32e24735398": "IfcRelDefinesByProperties-ddb8b4cad92c8a24af0ff0e4db998118330aa88a",
+    "ad17df49-6d57-4cfc-b2d1-5153247a018b": "IfcPropertySet-a2af1839688623b54cf698b1a0d44f1087d72436",
+    "ad772b17-d395-4d83-8335-e7268513310e": "IfcShapeRepresentation-ee17b9d38c9854d5eb83e291b596376cbcc43923",
+    "ae5e6cfe-03d0-494a-b5d0-2f1a2642f361": "Rvt-IfcSlabType-217696#3",
+    "ae849e8d-1e4d-4b0c-94ff-e9bc583d6815": "IfcShapeRepresentation-dd7baa746ababe661a6d52ae872a7879cd7d6865",
+    "af0c81f8-5198-4e98-ba50-b996e03b48e4": "IfcRelDefinesByProperties-319fb1a3bb92ef191d7f2eb73193a105547c67cc",
+    "af10bbbe-7f00-42ec-acb0-443e33be2c74": "IfcRelDefinesByProperties-d33f73259e366b128dafb6e639658091ff05db4e",
+    "af874efd-f6a4-4ec3-92f7-94c5d7f1c87f": "IfcShapeRepresentation-59747a5bcdcbd2a5b74adbce80ceb46645460cb9",
+    "afdefa15-6c3b-4038-9329-ab397cc71a53": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "b083a2f1-dafe-41bb-ade1-98bdff6f3899": "IfcRelFillsElement-8754b9b3668e76f90d57946604b70d89bd121072",
+    "b0b674c3-6de4-411f-898e-0b94fac63206": "IfcRelConnectsPathElements-844cfafdce93ab8b74227ed5b83ea39c2516ce56",
+    "b10bc54f-e299-46ff-a5e2-0c54b0a26aea": "IfcPropertySet-7a45d3124bc156b22ed92a06ab95bd36aa92fdd9",
+    "b1d9823f-b5db-4b6d-b40d-423fef2040c4": "IfcRelAssociatesClassification-21dd9cceb3b5985310faa9fa714256036ebdd151",
+    "b24463b4-f649-42b0-9e97-489b3832a56d": "IfcRelDefinesByProperties-8d6d8759d4ceae57edca867b16dd1a8942eebdf6",
+    "b2d95e9d-666b-4cf6-bdd9-c39f2a137091": "IfcPropertySet-5dacc61459d9e12d0039ef8ff9a6d8461e5307aa",
+    "b3571f02-6973-4374-9bd8-f19c39284a3b": "IfcShapeRepresentation-6755dbfc92ac997c9ae5ff51ed987e4df9784e63",
+    "b36b751a-4680-4985-86ef-542ffb76c757": "IfcPropertySet-4b7c3f6a04a48f10c56348e0c96592127a4dd496",
+    "b39b1b1d-5253-4e5c-ae24-94eba8efd612": "IfcRelConnectsPathElements-72fa02dc359895a62772daf76792d00524483509",
+    "b39ccef5-e496-4c3e-a976-dedfaff87446": "IfcPropertySet-10305bf60f2322f7e6132a1d17d9ffeff6ad1174",
+    "b3a39ce0-c9ad-4d30-903c-dd902bca3a1b": "IfcRelDefinesByProperties-74b290e6ba13be938cf9ef714f4e56ca4e11af00",
+    "b3a50f26-5e0b-49d8-8d63-9a34d61c5705": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "b3f920ad-ddb1-46f9-9262-98edcdaae551": "IfcPropertySet-a2af1839688623b54cf698b1a0d44f1087d72436",
+    "b43a41e6-409c-48c8-85ab-c6d9484d016a": "IfcShapeRepresentation-b98a1ba27c75854dcab09dd11a32bd4dae8cdf46",
+    "b5039bb6-ccd4-4c1b-9346-dc21e38b11d0": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "b5208732-9de0-4c98-adda-f6e0e5473ae9": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "b624079e-2e84-444b-942f-f419826829ff": "IfcShapeRepresentation-447ba250f8c57b381220618a376bd0dbc76825a8",
+    "b698151b-9459-4d26-ae19-9288eb0a463b": "IfcPropertySet-67bbd34fd5dd6f60c08299a922c5f7ddc671f137",
+    "b6cc2114-0bb0-447d-8228-f097e7ebb1eb": "Rvt-IfcSlabType-321398#2",
+    "b6d3f1e2-aa76-4e51-98d5-782183ed5da4": "IfcPropertySet-b59f3b3f9e13f8d3cf79d028cca50adf0e5e57ec",
+    "b8d00fcb-88f1-4456-9fd9-ac21ce3e6a21": "IfcRelDefinesByProperties-3d85129f4c62ab56e8c6f000dd60a93d8574b698",
+    "b8e1121c-a9fc-4197-b321-430ccad5e281": "IfcPropertySet-5dacc61459d9e12d0039ef8ff9a6d8461e5307aa",
+    "ba0290ab-c5f8-4e22-8a07-d0700861a8b8": "IfcRelConnectsPathElements-1b90da023dd346aba750262830213002c216a1ad",
+    "ba40d547-2047-4f6e-85fb-a03d7c1c673e": "IfcRelAssociatesMaterial-94b78f26690498728ae50d1ab597b5b783766c67",
+    "bad6333c-0300-40ea-aa56-1a675a301cb5": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "bb56cab1-f3e6-4161-a61f-01487f58eafe": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "bbd5227a-e93e-4568-9164-df26b1f0c885": "IfcRelDefinesByType-ee20b441af3cdec9c4bea07efbeba05dfcab6f0b",
+    "bd0aebff-9681-4a2e-bc8a-0f77af9e82c2": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "bd17bfb8-952e-441b-b9a5-434c033634c2": "IfcPropertySet-a2af1839688623b54cf698b1a0d44f1087d72436",
+    "bd34297b-2430-4713-994e-635a11a4ed30": "IfcPropertySet-90f76ada313a4504a75218101835d6c5716d27f2",
+    "bdfd429b-9ab4-4365-b169-c32e390d9078": "IfcShapeRepresentation-57f2a98d9e3f7097198085b64c7fcf6576436810",
+    "be0942d3-f165-4bae-954e-6e74e16e8b60": "Rvt-IfcSlabType-321367#6",
+    "be4e9d17-c330-42ff-983c-b134ea368309": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "be8804ef-c59a-4c5d-b76f-b18326b01d56": "IfcRelAssociatesMaterial-09190b7ce1cc332422ec3ebeb504f21730477d3c",
+    "beac27ea-3f22-4e5b-83b1-aa17db994bcd": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "bf0552b6-b7f7-4331-96d5-b19b43277811": "IfcRelAggregates-6ded33117b0f815129b3f62968a9433ec072d1e8",
+    "bf0552b6-b7f7-4331-96d5-ba7343277811": "IfcPropertySet-165a1de0c141c0484b2f0d0ba5b29ad16e819fec",
+    "bf30755b-b052-4050-ad64-a71d57dc4ef1": "IfcPropertySet-7f1bcb4c3e2090c02bde3c955f578936f83030f1",
+    "bf474351-8a5e-4440-b464-b4d7d0ece740": "IfcRelDefinesByProperties-d089acd053efa14648439a524214d65c7e952b63",
+    "c0b2cf9a-5d25-4891-9b70-387862001af1": "IfcShapeRepresentation-cd00283a16b0688c87c739ca750412443729871e",
+    "c10ac6e8-7085-4a0a-b906-ee3102eef66e": "IfcRelAssociatesMaterial-76e02ee837b0ea2a61c9f3e3baa8b91c2ace0df1",
+    "c1269d0e-5ab8-44bb-97c1-eceea3a40548": "IfcPropertySet-de24312232947371d1a3039681261a358b122812",
+    "c25478ed-7603-4123-aeb1-8808f7d2bf3c": "IfcRelDefinesByProperties-9ee435455438c5e98ce4016c4ea5a440dfd4f267",
+    "c34c966a-1ffd-49e7-a31f-2026bc9458c6": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "c3896d1a-acb9-4cde-9027-8daa239d2028": "IfcPropertySet-231049f917ddf2ea9fd415877d5d3be0a0bf6d2a",
+    "c3cf8a45-722d-4d1e-8541-ff7120159ccc": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "c3e9c372-1727-470d-b312-3f4c8b5ba141": "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439",
+    "c58b4558-93a0-4887-bbed-a190c0a7ded8": "IfcRelDefinesByProperties-6c2f6176566d2ba394433d18bcd59d3fa422aa88",
+    "c5cdd44f-3abd-4cce-9422-356adb1c839f": "IfcShapeRepresentation-193c82cca679179d05a9669abaf6ed2d6e53a149",
+    "c5db406d-f0e8-4d47-9204-97134b0b3a6a": "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278",
+    "c61d13d6-c345-4c60-ae22-5ea5c78612ec": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "c65df768-d528-4b24-bab5-8d49c1f6c68d": "IfcRelDefinesByProperties-c18e29a0380daf1ad96c6377f6db3c5866626cf9",
+    "c66a5c9a-3166-4460-8da9-099288aa04d7": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "c67bf1c1-1f91-4044-95d2-7b423ad5646c": "IfcBuilding#1",
+    "c67bf1c1-1f91-4044-95d2-7b423ad5646d": "IfcProject#1",
+    "c67bf1c1-1f91-4044-95d2-7b423ad5646f": "IfcSite#1",
+    "c67bf1c1-1f91-4044-95d2-7b42c52a992b": "IfcBuildingStorey-4de47ebe4d9b4d9c2aca7729151af1c5ea5bfc6e",
+    "c67bf1c1-1f91-4044-95d2-7b42c52a9aaa": "IfcBuildingStorey-b8cbf4d29d02cf62b8a96eaa5cb6bfcecdce0945",
+    "c6b24dd6-dc39-4f12-9185-0ea7d7f5f057": "IfcPropertySet-a2af1839688623b54cf698b1a0d44f1087d72436",
+    "c6e8d2f9-d783-4095-9e89-7115b276f69e": "IfcShapeRepresentation-f1536f2f6fd6c9febab6bb82b8c54363d46ce718",
+    "c753ee81-7fc7-4b6c-afb4-ebe6d4b2b549": "IfcRelDefinesByProperties-d6338e2c99f7b5f92ea4b27bfff0b8e31a7360e4",
+    "c85dab60-f488-4c9b-9e86-8bf4f0227350": "IfcRelDefinesByProperties-eff36f5c76d2a2613f3ca6f45e695d3c7be09e6f",
+    "c8814dc2-d9c3-4ef3-9e2a-fd570962d2dc": "IfcPropertySet-16f842c45eeec2c74c137aca51d68dc5db2061bd",
+    "c9043fd0-f903-44c7-9a8f-2b3e4390f487": "IfcRelDefinesByProperties-640ea70560a83be5c7413e368ab3db2c43eabc07",
+    "c94d63f0-4052-486c-95a1-719ac7b632fa": "IfcShapeRepresentation-13972dc2c195f11aeb58433d1d42ce9ed3e580b2",
+    "c963f6ab-87dc-4523-8790-e75a8cc90334": "IfcPropertySet-4b7c3f6a04a48f10c56348e0c96592127a4dd496",
+    "c9c6f1dc-9531-4aab-af56-004e7eef91a8": "IfcRelFillsElement-a2d6600a93230d45b747a754f36784aae66f06d5",
+    "ca2a9e36-a2aa-4ac0-8e3a-7b020de3769e": "IfcRelDefinesByProperties-0dc061c4902936439403f64ea9f0f8f5d5706405",
+    "caf249bd-3405-4684-aae8-cea8d39ba092": "IfcPropertySet-de24312232947371d1a3039681261a358b122812",
+    "cc2aede8-a152-4b75-b221-49c69d964651": "IfcRelDefinesByProperties-419de102370f735334cf4061a2d593ee6d154da1",
+    "ccf17a43-f704-45ec-8876-9f12d28aa744": "IfcShapeRepresentation-0364c69cf5f0fd28251a240b3a6521e4cdac616d",
+    "cd363ada-ae18-46ac-9f14-2d432c612843": "IfcRelDefinesByProperties-ec54d25735b7c7098a42701c2dd5f50b8a34ee20",
+    "cda43c8a-67a6-4c63-8209-55f98bcc87ec": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "cda46b10-efe2-46ef-b3f9-ec1103dad438": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "cdb0168e-0465-42ac-9f45-e74498a29f0c": "IfcRelDefinesByProperties-750e26864c62470fe14857f3f3f476bb16423fdf",
+    "ce0c2b65-1312-43fa-b199-95f746ce328b": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "ce600bcd-e7a3-45a2-b59a-173489a60359": "IfcPropertySet-45bbd998906c4699e92c01884920631823d1a644",
+    "ce600bcd-e7a3-45a2-b59a-173489a6035a": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a6035b": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a6035c": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a6035d": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a603b7": "IfcPropertySet-45bbd998906c4699e92c01884920631823d1a644",
+    "ce600bcd-e7a3-45a2-b59a-173489a603b8": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a603b9": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a603ba": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a603bb": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a603d2": "IfcPropertySet-45bbd998906c4699e92c01884920631823d1a644",
+    "ce600bcd-e7a3-45a2-b59a-173489a603d4": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a603d6": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a603d7": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a603d9": "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b",
+    "ce600bcd-e7a3-45a2-b59a-173489a60d06": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "ce600bcd-e7a3-45a2-b59a-173489a60d27": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a60359": "Rvt-IfcSlab-321800",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a6035a": "Rvt-IfcSlab-321803",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a6035b": "Rvt-IfcSlab-321802",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a6035c": "Rvt-IfcSlab-321805",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a6035d": "Rvt-IfcSlab-321804",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a603b7": "Rvt-IfcSlab-322022",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a603b8": "Rvt-IfcSlab-322025",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a603b9": "Rvt-IfcSlab-322024",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a603ba": "Rvt-IfcSlab-322027",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a603bb": "Rvt-IfcSlab-322026",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a603d2": "Rvt-IfcSlab-321923",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a603d4": "Rvt-IfcSlab-321925",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a603d6": "Rvt-IfcSlab-321927",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a603d7": "Rvt-IfcSlab-321926",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a603d9": "Rvt-IfcSlab-321928",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a60d06": "Rvt-IfcSlabType-321367",
+    "ce600bcd-e7a3-45a2-b59a-1ccf89a60d27": "Rvt-IfcSlabType-321398",
+    "cf3f9241-d960-4efe-b2a1-0570b4ea90d7": "IfcPropertySet-91b22f090fe3080057fb77ed95c799db88c27668",
+    "cf786e02-02ca-41a1-b8ee-e5fd3d63dc7a": "IfcPropertySet-6779af7cee2bca9a050026f4341c25138b575f16",
+    "d02416e5-c004-4bf0-9fc2-8c314837a25a": "IfcShapeRepresentation-b26965e8ec564125dc3ca2dcd297400703b33359",
+    "d145332b-b924-447c-ad36-51f27cb0331d": "IfcRelAggregates-394f3c22cbeddcab2393026e61a44bd3bb9c799e",
+    "d181813b-9204-4534-8a16-38869f133a02": "IfcShapeRepresentation-327773934d138e3af31837e75da26cb4ac5034c4",
+    "d1834b54-1210-4987-8bbb-e768e3952e74": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "d2292cba-f592-41a2-a80b-ec60b99d5300": "IfcPropertySet-0a03d7c7773fc4505705ba2dbe2f5f39fcfd13af",
+    "d2cd382a-b9cc-47e1-8501-5e86b4961b77": "IfcRelDefinesByProperties-88b4808a906665b06349eb3fd5536c3cd9993816",
+    "d42f69bd-dc97-495f-b1e1-b043f8b44822": "IfcRelDefinesByProperties-1fdb58613f14d694f9309576a226609dc9a159e1",
+    "d4920ef6-bf44-49f0-815d-530a3ce1a888": "IfcRelDefinesByProperties-b2ce25235df24dad2ca828f6fa4aafc47d05625c",
+    "d509aab6-b4cc-4076-ac24-d5bd2cdf8346": "IfcRelDefinesByProperties-832977807fce7f10cf089efca1513bd18d919be9",
+    "d53ddc74-6b48-4ae6-8354-6e169495aa23": "IfcRelDefinesByProperties-dd17cbc5409293aca0821cda1d90b05a8f16f45c",
+    "d58dcc8f-9041-4c38-a748-a4a535b71bcb": "IfcRelDefinesByProperties-7082fae5aec9202bd6fcf283597569666f0d886c",
+    "d628a190-3563-43a7-9715-e9cadb5c246c": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "d6969ac5-8fc3-42c3-8f1f-90531479071a": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "d6a7a48b-7a90-4938-881c-1b6a2757ea0a": "IfcRelDefinesByType-252ed74becd5aae37296991000f69756a0df55d4",
+    "d6ff89dd-5d18-4620-a7f3-ee6e162241fb": "IfcRelDefinesByProperties-0ed7bf1b12c2d67f125fdbf0d82276bb9fe72651",
+    "d71a79d8-6989-48c6-9f95-948f68effa08": "IfcShapeRepresentation-0d942f4bef3e4e86f63395400839885581cf5158",
+    "d7a40d03-95ef-44ae-92c8-a62b845e0264": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "d871a8e6-1d00-4a3f-8d65-b512f2552298": "IfcRelDefinesByProperties-64c6267e8109611a1b1aaf2cee47f680cf603a64",
+    "d8a078da-da75-47f7-a533-420fe7aefe56": "Rvt-IfcSlabType-217696",
+    "d8a078da-da75-47f7-a533-420fe7aefe68": "Rvt-IfcSlabType-217694",
+    "d8a078da-da75-47f7-a533-49f4e7aefe56": "IfcPropertySet-67bbd34fd5dd6f60c08299a922c5f7ddc671f137",
+    "d8a078da-da75-47f7-a533-49f4e7aefe68": "IfcPropertySet-d30e1aba8da4e3c2642c4fdaf640a9bfc295e200",
+    "d8f1d18d-1342-46f0-bb91-0ce03153ab46": "IfcRelDefinesByProperties-8617ae48199a29c9a5a210d4e140cfd8f166a119",
+    "d9378602-d19b-4371-9d93-ad7ba82037ae": "IfcRelDefinesByType-5ef3ea0dc3498cdbdb4e70b0b6d62955192c98fe",
+    "d9416ab7-955b-4d5f-9534-9e7ee217d736": "IfcShapeRepresentation-70a3a99bedbc3a742336159f7a7e4757d9685c09",
+    "d9635c1a-0bfb-49af-bdc1-8a671b59869b": "IfcShapeRepresentation-d5459bed305e006122602d46e70b3c82babc9f33",
+    "d9a1bdd7-9953-4234-80f5-4dc4d9417d40": "IfcRelDefinesByProperties-e6bede2504caab63aecb34295f5b5c3730ed9c2f",
+    "da65bbdf-fe84-42e0-a86d-de6170f332d5": "IfcRelDefinesByProperties-cba3ac97e641f1f35029b6db7e417660961d8e0b",
+    "dad80736-4759-478d-90b9-d034aa067274": "IfcRelAssociatesMaterial-864aaee4cabc902da90cac402231c111c5d59712",
+    "dbd7eab5-2aef-4eaf-9d4b-151116f3e626": "IfcPropertySet-6779af7cee2bca9a050026f4341c25138b575f16",
+    "dc541da9-53a5-41f4-9a54-6a4ccbf4b020": "IfcRelDefinesByProperties-5d92e2abe4e68a67b4b543f00418e55925b796db",
+    "dcfb03f8-613e-48d0-8f07-62bbb27f50e3": "IfcPropertySet-7a45d3124bc156b22ed92a06ab95bd36aa92fdd9",
+    "dd11e039-b22e-4189-9a7f-452e81a7b81f": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "dd20d8b4-e8c3-46b6-838d-aeb79f6d8e33": "IfcRelDefinesByType-9de322a334d8daf2428e2fb4268cd6cabf737cb8",
+    "dde1cb37-f737-40da-8e49-448bee0a10b0": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "de244dbf-d1d8-49c9-9e25-05a51d8d433f": "IfcShapeRepresentation-b499cf2b9615eb1d19bc5d852954a0a6e2d21cc4",
+    "de729e59-e4be-4ba9-9e62-9b75bb83bea7": "IfcRelDefinesByType-4638e5852f1b19b723700d75a39e5b518ea18d54",
+    "dece2c49-b9c7-4245-95ff-d0c2c9742c24": "IfcRelDefinesByType-0411be6e1a3f9a737c338e5ad77775d3b337e218",
+    "df94a75e-1b02-434d-a5be-90badc909873": "IfcPropertySet-de24312232947371d1a3039681261a358b122812",
+    "dff519b4-271f-47ca-a6c7-a441d6d2d384": "IfcPropertySet-9e680614a7876479b307543abe3ea5837d2548cb",
+    "dff519b4-271f-47ca-a6c7-a441d6d2d386": "IfcPropertySet-9e680614a7876479b307543abe3ea5837d2548cb",
+    "e079bf98-616c-42fe-a7c8-1cc456891411": "IfcShapeRepresentation-6e884e81fa7b586facafbd93f5ffc4d31853f648",
+    "e236e3e3-4e6e-46e4-bb8c-59b53359f4f5": "IfcRelDefinesByProperties-519717245dace267503e5f5142519a71d7cc6bee",
+    "e3e052f9-0156-11d5-9301-0001863f269a": "IfcRelContainedInSpatialStructure-7ac728001e0c5c487f722f428c1e840c71b2c401",
+    "e3e052f9-0156-11d5-9301-0bec863f269a": "IfcPropertySet-b6459042aae56d7775bb337a85d0f37bb2914390",
+    "e425f39c-a293-4def-bffb-40558bfa7ba4": "IfcGeometricRepresentationSubContext-Axis#1",
+    "e59c7ae4-84af-441f-874b-f520fc3f53f3": "IfcRelDefinesByProperties-511e772bc2819d157af77dc064cde084579d3711",
+    "e6d94a80-52b0-49ea-a708-d195d15a6b70": "IfcPropertySet-4b7c3f6a04a48f10c56348e0c96592127a4dd496",
+    "e78a0c42-1c25-439a-b0a6-430d2e4f7f4c": "IfcRelDefinesByProperties-ac7a441a7d56b5a300fb61b1441da51aa173dc3f",
+    "e7927c79-5491-4910-bb6c-38a26ad6a6b0": "IfcRelDefinesByType-a56cd0d638f404e8208be41f84bc881b0b6dacbd",
+    "e7a8e2eb-9869-44f0-960b-8cf8c22d69b4": "IfcPropertySet-4b7c3f6a04a48f10c56348e0c96592127a4dd496",
+    "e82c6faf-f75a-4a8e-b344-20653f7ff3f2": "IfcRelDefinesByProperties-f7350768f77bab07760578ec6267fbb438c57738",
+    "e879a24b-f75a-4f22-a160-2da43f7a7eb0": "IfcRelAssociatesMaterial-1edeec01934313b9a27d26784b9618283167c905",
+    "e8e8a032-56c4-4fd4-9e9b-bbb2928aa1b1": "IfcRelDefinesByProperties-b50754317ed686f2ffb0d126aeac81d5a77391fb",
+    "e92af957-d483-4bcd-ba50-7a1bd496999d": "IfcRelDefinesByProperties-e8c60b64f6cdd254e04f60b20752e9c51e368873",
+    "e982403f-bf3d-4191-9e30-86961d8d5f32": "IfcRelDefinesByProperties-9910d66ea7902ddb0f2bf4aa4847942e2e452c6e",
+    "e9adee3d-9851-4af6-a7c1-e82e6cf39b00": "IfcRelDefinesByProperties-161d9b1a91439621de8fe5c863eac00cd4108f25",
+    "ea52d422-23f9-4af9-b871-a59d8ff58634": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "ea6aa54e-eb7c-46f5-b404-de92d25f2bd1": "IfcRelDefinesByProperties-960aee88137e0978bd7942224b2c5e554b34a952",
+    "eaafd17a-0483-41bf-b410-18a20bdf548a": "IfcRelAssociatesMaterial-3ad968702d3f3e659b40272a052a534ab11a3809",
+    "eade9ded-f2ee-46eb-b599-c4fcc3ffeaef": "IfcRelDefinesByProperties-bb94751f8dd0bfdc9fba7e4c515007e0032d5030",
+    "eb2b0011-aabc-47a1-be2c-2aca59e09858": "IfcRelDefinesByProperties-0985c8c76d4278cbaae6bf0e875fceac10eab511",
+    "ebb045ac-af08-4df7-8449-71009f547f10": "IfcPropertySet-6463464cbb45070da178e105abf53b39867ea8ed",
+    "ebd06f9e-edbe-44ad-a7a3-e1cbaf72bdc7": "IfcRelDefinesByProperties-2558b4103726d5ae4fee09e9cf6f06fce13eabfe",
+    "ed6d5654-d317-4c6d-b204-7243825bf228": "IfcRelDefinesByProperties-7a4c1a9b55638e9ae79a4e1ccc7fb92586d566ec",
+    "ed8d3d51-e75e-47cc-9447-e89aad8981a3": "IfcPropertySet-231049f917ddf2ea9fd415877d5d3be0a0bf6d2a",
+    "ed91c14e-1c25-4174-8de6-fd1d9bcefe4b": "Rvt-IfcSlabType-217696#4",
+    "ed966ed3-6541-4a30-8da6-58e92ef92197": "IfcPropertySet-7a45d3124bc156b22ed92a06ab95bd36aa92fdd9",
+    "edbafea3-e1ab-4faa-ac25-26641d65e711": "IfcShapeRepresentation-70a3a99bedbc3a742336159f7a7e4757d9685c09",
+    "ee3a79ba-b59f-4cfe-a955-538b9eea12e4": "IfcRelDefinesByProperties-37dd95b21f4551da3778512d46e056ee2f9ef26e",
+    "ee570508-5df5-4286-bc11-631a0a84aee4": "IfcPropertySet-0a03d7c7773fc4505705ba2dbe2f5f39fcfd13af",
+    "ef2172e2-3918-40fd-a575-4a83cc350f60": "IfcShapeRepresentation-1bb9d592c90e2c684b81aa0ee4dd1267fd8a4102",
+    "ef6cfa4b-7024-42a4-90d9-9083fa12b2e5": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "f0bac5ca-ebb6-495e-bb52-7ad96f96bc29": "IfcRelDefinesByProperties-99f48f680800958c5ac8d511d67ee788603596e2",
+    "f0d5d11e-a821-4e3e-91a0-233acd90925c": "IfcRelDefinesByProperties-d4c6cd8cc8d1ad669d63a0c4d63c5e1dfd19e544",
+    "f1725f7d-c440-49f2-a715-b488060b9937": "IfcPropertySet-e530231558a2ccdf2835c1bc022a23ec94c4226c",
+    "f174cf95-ca34-430b-bcb0-f30eb1b7c16f": "IfcShapeRepresentation-de41537cdd81e47c82cd6452d2de0645759e9d5c",
+    "f1fdeb80-810e-4bf2-a960-c0b730211fbd": "IfcRelDefinesByProperties-400b9b2204468d115a085895d412c253d42dc480",
+    "f234cfbb-b8e9-449d-8c9a-0874192c6a53": "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb",
+    "f26930b2-9632-4361-a36a-aca726dbabeb": "IfcShapeRepresentation-803ecfc28cd8fe764b403523f27491af68f0eb18",
+    "f457b4cd-fb88-4a47-8f3a-c027f1b18fee": "IfcRelDefinesByProperties-f8d99d13d859338433c224c3af3b435703919e76",
+    "f468a1f3-4ae2-424e-ad0e-c778000cb1b2": "IfcRelDefinesByType-52ff655d2123e18e075bffb4ecd1a556a2ea6431",
+    "f4c8a5a3-3a86-4089-ad2b-88373e7eccae": "IfcRelDefinesByType-e9d9c529b222bb9bd476d444edecbd678111dbd9",
+    "f4d37251-0366-4b08-8fd4-8435a2d6eb94": "IfcPropertySet-9bc59dce614ab3948f1ba69203a2db53b74c4931",
+    "f5d09919-7a8b-4a5e-9f99-8cf7fae289d9": "IfcRelDefinesByProperties-af2c547d99da12e7e9ca917d55f996a80f6cfc0c",
+    "f5f8d281-f231-40b6-9cf6-49d87d62c6bd": "IfcGeometricRepresentationSubContext-Box#1",
+    "f6a47c5a-7067-4a2e-af3d-59d32b8669b5": "IfcRelDefinesByProperties-e0e61de2c7d8375af94360459d1fa1dc43e32729",
+    "f6bea4dd-4f4b-4cd4-98a8-c49751907121": "IfcRelDefinesByType-a54374d3f9ea423675b4b666e70689431ea52a29",
+    "f6c53e8b-8cab-4e4d-9e16-bcdfbb97d9be": "IfcRelDefinesByProperties-1f5adaced6f99af9e302b8ce4f9bbccbaab6cdd4",
+    "f6ec9e43-b092-4dee-b8b4-82f81b5b4ce4": "IfcPropertySet-68a227e7f7c42758389c51c331b6d10eef18d669",
+    "f6f38e12-d387-4cf2-a75c-e801bcffe291": "IfcRelDefinesByProperties-48a801d9f1185bb73a8c6dae30de3d6854bb5c34",
+    "f846d70c-3603-4b0a-b424-e8030c8cb603": "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732",
+    "f882eb67-ab79-4486-9262-c9701808bbd4": "IfcRelDefinesByProperties-f8e7428c9b87566e8a4d18d27d929761f454e3a5",
+    "f8859851-252b-4fcf-ab39-697ff3e94c48": "IfcRelDefinesByProperties-1059b02837a83842b61b1f3300e3501f4505e6f8",
+    "f8a6a88e-6f69-428e-8a7d-ebcd37b30b16": "IfcRelDefinesByProperties-55ef8cc7d20d7dfcb18ac677bf0a361e3e57b223",
+    "f9990ab1-fd8d-4d06-b974-bff785b095a7": "IfcPropertySet-9bc59dce614ab3948f1ba69203a2db53b74c4931",
+    "f99aa753-96bc-4f23-b5ee-70fa8f0c522b": "IfcRelFillsElement-0ac2d087249b296ddb019d06138bfd719a9dda02",
+    "f99e8233-c3cc-4621-af69-58a30511c3a0": "IfcPropertySet-68a227e7f7c42758389c51c331b6d10eef18d669",
+    "f9dfcff5-79e5-4239-9cea-025058bf5183": "IfcPropertySet-5dacc61459d9e12d0039ef8ff9a6d8461e5307aa",
+    "faf01e3e-cbb3-4056-b936-bc4dc267bc73": "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a",
+    "fb2c4c3a-7534-487c-90bf-f1260fd3e6cc": "IfcRelDefinesByProperties-dd83b81ade55f54f1ff652f96859380e37773f98",
+    "fb5f0b42-abbf-4cbd-b6f5-9d8186687e1a": "IfcRelDefinesByProperties-4207e074f4e243eedbb81ca4a4574f0e59be8014",
+    "fc1fd29b-3aaf-48c5-938c-7774e4fb4e33": "IfcRelDefinesByType-cb9117f09827c3681e78889341f94e9bd56c56e9",
+    "fc588d5c-8d7e-4880-9e2c-c33881f63578": "IfcOwnerHistory#1",
+    "fcb3186c-c44c-477a-954f-f1e36ebad1d9": "IfcRelDefinesByProperties-43e4acb5c6a787711fffdfb666d243819cafa5dd",
+    "fcf367e3-9751-40ca-809a-30a36ef98ec5": "IfcRelDefinesByProperties-8ee8f9c879a2a622bff9486bbd80049c8fd26697",
+    "fd654257-6d8f-4723-babf-3d410dfb740f": "IfcShapeRepresentation-193c82cca679179d05a9669abaf6ed2d6e53a149",
+    "fd734325-a34b-458c-b4c7-57d01affc92b": "IfcRelDefinesByProperties-0aed1aff249c4783225e6f228750d4a51434aaa0",
+    "fd7fedae-6a70-4605-ad04-9224ed90fac8": "IfcRelDefinesByProperties-4e03aeb6c989007229bb94caf6e5e47f8bceb481",
+    "fdc2f882-f330-46cb-ab5e-bb6d89fbf0bf": "IfcRelDefinesByProperties-7c5709e4d582768458979c59685bf76a2d1214d7",
+    "fe21e4b1-5361-42bd-a823-21710a4ee461": "IfcPropertySet-10305bf60f2322f7e6132a1d17d9ffeff6ad1174",
+    "fe2b061c-5c90-496a-ab23-a3c2bc0c9636": "IfcPropertySet-2e69cfd47e0ad08638004d645636fb86987a216b",
+    "fe40f3e1-e08e-4eb5-939b-d7740a4d2b40": "IfcShapeRepresentation-d591cb50b4a4e82114a13db0c33411242ece175d",
+    "fede5994-b56b-4e39-9cf6-65a5df71abf9": "IfcRelDefinesByProperties-f4f983c0d43978fa558a789405eedeba2fdbe1e4",
+    "fee7ec6b-5e8d-4f06-8e6e-5ab3b02545c9": "IfcPropertySet-4b7c3f6a04a48f10c56348e0c96592127a4dd496",
+    "ff6b7984-0fe1-477f-b491-0fed048c0f21": "IfcRelAssociatesMaterial-ac8f8c4d847c95bd013d5d2cd174f0a3800f8c00"
+  },
+  "hash_dict_rev": {
+    "IfcBuilding#1": [
+      "c67bf1c1-1f91-4044-95d2-7b423ad5646c"
+    ],
+    "IfcBuildingStorey-4de47ebe4d9b4d9c2aca7729151af1c5ea5bfc6e": [
+      "c67bf1c1-1f91-4044-95d2-7b42c52a992b"
+    ],
+    "IfcBuildingStorey-b8cbf4d29d02cf62b8a96eaa5cb6bfcecdce0945": [
+      "c67bf1c1-1f91-4044-95d2-7b42c52a9aaa"
+    ],
+    "IfcColumnType#1": [
+      "6c4c5a1e-a051-47b9-b462-2ab655b03266"
+    ],
+    "IfcDoorLiningProperties#1": [
+      "29e60985-cb6b-472b-9bff-516e8e665d99"
+    ],
+    "IfcDoorPanelProperties#1": [
+      "29e60985-cb6b-472b-9bff-516d8e665d99"
+    ],
+    "IfcDoorStyle#1": [
+      "29e60985-cb6b-472b-9bff-517a8e665da8"
+    ],
+    "IfcGeometricRepresentationContext#1": [
+      "4a840d29-7d8a-4d3b-bcb8-5b9490091335"
+    ],
+    "IfcGeometricRepresentationSubContext-Axis#1": [
+      "e425f39c-a293-4def-bffb-40558bfa7ba4"
+    ],
+    "IfcGeometricRepresentationSubContext-Body#1": [
+      "6dffd749-c5db-4387-a63b-8c90d5374447"
+    ],
+    "IfcGeometricRepresentationSubContext-Box#1": [
+      "f5f8d281-f231-40b6-9cf6-49d87d62c6bd"
+    ],
+    "IfcGeometricRepresentationSubContext-FootPrint#1": [
+      "01c28e4c-5173-44a6-940f-74058c09f38d"
+    ],
+    "IfcGrid-2a0c59fca01e61c600e221330ef424ce2901b975": [
+      "68fa6812-878c-4ea2-a377-6011955c2c84"
+    ],
+    "IfcGrid-2f07a0562acb14e2ee71aff99d2575d64f2238f3": [
+      "a2ccde94-310e-4027-94e5-cee4544f5d45"
+    ],
+    "IfcOwnerHistory#1": [
+      "fc588d5c-8d7e-4880-9e2c-c33881f63578"
+    ],
+    "IfcProject#1": [
+      "c67bf1c1-1f91-4044-95d2-7b423ad5646d"
+    ],
+    "IfcPropertySet-058dd957556d6d8024f7cd43c1801d0eb1ecb11a": [
+      "5486a9f7-421c-42e9-8884-619bea94cba5",
+      "55692b48-a4dd-42bb-80f9-c18907139f46",
+      "8e009e2e-35e9-42ac-b26d-216ea83e539c",
+      "43ec4b97-aadf-4fbc-965d-2aae126c0662"
+    ],
+    "IfcPropertySet-0a03d7c7773fc4505705ba2dbe2f5f39fcfd13af": [
+      "12af2133-4e8e-4056-99eb-e3d2a9c60886",
+      "ee570508-5df5-4286-bc11-631a0a84aee4",
+      "7f96160f-3ea1-4537-997f-c8d641b04a40",
+      "439a846d-ec75-449d-af5a-b07a408e890d",
+      "d2292cba-f592-41a2-a80b-ec60b99d5300",
+      "191db005-db0d-43ef-bed5-38439a15221e",
+      "9f96c065-a00f-49f3-bcf0-f05e2e3148e4",
+      "7cc3a213-14f9-478f-8bab-4ede448e9793"
+    ],
+    "IfcPropertySet-0c426eb4ecf9e0dea91150453c6187f881f13566": [
+      "72ac6bc1-4f6c-4290-9b1a-64dd02b08fba"
+    ],
+    "IfcPropertySet-10305bf60f2322f7e6132a1d17d9ffeff6ad1174": [
+      "29e60985-cb6b-472b-9bff-5a948e665e41",
+      "b39ccef5-e496-4c3e-a976-dedfaff87446",
+      "fe21e4b1-5361-42bd-a823-21710a4ee461",
+      "7cf9fe02-ea40-49e7-9b57-32239afd7819"
+    ],
+    "IfcPropertySet-165a1de0c141c0484b2f0d0ba5b29ad16e819fec": [
+      "bf0552b6-b7f7-4331-96d5-ba7343277811"
+    ],
+    "IfcPropertySet-16f842c45eeec2c74c137aca51d68dc5db2061bd": [
+      "c8814dc2-d9c3-4ef3-9e2a-fd570962d2dc"
+    ],
+    "IfcPropertySet-231049f917ddf2ea9fd415877d5d3be0a0bf6d2a": [
+      "ed8d3d51-e75e-47cc-9447-e89aad8981a3",
+      "9a0fc79b-5c2d-4174-a0af-08c1275aca1e",
+      "c3896d1a-acb9-4cde-9027-8daa239d2028"
+    ],
+    "IfcPropertySet-23152584ac499f7bebfdc009b0246814dc64892d": [
+      "29e60985-cb6b-472b-9bff-5a918e665d03"
+    ],
+    "IfcPropertySet-2e69cfd47e0ad08638004d645636fb86987a216b": [
+      "fe2b061c-5c90-496a-ab23-a3c2bc0c9636",
+      "a6507f6b-9629-4bc6-8ba2-fdcb3a63be42"
+    ],
+    "IfcPropertySet-339e02ada0d3ce53424e9740a779d728b51b4439": [
+      "9bc85630-27cd-4b2d-b444-3b21953dabc5",
+      "18e65d1e-2e34-431d-919e-bad79ba657f4",
+      "0608dff4-3337-4fc3-b065-6b71f420bcde",
+      "98509388-332e-4d3f-86cc-0e73a9ec06e9",
+      "956c4e5f-bd9e-4822-9534-1c40808fb5c3",
+      "70b2c451-b90a-4800-9eb7-bd80bfbc9e17",
+      "604e7dae-f886-4069-819f-7f8220b20209",
+      "ac3256e1-7b4e-4fa8-974f-becf24cc9949",
+      "c34c966a-1ffd-49e7-a31f-2026bc9458c6",
+      "5a47ea59-acc9-4339-b3a5-2257842946cc",
+      "20dd506b-c894-442c-8b05-7d226b6d1448",
+      "be4e9d17-c330-42ff-983c-b134ea368309",
+      "0dd5bb45-d8ba-4940-a211-eaecb2a82dec",
+      "3dc5b215-53d4-4f43-a230-8eb46f21ea54",
+      "8d06de86-b8e0-48b7-9a3b-145432920a29",
+      "c3e9c372-1727-470d-b312-3f4c8b5ba141"
+    ],
+    "IfcPropertySet-39c07db9772259727d1f6d6a9f711ead3a37b903": [
+      "29e60985-cb6b-472b-9bff-5a918e665ed7",
+      "29e60985-cb6b-472b-9bff-5a918e665e0d"
+    ],
+    "IfcPropertySet-3bfd29bb65f037ecccb0fe9b0ab55d490b626487": [
+      "825ee70c-b2df-4f06-9d3a-cf43ec8bb3b9",
+      "a198532a-74d8-4ca7-8fa9-e67fabeb6dc0",
+      "9e622cc5-20e1-48a5-a15e-7e51b7b3b7b8",
+      "85d21d4f-ea3e-4b01-8621-f73eb582dfb9"
+    ],
+    "IfcPropertySet-3f18797e2986e43bf33e2e640f0bf808307b3696": [
+      "29e60985-cb6b-472b-9bff-5a9f8e665d99",
+      "9b3d7786-4d53-45bb-8910-b609abff72d5"
+    ],
+    "IfcPropertySet-40ff69837fe5314ce21231350fa5e45c7edfc105": [
+      "30908b57-8df2-4ac7-a962-991f400422a0"
+    ],
+    "IfcPropertySet-45bbd998906c4699e92c01884920631823d1a644": [
+      "ce600bcd-e7a3-45a2-b59a-173489a60359",
+      "ce600bcd-e7a3-45a2-b59a-173489a603d2",
+      "ce600bcd-e7a3-45a2-b59a-173489a603b7",
+      "29e60985-cb6b-472b-9bff-5a948e665e21"
+    ],
+    "IfcPropertySet-478de81d6d61f25a98dfbac9ff234fd428489e2c": [
+      "0c88ab75-a0bb-4c49-9f21-7b132c6ff123"
+    ],
+    "IfcPropertySet-4b7c3f6a04a48f10c56348e0c96592127a4dd496": [
+      "fee7ec6b-5e8d-4f06-8e6e-5ab3b02545c9",
+      "e6d94a80-52b0-49ea-a708-d195d15a6b70",
+      "a03f00c6-7a9f-4417-ae63-0f0458420755",
+      "17b06bb0-62fd-47ed-940f-364a52065386",
+      "e7a8e2eb-9869-44f0-960b-8cf8c22d69b4",
+      "4bc2eded-c0a2-4079-8165-4cb70a1d194a",
+      "b36b751a-4680-4985-86ef-542ffb76c757",
+      "8d179592-58f5-4a74-a7d1-6e1f081d7745",
+      "c963f6ab-87dc-4523-8790-e75a8cc90334"
+    ],
+    "IfcPropertySet-51a3c6cbed60485f84c8ba27055fb6b69eaaf8d0": [
+      "232e389e-858c-4eb2-b625-018b25548469",
+      "5a3999d9-7b0d-465c-810e-fc9443dbc600",
+      "83c8603d-75b8-4ef5-8988-1bf78b5cd72d",
+      "6599bc9d-8a36-46e0-87f1-43976ccc5043"
+    ],
+    "IfcPropertySet-53884acaae6a6e6d23866a1d2ffeb1b145bfca5a": [
+      "ce600bcd-e7a3-45a2-b59a-173489a60d27",
+      "ce600bcd-e7a3-45a2-b59a-173489a60d06",
+      "aa6ce14b-baf9-44c7-a944-ded8b2208fa2",
+      "5bdf073c-f408-4f19-bb4e-5854f6f3115c",
+      "7db2aa0a-5c5d-4fb4-8702-171375b1294a",
+      "5d2ff410-9f96-4c8a-ba9c-5b039e0756d7",
+      "0a1f1527-24b6-4b3a-8c44-5fe4268a689e",
+      "54fc5a4c-1308-4304-ae4f-86283b66def7",
+      "8bca0736-af46-4400-a344-f9dd0ccd1900",
+      "44642dc3-413c-4a38-b9ec-753548ece08b",
+      "53bbd95f-ba59-4c0a-9f78-124e40f3cba1",
+      "dde1cb37-f737-40da-8e49-448bee0a10b0",
+      "6e4298ec-eed2-4b81-ac4f-6c174fc3e7df",
+      "beac27ea-3f22-4e5b-83b1-aa17db994bcd",
+      "bd0aebff-9681-4a2e-bc8a-0f77af9e82c2",
+      "7b52148c-45db-479c-9e5b-c80aa0add0d3",
+      "d628a190-3563-43a7-9715-e9cadb5c246c",
+      "a7bffd46-db35-4db9-a764-682257385cec",
+      "faf01e3e-cbb3-4056-b936-bc4dc267bc73",
+      "664f4ce1-62d7-44af-96bc-d7fad4f478e8"
+    ],
+    "IfcPropertySet-59cd69aaa125f68f32fa0923e2653a99a492b278": [
+      "574f3b96-9bfc-4ae0-95b5-a61302869e06",
+      "b5208732-9de0-4c98-adda-f6e0e5473ae9",
+      "62ceadc3-61f4-4094-be7a-534b2d847c19",
+      "bad6333c-0300-40ea-aa56-1a675a301cb5",
+      "0abd2bf4-63ae-456b-b7f1-5e6e28237f8e",
+      "b3a50f26-5e0b-49d8-8d63-9a34d61c5705",
+      "8ce720e9-a63e-45cf-adcd-1897765c14ce",
+      "487e563d-9056-4025-898c-089a0819016e",
+      "c3cf8a45-722d-4d1e-8541-ff7120159ccc",
+      "5c471f07-f295-4e8c-b2bf-c19a62055788",
+      "2ae39796-a2d6-41cd-bc57-9a378607da96",
+      "6ae0ac81-b777-4e55-8610-3f551b177fd7",
+      "9f4ad69a-301a-4b26-8849-f015d6d8f772",
+      "afdefa15-6c3b-4038-9329-ab397cc71a53",
+      "17560bc7-92f5-4d0b-b12c-e0ff5baf203b",
+      "c5db406d-f0e8-4d47-9204-97134b0b3a6a"
+    ],
+    "IfcPropertySet-5dacc61459d9e12d0039ef8ff9a6d8461e5307aa": [
+      "f9dfcff5-79e5-4239-9cea-025058bf5183",
+      "b2d95e9d-666b-4cf6-bdd9-c39f2a137091",
+      "b8e1121c-a9fc-4197-b321-430ccad5e281",
+      "a6dbca85-6559-4195-8079-b302df532902"
+    ],
+    "IfcPropertySet-6463464cbb45070da178e105abf53b39867ea8ed": [
+      "ebb045ac-af08-4df7-8449-71009f547f10",
+      "218fc713-ba47-4209-acf8-28df8dc21c19",
+      "a29734d3-6e3f-4286-80af-ae73d451a467",
+      "23da68e0-0109-450c-b5ea-5c67ad0e909b"
+    ],
+    "IfcPropertySet-67408291f1eb998257e1cc35c6b6c13a7c76a4ff": [
+      "29e60985-cb6b-472b-9bff-5a968e665e41"
+    ],
+    "IfcPropertySet-6779af7cee2bca9a050026f4341c25138b575f16": [
+      "39ddaa74-2493-4578-bde4-d1abbd0611d3",
+      "dbd7eab5-2aef-4eaf-9d4b-151116f3e626",
+      "cf786e02-02ca-41a1-b8ee-e5fd3d63dc7a",
+      "3de5253d-5d9e-462d-b331-95b22e8d836a"
+    ],
+    "IfcPropertySet-67bbd34fd5dd6f60c08299a922c5f7ddc671f137": [
+      "d8a078da-da75-47f7-a533-49f4e7aefe56",
+      "a6355a34-1564-4461-b17b-1f3ae028ae6e",
+      "27a20bf9-677b-46c9-a11f-20c5fb381ecd",
+      "b698151b-9459-4d26-ae19-9288eb0a463b"
+    ],
+    "IfcPropertySet-68a227e7f7c42758389c51c331b6d10eef18d669": [
+      "f6ec9e43-b092-4dee-b8b4-82f81b5b4ce4",
+      "8818cb3a-c048-4928-9e06-ac1977b5e6df",
+      "90ae1b12-bf1c-4a2f-a8c9-cdaab7ef4c4d",
+      "f99e8233-c3cc-4621-af69-58a30511c3a0"
+    ],
+    "IfcPropertySet-691dedfdcad34e456dc2bbbe0968893144a9f806": [
+      "6dd2933f-dd68-4ea2-b95e-c15bd7eabe63"
+    ],
+    "IfcPropertySet-71744a59503878ad0b3e1958dbe0e9bc04fbda7b": [
+      "29e60985-cb6b-472b-9bff-5a918e665dfa"
+    ],
+    "IfcPropertySet-7a45d3124bc156b22ed92a06ab95bd36aa92fdd9": [
+      "06c88ffa-5de7-4835-b19f-44bd6d6c8433",
+      "b10bc54f-e299-46ff-a5e2-0c54b0a26aea",
+      "169cdde3-7b3d-4ea4-8855-036b7e373360",
+      "ed966ed3-6541-4a30-8da6-58e92ef92197",
+      "dcfb03f8-613e-48d0-8f07-62bbb27f50e3"
+    ],
+    "IfcPropertySet-7e2bc703410106923671081eb9737527b0158732": [
+      "0ca31144-4084-426c-8071-a21758962cda",
+      "2647ac4f-7ba0-4dac-b297-394620baa195",
+      "6074d47e-19ff-4e3e-8db3-5ac0b3667f6d",
+      "86faecf9-9cb2-48cc-8149-29e58303e1eb",
+      "a1ac14ca-0a3d-4fd6-8719-64715eb15602",
+      "cda46b10-efe2-46ef-b3f9-ec1103dad438",
+      "17924ed7-2c7a-4d31-a578-56e1e399b0a7",
+      "82dd1222-0eaf-4508-9e50-482d1226acdb",
+      "bb56cab1-f3e6-4161-a61f-01487f58eafe",
+      "f846d70c-3603-4b0a-b424-e8030c8cb603",
+      "8763cbd0-d28e-4c95-8e73-58f9814f83ca",
+      "29f98994-ca77-4b49-b1fc-6abb43e28577",
+      "2e14a56b-680e-4cb3-9481-262e531171c1",
+      "5270bbf9-34b4-45f6-904b-c6f25091f08f",
+      "263bdaee-06fa-4578-af66-c43ed54627c0",
+      "b5039bb6-ccd4-4c1b-9346-dc21e38b11d0"
+    ],
+    "IfcPropertySet-7f1bcb4c3e2090c02bde3c955f578936f83030f1": [
+      "264931dc-4f9e-4b18-bc04-bc8515cbc19a",
+      "bf30755b-b052-4050-ad64-a71d57dc4ef1"
+    ],
+    "IfcPropertySet-8a75788d5b435695d33af1741d010a268eaaa11b": [
+      "ce600bcd-e7a3-45a2-b59a-173489a6035b",
+      "ce600bcd-e7a3-45a2-b59a-173489a6035a",
+      "ce600bcd-e7a3-45a2-b59a-173489a6035d",
+      "ce600bcd-e7a3-45a2-b59a-173489a6035c",
+      "ce600bcd-e7a3-45a2-b59a-173489a603d4",
+      "ce600bcd-e7a3-45a2-b59a-173489a603d7",
+      "ce600bcd-e7a3-45a2-b59a-173489a603d6",
+      "ce600bcd-e7a3-45a2-b59a-173489a603d9",
+      "ce600bcd-e7a3-45a2-b59a-173489a603b9",
+      "ce600bcd-e7a3-45a2-b59a-173489a603b8",
+      "ce600bcd-e7a3-45a2-b59a-173489a603bb",
+      "ce600bcd-e7a3-45a2-b59a-173489a603ba",
+      "29e60985-cb6b-472b-9bff-5a948e665e23",
+      "29e60985-cb6b-472b-9bff-5a948e665e22",
+      "29e60985-cb6b-472b-9bff-5a948e665e5d",
+      "29e60985-cb6b-472b-9bff-5a948e665e5c"
+    ],
+    "IfcPropertySet-8b017f79f8b0f1efebc12464ea3b889d75b34545": [
+      "21fd059d-c72d-41ba-80c6-0880ab264d1e",
+      "41314676-81db-43e6-85b8-4a17e35f8cfe",
+      "6a9c3fa4-2f99-4452-ae52-302d3d27bc17",
+      "6571056f-1ea0-46a4-9d59-1e85e01eae33",
+      "0ccaf3f0-6ccd-40cd-ba6c-21bc3ff6b043"
+    ],
+    "IfcPropertySet-8e85d0eeb1f60b3eaaf90d2b34cc67cae77ecb30": [
+      "29e60985-cb6b-472b-9bff-5a918e665d6e"
+    ],
+    "IfcPropertySet-90f76ada313a4504a75218101835d6c5716d27f2": [
+      "bd34297b-2430-4713-994e-635a11a4ed30"
+    ],
+    "IfcPropertySet-91b22f090fe3080057fb77ed95c799db88c27668": [
+      "cf3f9241-d960-4efe-b2a1-0570b4ea90d7",
+      "1b734eb9-a2fa-4216-8471-43ce9c8db9d7"
+    ],
+    "IfcPropertySet-95fa755aa269981dbdff4eb60d8ec3cc83aa2b0e": [
+      "29e60985-cb6b-472b-9bff-5a928e6643a1",
+      "29e60985-cb6b-472b-9bff-5a928e664348",
+      "29e60985-cb6b-472b-9bff-5a928e665cab",
+      "29e60985-cb6b-472b-9bff-5a928e665c4b"
+    ],
+    "IfcPropertySet-9719aa9375d101b157231cc956e2819792d2dc18": [
+      "29e60985-cb6b-472b-9bff-5a948e665c76"
+    ],
+    "IfcPropertySet-9bc59dce614ab3948f1ba69203a2db53b74c4931": [
+      "01c5b295-2ffe-4963-9a69-bfdd66fa0853",
+      "147a7436-3f4e-48a6-b4b7-f58a89ce4d5a",
+      "123bb544-feb9-4195-865a-068deb484a27",
+      "f9990ab1-fd8d-4d06-b974-bff785b095a7",
+      "59dccc1a-7b9f-4916-93e0-8a6261e0e4b3",
+      "0ce814c1-83cf-42df-9e37-ad241ca2edd0",
+      "08ca66be-02c1-4f5b-89f7-2fd8f7f04165",
+      "f4d37251-0366-4b08-8fd4-8435a2d6eb94"
+    ],
+    "IfcPropertySet-9e680614a7876479b307543abe3ea5837d2548cb": [
+      "dff519b4-271f-47ca-a6c7-a441d6d2d386",
+      "6832f85e-782f-4010-b265-1a49b48f0ab1",
+      "dff519b4-271f-47ca-a6c7-a441d6d2d384"
+    ],
+    "IfcPropertySet-a2af1839688623b54cf698b1a0d44f1087d72436": [
+      "c6b24dd6-dc39-4f12-9185-0ea7d7f5f057",
+      "bd17bfb8-952e-441b-b9a5-434c033634c2",
+      "7da00058-62fc-4777-9415-4e899b6b728e",
+      "ad17df49-6d57-4cfc-b2d1-5153247a018b",
+      "b3f920ad-ddb1-46f9-9262-98edcdaae551"
+    ],
+    "IfcPropertySet-b3665f54898a61ca1c03b029392c24410223c13f": [
+      "0ccc2b28-32ac-4c21-929d-796920792631",
+      "23dc0bb8-df8f-437c-8b35-8f240f320e7c"
+    ],
+    "IfcPropertySet-b59f3b3f9e13f8d3cf79d028cca50adf0e5e57ec": [
+      "b6d3f1e2-aa76-4e51-98d5-782183ed5da4"
+    ],
+    "IfcPropertySet-b6459042aae56d7775bb337a85d0f37bb2914390": [
+      "e3e052f9-0156-11d5-9301-0bec863f269a",
+      "458c0e49-01bb-11d5-9302-0bec863f251b"
+    ],
+    "IfcPropertySet-c699227a09f357d042eea57fd13158c767c0f127": [
+      "559a6d54-1487-44da-96ba-09401c29a9a5"
+    ],
+    "IfcPropertySet-d30e1aba8da4e3c2642c4fdaf640a9bfc295e200": [
+      "d8a078da-da75-47f7-a533-49f4e7aefe68"
+    ],
+    "IfcPropertySet-de24312232947371d1a3039681261a358b122812": [
+      "df94a75e-1b02-434d-a5be-90badc909873",
+      "caf249bd-3405-4684-aae8-cea8d39ba092",
+      "c1269d0e-5ab8-44bb-97c1-eceea3a40548"
+    ],
+    "IfcPropertySet-de84e003df798aca34dbd59460aea83b70f851fb": [
+      "1c9b5b35-499f-460a-9ddc-5ac2782f0214",
+      "d6969ac5-8fc3-42c3-8f1f-90531479071a",
+      "a338901a-240e-41a4-ab21-e5c9555d88f8",
+      "9fff4654-6850-4e4f-8d50-92240b06af1d",
+      "9c097528-dc4c-4327-a151-75139e689e7b",
+      "41bbda91-b25b-4dfd-8474-1420aba93f4e",
+      "c61d13d6-c345-4c60-ae22-5ea5c78612ec",
+      "647f1939-e114-46a4-86b9-463b15c67f0f",
+      "ea52d422-23f9-4af9-b871-a59d8ff58634",
+      "06e05d72-06c7-470b-b0eb-3fa4562bf3b8",
+      "4bb7e63b-d72a-448b-9405-95646916d8dc",
+      "958ba9c7-844a-41c8-9af5-3e5f7703ba4b",
+      "39c2578b-aad6-4ba8-befb-7ee8d5149743",
+      "5d50367c-738c-4df0-bf87-8afe53027808",
+      "cda43c8a-67a6-4c63-8209-55f98bcc87ec",
+      "ab6a8053-2045-457d-8c69-2f338864706b",
+      "48e937ed-fa85-4c6a-afb2-a4983404c33f",
+      "67f209c7-dc5f-4207-80e0-144eeb03ce6d",
+      "8f2c33a9-893f-4d9b-892d-3314f209e565",
+      "945b5915-f983-499f-819e-e31b2aa12ee1",
+      "790fe5f9-287e-4a53-bdae-1979de7db156",
+      "d7a40d03-95ef-44ae-92c8-a62b845e0264",
+      "dd11e039-b22e-4189-9a7f-452e81a7b81f",
+      "305933cd-bf27-4c4c-aa8d-f436802ab37b",
+      "a9065a13-e924-453d-9028-d38e313240c0",
+      "f234cfbb-b8e9-449d-8c9a-0874192c6a53",
+      "c66a5c9a-3166-4460-8da9-099288aa04d7",
+      "1783e6dc-88a8-4d87-ac7d-a78cdea22f2f",
+      "42859684-ca54-44e1-a498-e95813e5da6a",
+      "ef6cfa4b-7024-42a4-90d9-9083fa12b2e5",
+      "9c68c820-2218-4f7d-9895-75afbd643eee",
+      "368a8a5b-a36e-4eb3-ae23-49fd20911820",
+      "3a000a23-e556-438f-8982-51105d684d31",
+      "ce0c2b65-1312-43fa-b199-95f746ce328b",
+      "7c39cd01-1241-44a1-afc5-3b43972262bb",
+      "09109bd9-dec5-4c9d-b9c6-b0a453e2cfe4",
+      "d1834b54-1210-4987-8bbb-e768e3952e74",
+      "12239ed8-23b2-411a-808b-87b2380b39bc",
+      "52bf911f-747e-4cb9-aa1e-da5c7893fe4b",
+      "2270d6ae-9025-43dc-8cc5-7bfac8e72d0a"
+    ],
+    "IfcPropertySet-e530231558a2ccdf2835c1bc022a23ec94c4226c": [
+      "f1725f7d-c440-49f2-a715-b488060b9937",
+      "2f857487-1683-44c4-9148-122cc1bf1e6f",
+      "981c61b3-f38a-4232-8209-8b1a55ef42c5",
+      "2eff826a-3a3e-4b1f-8649-258e4da1ff44"
+    ],
+    "IfcPropertySet-fdda70dca5f4361f9b17665188cff6721579045b": [
+      "50c4b053-7bed-47ef-b757-ec494ab6d61d"
+    ],
+    "IfcRelAggregates-1e06ee18265ffd10fc345094b7156c3ba2458431": [
+      "3ea33c50-a445-41f0-a306-c4d7d453522b"
+    ],
+    "IfcRelAggregates-32623bbf1e6afee1470a078d60203c471675a486": [
+      "51322310-77cb-468c-a501-a293ad539bb5"
+    ],
+    "IfcRelAggregates-394f3c22cbeddcab2393026e61a44bd3bb9c799e": [
+      "d145332b-b924-447c-ad36-51f27cb0331d"
+    ],
+    "IfcRelAggregates-6ded33117b0f815129b3f62968a9433ec072d1e8": [
+      "bf0552b6-b7f7-4331-96d5-b19b43277811"
+    ],
+    "IfcRelAssociatesClassification-21dd9cceb3b5985310faa9fa714256036ebdd151": [
+      "b1d9823f-b5db-4b6d-b40d-423fef2040c4"
+    ],
+    "IfcRelAssociatesClassification-c4ec0a16510b95e4b05049b1757e6f7bcd395ce2": [
+      "67aaebbb-059b-4e03-989a-2eabf4146045"
+    ],
+    "IfcRelAssociatesMaterial-09190b7ce1cc332422ec3ebeb504f21730477d3c": [
+      "be8804ef-c59a-4c5d-b76f-b18326b01d56"
+    ],
+    "IfcRelAssociatesMaterial-1edeec01934313b9a27d26784b9618283167c905": [
+      "e879a24b-f75a-4f22-a160-2da43f7a7eb0"
+    ],
+    "IfcRelAssociatesMaterial-30bcbd22798f7cee8a1a4a4dd525b7a2806435a4": [
+      "338f214f-c600-45fa-8588-b8d62db28dd7"
+    ],
+    "IfcRelAssociatesMaterial-3ad968702d3f3e659b40272a052a534ab11a3809": [
+      "eaafd17a-0483-41bf-b410-18a20bdf548a"
+    ],
+    "IfcRelAssociatesMaterial-5e6ef46ff212c9dca1fdd81f35b5eabd524e413f": [
+      "6a1fa38d-55e8-48dc-9668-f7af216bad23"
+    ],
+    "IfcRelAssociatesMaterial-62c53d51fd974990cde78323ac0c9027793b9989": [
+      "1f5961c4-ae13-4e44-a278-a28062396f11"
+    ],
+    "IfcRelAssociatesMaterial-67d4385bee00c5fa2b3f1942756caf7d7a84653a": [
+      "a420c613-612d-4b71-a86d-99fad5939312"
+    ],
+    "IfcRelAssociatesMaterial-6cd3ce7eac06decd461dc39141225646df87e2d7": [
+      "900a7657-c078-4bf9-9eb4-9d6f88a9c176"
+    ],
+    "IfcRelAssociatesMaterial-70c5fe9e7318995ed800d04e91cf1fe8c11289ea": [
+      "aa0aec95-28fe-4126-ba9e-b7ecd0324a6a"
+    ],
+    "IfcRelAssociatesMaterial-76e02ee837b0ea2a61c9f3e3baa8b91c2ace0df1": [
+      "c10ac6e8-7085-4a0a-b906-ee3102eef66e"
+    ],
+    "IfcRelAssociatesMaterial-7d4fdadeaa993f3f196286126813fb74f3cd5684": [
+      "45bc412b-17b5-4135-8824-981188ad1aaa"
+    ],
+    "IfcRelAssociatesMaterial-864aaee4cabc902da90cac402231c111c5d59712": [
+      "dad80736-4759-478d-90b9-d034aa067274"
+    ],
+    "IfcRelAssociatesMaterial-94b78f26690498728ae50d1ab597b5b783766c67": [
+      "ba40d547-2047-4f6e-85fb-a03d7c1c673e"
+    ],
+    "IfcRelAssociatesMaterial-9ec11f5e4c606a172226384465773b553f997c6f": [
+      "8c534944-0aa6-461b-b953-3ab8bfe39c2f"
+    ],
+    "IfcRelAssociatesMaterial-ac8f8c4d847c95bd013d5d2cd174f0a3800f8c00": [
+      "ff6b7984-0fe1-477f-b491-0fed048c0f21"
+    ],
+    "IfcRelAssociatesMaterial-b6a6069146d7670fbe24a91067b24c8bb209b415": [
+      "24a3a6ce-4fb2-4376-83b9-f9a7b1949831"
+    ],
+    "IfcRelAssociatesMaterial-b7bf3a12248cc37b0d223c261b3a5a01062c3ff5": [
+      "0f03696f-671f-4682-9f5d-c0befb95a3f0"
+    ],
+    "IfcRelAssociatesMaterial-c555d45abdea2d320c0b5b219232add7b4b745c9": [
+      "a65570a3-9e13-46a5-8387-ac4da1f24016"
+    ],
+    "IfcRelAssociatesMaterial-cc4e21db7a9631b05b0b767236c1f56582f2d3aa": [
+      "8a83b7b9-e546-4668-a230-52b47875d587"
+    ],
+    "IfcRelAssociatesMaterial-e027a540b6b08f8a7e7c69840b13b2cb8e0c7585": [
+      "9edefa72-eae1-4f29-a356-8008398d13a0"
+    ],
+    "IfcRelAssociatesMaterial-e93193078b9df790e5d57ef612d0f2ad082d7d74": [
+      "10047aea-d9bf-4bb2-90dd-e72d3ed99677"
+    ],
+    "IfcRelAssociatesMaterial-f13572ae23c897a776e4a7abbe1a6228fa96896e": [
+      "81bfbb7f-ac6f-483b-9565-80fd00b9a111"
+    ],
+    "IfcRelConnectsPathElements-1b90da023dd346aba750262830213002c216a1ad": [
+      "ba0290ab-c5f8-4e22-8a07-d0700861a8b8"
+    ],
+    "IfcRelConnectsPathElements-40be12b9ae1a09ef1f2c6e6f55a20e757eaa8335": [
+      "17ba7374-8003-4af3-a416-a19397143eec"
+    ],
+    "IfcRelConnectsPathElements-72fa02dc359895a62772daf76792d00524483509": [
+      "b39b1b1d-5253-4e5c-ae24-94eba8efd612"
+    ],
+    "IfcRelConnectsPathElements-844cfafdce93ab8b74227ed5b83ea39c2516ce56": [
+      "b0b674c3-6de4-411f-898e-0b94fac63206"
+    ],
+    "IfcRelContainedInSpatialStructure-1b1d3831f5dbe3bd45de7277a6bddd9ba5e42288": [
+      "458c0e49-01bb-11d5-9302-0001863f251b"
+    ],
+    "IfcRelContainedInSpatialStructure-7ac728001e0c5c487f722f428c1e840c71b2c401": [
+      "e3e052f9-0156-11d5-9301-0001863f269a"
+    ],
+    "IfcRelDefinesByProperties-0054648b72d3b264f251049e57ff0972e724d9cf": [
+      "9c1f6241-ff63-44a5-b433-287ee3097b40"
+    ],
+    "IfcRelDefinesByProperties-014cbcaa8959d01cbdd443baa3c41de3728433e1": [
+      "779e5465-b554-4865-be15-c605ed88aafb"
+    ],
+    "IfcRelDefinesByProperties-024e6b86b67f1c321975f177c508a60c6ec14a2c": [
+      "344a1b82-00af-4d9f-a209-92ddf13f9562"
+    ],
+    "IfcRelDefinesByProperties-033db1069561772046a2ab0d1b1fa89e69493d6f": [
+      "0c36515c-ca26-4cda-8733-88d2957c30eb"
+    ],
+    "IfcRelDefinesByProperties-0538092d2c00a0198268a60d0a9cd69ab6cd7fb8": [
+      "962ae0d4-89f4-48d2-a070-b8abdf922e93"
+    ],
+    "IfcRelDefinesByProperties-0619fa301bb916333b8ee5c1087d30bc4f175f40": [
+      "1248fae1-daa0-4b6f-8e42-8db14e0495cb"
+    ],
+    "IfcRelDefinesByProperties-068d7ab7c18d66ada778da603c8d0cf0e5546c72": [
+      "7e9c4f4b-ef95-4c18-9581-94cbb56cd9bd"
+    ],
+    "IfcRelDefinesByProperties-0690c354f85158fb489eb8036439d60568731bd9": [
+      "47015695-e4a5-4ad6-a8fa-bceaf1184098"
+    ],
+    "IfcRelDefinesByProperties-07063e52fea035dea6ed35bf8e12c5c110218558": [
+      "1ded61f4-581e-4a50-8d0a-37a8134b31f1"
+    ],
+    "IfcRelDefinesByProperties-073596eb298f0c0a48e3e37e901cfcac4da41875": [
+      "82be23ae-118f-4cb2-85c7-a4bcb01a39cb"
+    ],
+    "IfcRelDefinesByProperties-0985c8c76d4278cbaae6bf0e875fceac10eab511": [
+      "eb2b0011-aabc-47a1-be2c-2aca59e09858"
+    ],
+    "IfcRelDefinesByProperties-0a1c0f927aa765b61d2c402b717580be67962a5d": [
+      "813e0554-8836-41d4-acee-d264bf1e457e"
+    ],
+    "IfcRelDefinesByProperties-0abd99b8c649ea12f71563aa9a4161df027dfb21": [
+      "93857dde-4684-4711-a6c8-ce95cdfe4394"
+    ],
+    "IfcRelDefinesByProperties-0aed1aff249c4783225e6f228750d4a51434aaa0": [
+      "fd734325-a34b-458c-b4c7-57d01affc92b"
+    ],
+    "IfcRelDefinesByProperties-0dc061c4902936439403f64ea9f0f8f5d5706405": [
+      "ca2a9e36-a2aa-4ac0-8e3a-7b020de3769e"
+    ],
+    "IfcRelDefinesByProperties-0ec130b6a2825d08af81ad9a04abb1047a7eb491": [
+      "7b0d4792-cb95-47ec-815f-a7a631c0fba6"
+    ],
+    "IfcRelDefinesByProperties-0ed7bf1b12c2d67f125fdbf0d82276bb9fe72651": [
+      "d6ff89dd-5d18-4620-a7f3-ee6e162241fb"
+    ],
+    "IfcRelDefinesByProperties-0ff65729fc82f691169f83d0e0fada8f6c19cd8f": [
+      "4edee9bc-9ecf-4c3c-b0a3-1783ddd4d46d"
+    ],
+    "IfcRelDefinesByProperties-1059b02837a83842b61b1f3300e3501f4505e6f8": [
+      "f8859851-252b-4fcf-ab39-697ff3e94c48"
+    ],
+    "IfcRelDefinesByProperties-14b064fc821fe2412cbc73954ca85f768a6a0a2d": [
+      "8686696f-83e6-4487-abe3-ee065063f93d"
+    ],
+    "IfcRelDefinesByProperties-161d9b1a91439621de8fe5c863eac00cd4108f25": [
+      "e9adee3d-9851-4af6-a7c1-e82e6cf39b00"
+    ],
+    "IfcRelDefinesByProperties-16276ec5ee90a1d91423b5a0ea454eb8bca3b601": [
+      "114cdaa2-df68-4d14-85bb-47acd64393d9"
+    ],
+    "IfcRelDefinesByProperties-1782fb31dc9bea688a29bfab29f1d7629afbd189": [
+      "90318007-e1b1-42b5-9176-12c9e559e529"
+    ],
+    "IfcRelDefinesByProperties-182a5a6f7a66eef0ad4ab1184ddb520a507bb8b2": [
+      "009de5d6-f90f-4d82-bbc5-9f157449854d"
+    ],
+    "IfcRelDefinesByProperties-1a8212b36ca3969b17ab45a6585734a0d33d8b32": [
+      "722f96b4-2ad5-4979-b08e-0ff5f7e06322"
+    ],
+    "IfcRelDefinesByProperties-1d51c26098b4d2dfeefce857a6e221143bfba3a6": [
+      "848a611e-ec17-4671-ba6e-18d04b1f9405"
+    ],
+    "IfcRelDefinesByProperties-1f5adaced6f99af9e302b8ce4f9bbccbaab6cdd4": [
+      "f6c53e8b-8cab-4e4d-9e16-bcdfbb97d9be"
+    ],
+    "IfcRelDefinesByProperties-1fdb58613f14d694f9309576a226609dc9a159e1": [
+      "d42f69bd-dc97-495f-b1e1-b043f8b44822"
+    ],
+    "IfcRelDefinesByProperties-22b52541ec69e73d7b51904270e1c3ed91545cda": [
+      "299d2bb6-28db-4395-be6c-288f7a23eee1"
+    ],
+    "IfcRelDefinesByProperties-231f0b9d8385db9066b17e88f9d992f13e820bf7": [
+      "0767aec1-bef5-4590-975b-dc6c67a01977"
+    ],
+    "IfcRelDefinesByProperties-24a8a9441010c5ad147ae6b8cca9bae53bc6d35f": [
+      "62b1b080-9a30-4325-987b-48c6ba7491fd"
+    ],
+    "IfcRelDefinesByProperties-2558b4103726d5ae4fee09e9cf6f06fce13eabfe": [
+      "ebd06f9e-edbe-44ad-a7a3-e1cbaf72bdc7"
+    ],
+    "IfcRelDefinesByProperties-285ce0c691e1a3c2c529d85b75f1654fb2276343": [
+      "64ba8e54-e6d7-40a2-926f-a47758e9b4b7"
+    ],
+    "IfcRelDefinesByProperties-286f15028054a6659feeb59bb61e4b06438ebf07": [
+      "9da3ee58-c845-4d4f-8037-4850dcd99e08"
+    ],
+    "IfcRelDefinesByProperties-3014afb606cf690248235af0506c3d059bbac328": [
+      "644559ae-c2cd-43cf-ac4a-033efe852182"
+    ],
+    "IfcRelDefinesByProperties-319fb1a3bb92ef191d7f2eb73193a105547c67cc": [
+      "af0c81f8-5198-4e98-ba50-b996e03b48e4"
+    ],
+    "IfcRelDefinesByProperties-31cbfba79a0d643c78d662c26934a321c3c38a54": [
+      "33394e2d-8b5c-49b5-92a6-28931e4b2b61"
+    ],
+    "IfcRelDefinesByProperties-31ce74f6ad935aa812fe44205482c064059d65e6": [
+      "3cf68dbe-a13f-46a0-b8cb-6f4f1c7ebfae"
+    ],
+    "IfcRelDefinesByProperties-36033e72bb0015c8a79361b17283eb48a3990e8c": [
+      "55780c20-4106-4873-ae7b-a00c08bd9755"
+    ],
+    "IfcRelDefinesByProperties-37da103cea006ce89aa9f12a85052a95e370a2f0": [
+      "105972e0-af73-4038-8ced-43532902a6f4"
+    ],
+    "IfcRelDefinesByProperties-37dd95b21f4551da3778512d46e056ee2f9ef26e": [
+      "ee3a79ba-b59f-4cfe-a955-538b9eea12e4"
+    ],
+    "IfcRelDefinesByProperties-392d8fa714b6d73721b9b41f8f75d916a425fed3": [
+      "9c2c44d7-65b5-4708-8869-ac8dc66a8685"
+    ],
+    "IfcRelDefinesByProperties-3bdfb674b12c70ff953199d2f121275b6284d607": [
+      "680bb2d2-957b-4567-bec6-17190dee1840"
+    ],
+    "IfcRelDefinesByProperties-3d85129f4c62ab56e8c6f000dd60a93d8574b698": [
+      "b8d00fcb-88f1-4456-9fd9-ac21ce3e6a21"
+    ],
+    "IfcRelDefinesByProperties-3e4843b8b43cfdb60708fa8b698e064610c64b73": [
+      "2bfd6093-c753-4e07-a618-5d4f4434024b"
+    ],
+    "IfcRelDefinesByProperties-400b9b2204468d115a085895d412c253d42dc480": [
+      "f1fdeb80-810e-4bf2-a960-c0b730211fbd"
+    ],
+    "IfcRelDefinesByProperties-40a6e6e7c54a6bc7b214c89a61b024a897616482": [
+      "22a722be-3887-43c9-9cc5-5affad689b9b"
+    ],
+    "IfcRelDefinesByProperties-419de102370f735334cf4061a2d593ee6d154da1": [
+      "cc2aede8-a152-4b75-b221-49c69d964651"
+    ],
+    "IfcRelDefinesByProperties-41bead1a978fa8b4f99a1dfaf7ad69b948959805": [
+      "803f14df-ed38-490e-8061-accc488c4b9a"
+    ],
+    "IfcRelDefinesByProperties-4207e074f4e243eedbb81ca4a4574f0e59be8014": [
+      "fb5f0b42-abbf-4cbd-b6f5-9d8186687e1a"
+    ],
+    "IfcRelDefinesByProperties-43e4acb5c6a787711fffdfb666d243819cafa5dd": [
+      "fcb3186c-c44c-477a-954f-f1e36ebad1d9"
+    ],
+    "IfcRelDefinesByProperties-44db3d7e4d4ed8334faf3bb9b38035e342b1dba2": [
+      "a6e0e561-7168-402e-84bf-b8f5ee012a90"
+    ],
+    "IfcRelDefinesByProperties-465cf673e8c787eb5c4444b0574e82fd1c50b564": [
+      "20ce78c7-0a34-4708-978c-871ca960c8fa"
+    ],
+    "IfcRelDefinesByProperties-485e3e56f66355281839ff575ccfdf81428949f2": [
+      "158732ff-ade4-4b43-abf8-55ab81c8faf3"
+    ],
+    "IfcRelDefinesByProperties-48a801d9f1185bb73a8c6dae30de3d6854bb5c34": [
+      "f6f38e12-d387-4cf2-a75c-e801bcffe291"
+    ],
+    "IfcRelDefinesByProperties-4d2c930c84cccb8a4632a47cff31e2ff3cca812f": [
+      "2d1a0b93-2e8c-41c3-a905-18348b7f993f"
+    ],
+    "IfcRelDefinesByProperties-4e03aeb6c989007229bb94caf6e5e47f8bceb481": [
+      "fd7fedae-6a70-4605-ad04-9224ed90fac8"
+    ],
+    "IfcRelDefinesByProperties-511e772bc2819d157af77dc064cde084579d3711": [
+      "e59c7ae4-84af-441f-874b-f520fc3f53f3"
+    ],
+    "IfcRelDefinesByProperties-517f3141c1d564d1da5c50de7b9b4d32c618901b": [
+      "75fed87b-b0e4-41c8-854a-673ce620ea9e"
+    ],
+    "IfcRelDefinesByProperties-519717245dace267503e5f5142519a71d7cc6bee": [
+      "e236e3e3-4e6e-46e4-bb8c-59b53359f4f5"
+    ],
+    "IfcRelDefinesByProperties-51f9aa2a8966020a6de89354e8fa8fbfa0a1e506": [
+      "5ec9dd8f-26c6-46f6-b25a-85c4bd6dcac0"
+    ],
+    "IfcRelDefinesByProperties-52d368c357f7d30ce82fa6908e2439f770f20202": [
+      "9cd6a179-22a8-4586-a41a-6bd981ee9dfb"
+    ],
+    "IfcRelDefinesByProperties-55ef8cc7d20d7dfcb18ac677bf0a361e3e57b223": [
+      "f8a6a88e-6f69-428e-8a7d-ebcd37b30b16"
+    ],
+    "IfcRelDefinesByProperties-5a66e894c555f831e8c5a580384d00393fdfcafd": [
+      "57f5690c-be8f-440f-9638-b3df1e139ade"
+    ],
+    "IfcRelDefinesByProperties-5ab848bf3f595904f97a34272b93688805db7008": [
+      "7ce52a40-684f-4d74-94fb-cb383a1fceeb"
+    ],
+    "IfcRelDefinesByProperties-5d87a46cb93ed7fee945eb0409a7d27747dbeba5": [
+      "05f6f2bf-5483-44ea-a06f-f4ed2ed68d19"
+    ],
+    "IfcRelDefinesByProperties-5d92e2abe4e68a67b4b543f00418e55925b796db": [
+      "dc541da9-53a5-41f4-9a54-6a4ccbf4b020"
+    ],
+    "IfcRelDefinesByProperties-5f351128ef7cb8a2aa124693694b9cb9610bdd6c": [
+      "15882dfd-5371-4a76-a0db-b2f28d9962c9"
+    ],
+    "IfcRelDefinesByProperties-5f9971cb165ce93bf8c49e5faff3c7d6c24c9cea": [
+      "913639e6-30c1-47cc-8358-9792445ba7b9"
+    ],
+    "IfcRelDefinesByProperties-62906eed1f880faca1592ede83fe4f8862e6e463": [
+      "3c3360c5-d498-4d3d-84a4-180825739f68"
+    ],
+    "IfcRelDefinesByProperties-62ac306192aa5c743efed61d7b8993cdb37ee799": [
+      "39f96ada-3a6b-4ba9-bb1b-d18ae17ea5c8"
+    ],
+    "IfcRelDefinesByProperties-640ea70560a83be5c7413e368ab3db2c43eabc07": [
+      "c9043fd0-f903-44c7-9a8f-2b3e4390f487"
+    ],
+    "IfcRelDefinesByProperties-64c6267e8109611a1b1aaf2cee47f680cf603a64": [
+      "d871a8e6-1d00-4a3f-8d65-b512f2552298"
+    ],
+    "IfcRelDefinesByProperties-6c2f6176566d2ba394433d18bcd59d3fa422aa88": [
+      "c58b4558-93a0-4887-bbed-a190c0a7ded8"
+    ],
+    "IfcRelDefinesByProperties-6c942697c8e6293c2ba4ca218879d97702746367": [
+      "47df2290-9b3d-4bc9-8482-6c3c37a85d5b"
+    ],
+    "IfcRelDefinesByProperties-7082fae5aec9202bd6fcf283597569666f0d886c": [
+      "d58dcc8f-9041-4c38-a748-a4a535b71bcb"
+    ],
+    "IfcRelDefinesByProperties-74b290e6ba13be938cf9ef714f4e56ca4e11af00": [
+      "b3a39ce0-c9ad-4d30-903c-dd902bca3a1b"
+    ],
+    "IfcRelDefinesByProperties-750e26864c62470fe14857f3f3f476bb16423fdf": [
+      "cdb0168e-0465-42ac-9f45-e74498a29f0c"
+    ],
+    "IfcRelDefinesByProperties-755f254d09a1ce808a1df9cfc4a602cf726b52bb": [
+      "7b383a7e-90b9-425b-9dba-097606007eeb"
+    ],
+    "IfcRelDefinesByProperties-77578e7b27ee99f90f0d3a5edaa0b8a2d67e06c1": [
+      "317a88d4-bd73-4559-b223-f68a2ca83dfc"
+    ],
+    "IfcRelDefinesByProperties-7a4c1a9b55638e9ae79a4e1ccc7fb92586d566ec": [
+      "ed6d5654-d317-4c6d-b204-7243825bf228"
+    ],
+    "IfcRelDefinesByProperties-7c5709e4d582768458979c59685bf76a2d1214d7": [
+      "fdc2f882-f330-46cb-ab5e-bb6d89fbf0bf"
+    ],
+    "IfcRelDefinesByProperties-7dc13939717009dc77d55cc6c66760661e7580ad": [
+      "21b8d58a-89a8-43b1-99aa-36c86fb7a7b9"
+    ],
+    "IfcRelDefinesByProperties-7f61dfdcfe048ae3dd19b28df37f43f33d52b5bb": [
+      "8af44369-e54d-4d3f-a715-a91920d948d3"
+    ],
+    "IfcRelDefinesByProperties-7fe8fe57d1512447ced3c8623994f585d3db9bd4": [
+      "955ef1e3-7e9f-4874-8764-071d7a50fc22"
+    ],
+    "IfcRelDefinesByProperties-80e97702f23fa2958a064c9de46895472aae9344": [
+      "69425df6-2bf0-4fa3-8134-77764a81287c"
+    ],
+    "IfcRelDefinesByProperties-82c6b51ceb7f62320f7618c860b9598d822a4b69": [
+      "36e36196-7a8d-4c9b-8061-4b37d7e30b24"
+    ],
+    "IfcRelDefinesByProperties-832977807fce7f10cf089efca1513bd18d919be9": [
+      "d509aab6-b4cc-4076-ac24-d5bd2cdf8346"
+    ],
+    "IfcRelDefinesByProperties-83b624ea0c15253116b268864e6aa9d091fbf401": [
+      "a7628dcf-1973-44d6-be64-85fe18e51c60"
+    ],
+    "IfcRelDefinesByProperties-847e801e1c20659dbf63df99a24cd5c9947c39c1": [
+      "73ab7d4f-04b5-444c-a55e-2201ead19d27"
+    ],
+    "IfcRelDefinesByProperties-8617ae48199a29c9a5a210d4e140cfd8f166a119": [
+      "d8f1d18d-1342-46f0-bb91-0ce03153ab46"
+    ],
+    "IfcRelDefinesByProperties-8691fcdb3565ccfdb1022681273943f6c1f5a832": [
+      "2cc86cf6-8a90-4625-8009-1aa7794ebff7"
+    ],
+    "IfcRelDefinesByProperties-88a5f6c8e68ae44571db93e35fa3fec0444a2c6d": [
+      "a670337a-1fa3-4be8-9e04-d6c730dae8a6"
+    ],
+    "IfcRelDefinesByProperties-88b4808a906665b06349eb3fd5536c3cd9993816": [
+      "d2cd382a-b9cc-47e1-8501-5e86b4961b77"
+    ],
+    "IfcRelDefinesByProperties-8bcdc6a5bda4d62a343e33e801faf907411ae700": [
+      "9db3302c-d970-485a-ab72-7e07665199fa"
+    ],
+    "IfcRelDefinesByProperties-8c6bcaad45474cf2c1bfb4638cf00944dbfffc1a": [
+      "1e448981-c8d3-4c54-baac-4390969fd970"
+    ],
+    "IfcRelDefinesByProperties-8d6d8759d4ceae57edca867b16dd1a8942eebdf6": [
+      "b24463b4-f649-42b0-9e97-489b3832a56d"
+    ],
+    "IfcRelDefinesByProperties-8ee8f9c879a2a622bff9486bbd80049c8fd26697": [
+      "fcf367e3-9751-40ca-809a-30a36ef98ec5"
+    ],
+    "IfcRelDefinesByProperties-949e64610347913f8a7f85db15999f6a398ede05": [
+      "7be7a7d3-16e2-4a0c-a7b3-7812256c93b3"
+    ],
+    "IfcRelDefinesByProperties-960aee88137e0978bd7942224b2c5e554b34a952": [
+      "ea6aa54e-eb7c-46f5-b404-de92d25f2bd1"
+    ],
+    "IfcRelDefinesByProperties-97a0891088151bf73682e5deae4633b2944a4a98": [
+      "6b2402df-efd4-4713-8f50-7f1fa10731b7"
+    ],
+    "IfcRelDefinesByProperties-9910d66ea7902ddb0f2bf4aa4847942e2e452c6e": [
+      "e982403f-bf3d-4191-9e30-86961d8d5f32"
+    ],
+    "IfcRelDefinesByProperties-99f48f680800958c5ac8d511d67ee788603596e2": [
+      "f0bac5ca-ebb6-495e-bb52-7ad96f96bc29"
+    ],
+    "IfcRelDefinesByProperties-9e1d1ea6678a3dea71bde169ca30f43640f3cc4c": [
+      "3548d66c-873d-4d25-ae37-894be6af8df1"
+    ],
+    "IfcRelDefinesByProperties-9ee435455438c5e98ce4016c4ea5a440dfd4f267": [
+      "c25478ed-7603-4123-aeb1-8808f7d2bf3c"
+    ],
+    "IfcRelDefinesByProperties-9ff0ef76eb5e10128d7b2db6d872e7556caf708a": [
+      "967f9842-5d39-412e-8406-ab6319d3f119"
+    ],
+    "IfcRelDefinesByProperties-a25e29f33a2b68a59566d92b0636a24a877d5248": [
+      "22ef7beb-2ad5-422c-bd39-740a9daf690d"
+    ],
+    "IfcRelDefinesByProperties-a3e10b1964bec17d22f772ad341e0f1f5d80e5fc": [
+      "90ef1bd4-cc2f-4845-abb4-43b9353dbe84"
+    ],
+    "IfcRelDefinesByProperties-a44003b88ab2f02830bac6a9a2a1551b2b1336f1": [
+      "85766236-cc42-4394-a504-3f48e00831b3"
+    ],
+    "IfcRelDefinesByProperties-a7d673fb8a03de0ca1a0088b08b39e10713c3887": [
+      "8c64b7df-601f-40ad-b23a-9f0fedbb3ae4"
+    ],
+    "IfcRelDefinesByProperties-a83421b4fefb41932959043900d2215ac817e4e6": [
+      "2e81bb43-0972-46b4-845e-1ae43f41e40b"
+    ],
+    "IfcRelDefinesByProperties-a876d5219135241764ee24ed340f6c3c25d9bf43": [
+      "ab0a79a4-170c-412f-9567-dfc5ff2dcaf8"
+    ],
+    "IfcRelDefinesByProperties-a92336d63ebf8b5084ca004429fdbe4afd194f29": [
+      "a24a9ec6-b5c1-42d5-89bb-35495074d913"
+    ],
+    "IfcRelDefinesByProperties-aa8551d1ea87fe9bd0dbf7869e48462ca22c39da": [
+      "2d9d4a07-a250-4e07-bd9a-1732943418b6"
+    ],
+    "IfcRelDefinesByProperties-ab6b67031781b65fec15f27395a73a1516d3482c": [
+      "1bcae1ae-469a-4429-bb67-6f5582fab9ce"
+    ],
+    "IfcRelDefinesByProperties-ac7a441a7d56b5a300fb61b1441da51aa173dc3f": [
+      "e78a0c42-1c25-439a-b0a6-430d2e4f7f4c"
+    ],
+    "IfcRelDefinesByProperties-acd643391a7b4c864f1c9764da2351e766b90730": [
+      "a521836d-b719-4df6-a3ba-1280f0e7a6e8"
+    ],
+    "IfcRelDefinesByProperties-af2c547d99da12e7e9ca917d55f996a80f6cfc0c": [
+      "f5d09919-7a8b-4a5e-9f99-8cf7fae289d9"
+    ],
+    "IfcRelDefinesByProperties-b2ce25235df24dad2ca828f6fa4aafc47d05625c": [
+      "d4920ef6-bf44-49f0-815d-530a3ce1a888"
+    ],
+    "IfcRelDefinesByProperties-b49558fa14162abf1bb56bfef68a7569c9081ccf": [
+      "6b90232f-5c45-4619-9d05-5f9d8e37cafc"
+    ],
+    "IfcRelDefinesByProperties-b50754317ed686f2ffb0d126aeac81d5a77391fb": [
+      "e8e8a032-56c4-4fd4-9e9b-bbb2928aa1b1"
+    ],
+    "IfcRelDefinesByProperties-b54fd27482178dda02d6050773ff788383f80fc1": [
+      "97852bcd-16ac-40ca-a125-57b5438c5bc2"
+    ],
+    "IfcRelDefinesByProperties-b864d97cd5cf755d4dfa61a4a0fa8340bbbba02a": [
+      "a4105000-02ee-4d61-94ef-138cd0e5a466"
+    ],
+    "IfcRelDefinesByProperties-b8899d3f1dac7aba937917d61d0edb93a1ad3231": [
+      "a54733f2-f732-4a83-a2b2-ddb215420741"
+    ],
+    "IfcRelDefinesByProperties-bb94751f8dd0bfdc9fba7e4c515007e0032d5030": [
+      "eade9ded-f2ee-46eb-b599-c4fcc3ffeaef"
+    ],
+    "IfcRelDefinesByProperties-bce33d35fbf987e1fa16bfefb36396028d8ce77c": [
+      "9fd18d03-276c-493b-a05c-aad70b03ace3"
+    ],
+    "IfcRelDefinesByProperties-c157f6de44c4297bdcb23230c0f0fd7a4134ad13": [
+      "74395d3e-a0e3-457a-9675-cfd448339645"
+    ],
+    "IfcRelDefinesByProperties-c18e29a0380daf1ad96c6377f6db3c5866626cf9": [
+      "c65df768-d528-4b24-bab5-8d49c1f6c68d"
+    ],
+    "IfcRelDefinesByProperties-c27c9038839c00c76fd41811a35a9e1a605c9d8c": [
+      "9611e809-38c9-4ad7-a510-d95b50c4be74"
+    ],
+    "IfcRelDefinesByProperties-c33ebf381b50f3c314a783026977ff0e744fc934": [
+      "4734fd82-29ab-4ffe-b859-f0842e069adc"
+    ],
+    "IfcRelDefinesByProperties-c37ba190593fc8446126f36dc54eae79ea299f07": [
+      "0f183ea5-0225-409f-a309-9a656d9a0de5"
+    ],
+    "IfcRelDefinesByProperties-c4ad67fc81bdd5da8440db2f07ffc1e770c36b3c": [
+      "3eec7e4f-cc5e-439c-b2f2-474995024b03"
+    ],
+    "IfcRelDefinesByProperties-c4dc2477da6688943d8f0f5d434ac0f4ebeabd49": [
+      "4cae7e1c-5d1e-4729-814e-e017d3a4eb47"
+    ],
+    "IfcRelDefinesByProperties-c4faf5a2c2c7daf6a6d5253a1cffc93e19a4c684": [
+      "6a0616e4-8f6f-4e8b-a862-c93d4443a87f"
+    ],
+    "IfcRelDefinesByProperties-c67412d0bbd5a20841ed7135c7759335d21e655c": [
+      "9252e317-e0d6-4b8c-babc-ca11d2ef83a6"
+    ],
+    "IfcRelDefinesByProperties-c68fd60a45cf85819d8574c905a590b469e0aa61": [
+      "01bac7e6-41fe-4873-a3ee-4b42bef2a895"
+    ],
+    "IfcRelDefinesByProperties-c758e961c2597153509a731bcea05402bea8202c": [
+      "43e9e224-8336-4f1f-b72b-b0db06fe6745"
+    ],
+    "IfcRelDefinesByProperties-ca43f69c246efaafede0cff1c56b843d9df154bf": [
+      "50b6aab9-4065-44f2-98b8-df7f3defab93"
+    ],
+    "IfcRelDefinesByProperties-cad8b4cb853a79f331caf426bb87d337aed396ff": [
+      "a257ae78-d1e9-4705-9857-486aca596e8a"
+    ],
+    "IfcRelDefinesByProperties-cba3ac97e641f1f35029b6db7e417660961d8e0b": [
+      "da65bbdf-fe84-42e0-a86d-de6170f332d5"
+    ],
+    "IfcRelDefinesByProperties-cde6f5c236dc921f74dc9690b2db5f3c054f222d": [
+      "5276006d-e011-424c-8489-24913c02d945"
+    ],
+    "IfcRelDefinesByProperties-ce4ad760a0ca0f126feb7d7363fb8645af75d5f1": [
+      "03d66edb-6e63-4f25-aef0-d7c565ab60f1"
+    ],
+    "IfcRelDefinesByProperties-cef0267a62a95726413cacb1076aa2ea97fbf68e": [
+      "a0b7f010-0734-41cc-8113-e97573d263e8"
+    ],
+    "IfcRelDefinesByProperties-cf1ce804acdc46c08c73a9531be5d1541dcc5039": [
+      "8671aece-a439-4616-a3b7-24c49bab2450"
+    ],
+    "IfcRelDefinesByProperties-d089acd053efa14648439a524214d65c7e952b63": [
+      "bf474351-8a5e-4440-b464-b4d7d0ece740"
+    ],
+    "IfcRelDefinesByProperties-d33f73259e366b128dafb6e639658091ff05db4e": [
+      "af10bbbe-7f00-42ec-acb0-443e33be2c74"
+    ],
+    "IfcRelDefinesByProperties-d4c6cd8cc8d1ad669d63a0c4d63c5e1dfd19e544": [
+      "f0d5d11e-a821-4e3e-91a0-233acd90925c"
+    ],
+    "IfcRelDefinesByProperties-d5b174a2bfb03be10c1ee1acdc774a95c14245ef": [
+      "6a21c3e1-f9c5-484b-845a-cf6d766a3746"
+    ],
+    "IfcRelDefinesByProperties-d60819b10552dc8242194b8e3c6458184ebd1c34": [
+      "8f34b332-f408-401c-8096-710f1c77baf7"
+    ],
+    "IfcRelDefinesByProperties-d6338e2c99f7b5f92ea4b27bfff0b8e31a7360e4": [
+      "c753ee81-7fc7-4b6c-afb4-ebe6d4b2b549"
+    ],
+    "IfcRelDefinesByProperties-d77571feddaf9e61e898203c3ac020e1004e83b8": [
+      "66eb98cf-ec77-47da-a069-94f2e3a8c545"
+    ],
+    "IfcRelDefinesByProperties-dcb08ad7df29a241bcc0a4b634af42b3ff0743f8": [
+      "6f876bc9-ce23-4698-b1f3-bf27cc278d91"
+    ],
+    "IfcRelDefinesByProperties-dd17cbc5409293aca0821cda1d90b05a8f16f45c": [
+      "d53ddc74-6b48-4ae6-8354-6e169495aa23"
+    ],
+    "IfcRelDefinesByProperties-dd83b81ade55f54f1ff652f96859380e37773f98": [
+      "fb2c4c3a-7534-487c-90bf-f1260fd3e6cc"
+    ],
+    "IfcRelDefinesByProperties-ddb8b4cad92c8a24af0ff0e4db998118330aa88a": [
+      "ac3a8488-ca45-4b93-bfde-a32e24735398"
+    ],
+    "IfcRelDefinesByProperties-de04e80a7ffeb98879221e433a0743b91d1fc9ec": [
+      "641b58ec-5107-40ba-8390-dd526923c2ba"
+    ],
+    "IfcRelDefinesByProperties-de3dbe4e6e430014699d9baae8fed59c4812a04e": [
+      "6680da0a-faa0-4844-8b01-9bb4b45e98f6"
+    ],
+    "IfcRelDefinesByProperties-dea0d1b6d94a391826887637ffcb37664c8d3c2b": [
+      "5e1264ab-a974-4e86-a20f-b1344941f552"
+    ],
+    "IfcRelDefinesByProperties-defa9ed95ba9a87f9f10948953e8e9d4a300c140": [
+      "8bc39289-302e-4f77-bb19-9dd9dee432ab"
+    ],
+    "IfcRelDefinesByProperties-e0918bb6246cadeae9000deaee63d8ed2b482e8f": [
+      "5dedd47a-bfbe-4622-b0c2-93abe81cbc70"
+    ],
+    "IfcRelDefinesByProperties-e0e61de2c7d8375af94360459d1fa1dc43e32729": [
+      "f6a47c5a-7067-4a2e-af3d-59d32b8669b5"
+    ],
+    "IfcRelDefinesByProperties-e34ec773192995d30e6e52f5f80d46407805471f": [
+      "03785871-5f05-4bc3-8421-87024d6060d1"
+    ],
+    "IfcRelDefinesByProperties-e3d747b8a083c398a9b1eb99bea5222dcd0ce624": [
+      "9d25b167-2c1f-4c71-8b87-abee821158c2"
+    ],
+    "IfcRelDefinesByProperties-e6bede2504caab63aecb34295f5b5c3730ed9c2f": [
+      "d9a1bdd7-9953-4234-80f5-4dc4d9417d40"
+    ],
+    "IfcRelDefinesByProperties-e8c60b64f6cdd254e04f60b20752e9c51e368873": [
+      "e92af957-d483-4bcd-ba50-7a1bd496999d"
+    ],
+    "IfcRelDefinesByProperties-ec54d25735b7c7098a42701c2dd5f50b8a34ee20": [
+      "cd363ada-ae18-46ac-9f14-2d432c612843"
+    ],
+    "IfcRelDefinesByProperties-eff36f5c76d2a2613f3ca6f45e695d3c7be09e6f": [
+      "c85dab60-f488-4c9b-9e86-8bf4f0227350"
+    ],
+    "IfcRelDefinesByProperties-f2387605b651cdf8ddf4d2db0fe50e0ba8f9a257": [
+      "9438401b-e8dd-44ab-b8e1-e6af556a13ac"
+    ],
+    "IfcRelDefinesByProperties-f24a0dc002ca156743edd01778d1131341922a16": [
+      "35a15b57-572d-4d2c-8b64-56f0d9ffceff"
+    ],
+    "IfcRelDefinesByProperties-f4336a4d8a417955428f162f9b603bcca6fb547a": [
+      "5096b5ec-fd5c-4097-a1b8-432dd92c009b"
+    ],
+    "IfcRelDefinesByProperties-f4f983c0d43978fa558a789405eedeba2fdbe1e4": [
+      "fede5994-b56b-4e39-9cf6-65a5df71abf9"
+    ],
+    "IfcRelDefinesByProperties-f5662d0447a72fd0ab2dce2ad65ff1e80e45554f": [
+      "6d83b4c3-d836-435c-a8d4-7e5dc23061f6"
+    ],
+    "IfcRelDefinesByProperties-f7350768f77bab07760578ec6267fbb438c57738": [
+      "e82c6faf-f75a-4a8e-b344-20653f7ff3f2"
+    ],
+    "IfcRelDefinesByProperties-f8d99d13d859338433c224c3af3b435703919e76": [
+      "f457b4cd-fb88-4a47-8f3a-c027f1b18fee"
+    ],
+    "IfcRelDefinesByProperties-f8e7428c9b87566e8a4d18d27d929761f454e3a5": [
+      "f882eb67-ab79-4486-9262-c9701808bbd4"
+    ],
+    "IfcRelDefinesByProperties-f9eeb1872ea6a8238b187f99161543eea9acede9": [
+      "1f01c39f-00b1-4bcf-a92c-d2afe5388329"
+    ],
+    "IfcRelDefinesByProperties-fd0942d7c6f14c4af10f1a46315a8655fbf9b9a1": [
+      "7993a885-00ab-45e7-b0f0-8d2889611125"
+    ],
+    "IfcRelDefinesByProperties-fdf0c5c9ed1132ab5ed0e60902f5cdcebe8460c5": [
+      "27defffa-445c-4b59-bc6a-53080e8644d6"
+    ],
+    "IfcRelDefinesByProperties-fdf4d4e295b4d26321701957d040e832bc1cee22": [
+      "47fdb1cb-f2f4-4aee-a6f0-ba70de28f2dd"
+    ],
+    "IfcRelDefinesByProperties-fef057bd4a5c1e2a960a1973a2cfb865be6f5ffd": [
+      "510f641d-292e-4b48-b96b-7ecead7ea662"
+    ],
+    "IfcRelDefinesByType-0411be6e1a3f9a737c338e5ad77775d3b337e218": [
+      "dece2c49-b9c7-4245-95ff-d0c2c9742c24"
+    ],
+    "IfcRelDefinesByType-09037f36cc34782efe4928a1058eb844b986dbe3": [
+      "93618b94-3015-452f-ac2f-ac3fc6fe5f51"
+    ],
+    "IfcRelDefinesByType-11cc7723411a05e7ea674ca78658a8c1a0f3f097": [
+      "3699f9e8-1826-484f-8c01-45905ca8d5ff"
+    ],
+    "IfcRelDefinesByType-1b929b98d14e065ea15c786811cea4820ee34a05": [
+      "5bbf9bf6-d27d-4123-ab86-3d272b040b6c"
+    ],
+    "IfcRelDefinesByType-1f4d62740bb0236f65e6dbf613015aa45243dbdb": [
+      "05fbc50e-b97e-4076-aea2-bf96af4757eb"
+    ],
+    "IfcRelDefinesByType-252ed74becd5aae37296991000f69756a0df55d4": [
+      "d6a7a48b-7a90-4938-881c-1b6a2757ea0a"
+    ],
+    "IfcRelDefinesByType-4638e5852f1b19b723700d75a39e5b518ea18d54": [
+      "de729e59-e4be-4ba9-9e62-9b75bb83bea7"
+    ],
+    "IfcRelDefinesByType-521b74f450a7f4f20b2a7c9d13d4945912eb02e0": [
+      "0ca2feba-8542-432a-a35d-53121f4bbc81"
+    ],
+    "IfcRelDefinesByType-52ff655d2123e18e075bffb4ecd1a556a2ea6431": [
+      "f468a1f3-4ae2-424e-ad0e-c778000cb1b2"
+    ],
+    "IfcRelDefinesByType-5ef3ea0dc3498cdbdb4e70b0b6d62955192c98fe": [
+      "d9378602-d19b-4371-9d93-ad7ba82037ae"
+    ],
+    "IfcRelDefinesByType-63291f628b33ede2d3d92888a1b592a735f7db23": [
+      "37e19cdc-085a-49ca-ae7b-d77799444557"
+    ],
+    "IfcRelDefinesByType-6b15f5d153ca15e9ac5b0cadc33c746d0b3977e8": [
+      "7a0a4f0a-a0d3-4b35-8986-3b76f908594c"
+    ],
+    "IfcRelDefinesByType-6b5f51c8b16c3cbadc5543dbb0fedd1cd3ae9037": [
+      "9aaef455-321c-4db1-962e-c4443d6437de"
+    ],
+    "IfcRelDefinesByType-7bc6d7ad2333c8d76584718b49e334e5fd056b39": [
+      "3688006a-5881-414a-9f55-37992741db7e"
+    ],
+    "IfcRelDefinesByType-851b21d82248602f8e0e91db81538337676573e8": [
+      "6341c7d1-48e1-4c75-aa18-c56a79929dbc"
+    ],
+    "IfcRelDefinesByType-90f57e8b0aab6be87b9849b8e1e35c50ca884ed2": [
+      "5bae254a-30d1-4979-abae-27a362ff9d42"
+    ],
+    "IfcRelDefinesByType-9de322a334d8daf2428e2fb4268cd6cabf737cb8": [
+      "dd20d8b4-e8c3-46b6-838d-aeb79f6d8e33"
+    ],
+    "IfcRelDefinesByType-a36180065d8cd5fa0267ce20f5574c8400f2c039": [
+      "14046486-8498-49bc-8d9d-92c9f4e44e76"
+    ],
+    "IfcRelDefinesByType-a54374d3f9ea423675b4b666e70689431ea52a29": [
+      "f6bea4dd-4f4b-4cd4-98a8-c49751907121"
+    ],
+    "IfcRelDefinesByType-a56cd0d638f404e8208be41f84bc881b0b6dacbd": [
+      "e7927c79-5491-4910-bb6c-38a26ad6a6b0"
+    ],
+    "IfcRelDefinesByType-b067a152e81a03319f3468aa35157311ba7a6173": [
+      "90917463-c8e9-4791-82af-f05b0fcf9765"
+    ],
+    "IfcRelDefinesByType-b332bf009c75de375daae03600e6f330ba4aac68": [
+      "3cd930c5-bcd0-413f-b14a-bae0062c36a4"
+    ],
+    "IfcRelDefinesByType-b3c35688365415c4be7fd12e137fe3a2e9dbe7a1": [
+      "60558a8c-9447-43bf-a8cd-01addfb60f64"
+    ],
+    "IfcRelDefinesByType-bbcfa939c56f72bfc1e2e574579200847db868c9": [
+      "5f7d94f1-ae43-4d9e-a4fa-56085821d7aa"
+    ],
+    "IfcRelDefinesByType-c98ca19c1bcce98fe9822566a4bdfafe0a82fcd5": [
+      "7b21bac5-0e73-47f6-b692-fa96367780d9"
+    ],
+    "IfcRelDefinesByType-cb9117f09827c3681e78889341f94e9bd56c56e9": [
+      "fc1fd29b-3aaf-48c5-938c-7774e4fb4e33"
+    ],
+    "IfcRelDefinesByType-e9389e288a91c505d72a49e083204ad141ae8064": [
+      "26d80f2e-3273-4a9f-aa3c-c788b8226d92"
+    ],
+    "IfcRelDefinesByType-e9d9c529b222bb9bd476d444edecbd678111dbd9": [
+      "f4c8a5a3-3a86-4089-ad2b-88373e7eccae"
+    ],
+    "IfcRelDefinesByType-ee20b441af3cdec9c4bea07efbeba05dfcab6f0b": [
+      "bbd5227a-e93e-4568-9164-df26b1f0c885"
+    ],
+    "IfcRelDefinesByType-fdd16723b8b714c3538ef8b8e3211103e04e3d36": [
+      "52a238e0-04fa-474d-bed9-8384a177b3b0"
+    ],
+    "IfcRelDefinesByType-ffaefb0ab0253294b0add15f183425ec19ca5691": [
+      "74a4cdac-32d9-46ed-a070-2e8d91c8e41e"
+    ],
+    "IfcRelFillsElement-05832d55cc8dc3b7b304243e7fca543e2d3e87d1": [
+      "949dfec0-e042-42fa-b79c-e0d6a5ea4030"
+    ],
+    "IfcRelFillsElement-0ac2d087249b296ddb019d06138bfd719a9dda02": [
+      "f99aa753-96bc-4f23-b5ee-70fa8f0c522b"
+    ],
+    "IfcRelFillsElement-78e0c120ff9f5cc2b734a36154b5aca885b3e5b4": [
+      "9e43cf58-8792-4873-a223-820fb55360c1"
+    ],
+    "IfcRelFillsElement-7f1265ddf076e3d72d667b533a51052ee1f6e1c4": [
+      "9bd2bdb1-eac7-4475-b1dc-c97983c44f5b"
+    ],
+    "IfcRelFillsElement-8754b9b3668e76f90d57946604b70d89bd121072": [
+      "b083a2f1-dafe-41bb-ade1-98bdff6f3899"
+    ],
+    "IfcRelFillsElement-a2d6600a93230d45b747a754f36784aae66f06d5": [
+      "c9c6f1dc-9531-4aab-af56-004e7eef91a8"
+    ],
+    "IfcRelFillsElement-e40c5fe5e0c0b579e4c71ad85a7b6979d7d88911": [
+      "7fbc93c2-6b7e-4c47-9c08-3d20fc0ab7c7"
+    ],
+    "IfcRelVoidsElement-32989985b20fc7fb42e51fbf169bd9f7fa23f53b": [
+      "29e60985-cb6b-472b-9bff-517b8e665d99",
+      "29e60985-cb6b-472b-9bff-517b8e665dfa"
+    ],
+    "IfcRelVoidsElement-75f9a7d86fe0d58f59fff27a5cef8fc712c40314": [
+      "9b3d7786-4d53-45bb-8910-bdedabff72d5",
+      "29e60985-cb6b-472b-9bff-517b8e665d6e",
+      "29e60985-cb6b-472b-9bff-517b8e665ed7"
+    ],
+    "IfcRelVoidsElement-d124b7ebd235b09993c10b75cf4824768d079101": [
+      "29e60985-cb6b-472b-9bff-517b8e665e0d"
+    ],
+    "IfcRelVoidsElement-ddb110549e95dcab88aa92e5a2edb5df5ef89087": [
+      "29e60985-cb6b-472b-9bff-517b8e665d03"
+    ],
+    "IfcRoof#1": [
+      "29e60985-cb6b-472b-9bff-516f8e665e41"
+    ],
+    "IfcShapeRepresentation-0364c69cf5f0fd28251a240b3a6521e4cdac616d": [
+      "ccf17a43-f704-45ec-8876-9f12d28aa744"
+    ],
+    "IfcShapeRepresentation-0d942f4bef3e4e86f63395400839885581cf5158": [
+      "d71a79d8-6989-48c6-9f95-948f68effa08"
+    ],
+    "IfcShapeRepresentation-13972dc2c195f11aeb58433d1d42ce9ed3e580b2": [
+      "c94d63f0-4052-486c-95a1-719ac7b632fa",
+      "81177d67-6d9d-4e8d-be8d-71e443afea21"
+    ],
+    "IfcShapeRepresentation-193c82cca679179d05a9669abaf6ed2d6e53a149": [
+      "29766876-b832-4f81-921f-77f6fffa678c",
+      "c5cdd44f-3abd-4cce-9422-356adb1c839f",
+      "fd654257-6d8f-4723-babf-3d410dfb740f"
+    ],
+    "IfcShapeRepresentation-1bb9d592c90e2c684b81aa0ee4dd1267fd8a4102": [
+      "ef2172e2-3918-40fd-a575-4a83cc350f60"
+    ],
+    "IfcShapeRepresentation-1fdcb45e72ec260d75a5ae5765598ee8b83c0bf3": [
+      "1b2d4c3f-4084-4e16-bf67-cdc7a2474527"
+    ],
+    "IfcShapeRepresentation-209e175c7899cb8a395218f713f88dc44d755500": [
+      "8a5d2e63-2718-4886-8266-51320d8181be"
+    ],
+    "IfcShapeRepresentation-23c64de74255426e66b25851885453facf867bed": [
+      "2e2805ed-23c3-4d52-8a2f-e14c7a95194c"
+    ],
+    "IfcShapeRepresentation-25601fba8d53e010d1e16195c6a213c64e924c08": [
+      "0d825c57-1e53-41bb-a784-3646e17d3036"
+    ],
+    "IfcShapeRepresentation-327773934d138e3af31837e75da26cb4ac5034c4": [
+      "d181813b-9204-4534-8a16-38869f133a02"
+    ],
+    "IfcShapeRepresentation-3a9773948b0efb6b87d9ea99f7dc0365ddb7c461": [
+      "348edd6d-b30b-4624-b41b-82b5da426f78"
+    ],
+    "IfcShapeRepresentation-3bc87be16bd977d8a347fdc229a887c3947d0db4": [
+      "7f0712c4-2c43-4eaf-beff-29ccd5339443"
+    ],
+    "IfcShapeRepresentation-3fc426fc690e7f3a1c1b980d9048913df0b73d24": [
+      "4e931237-189c-4f3a-9f7c-6df05824c30e"
+    ],
+    "IfcShapeRepresentation-447ba250f8c57b381220618a376bd0dbc76825a8": [
+      "b624079e-2e84-444b-942f-f419826829ff"
+    ],
+    "IfcShapeRepresentation-45935bf7acee7d9e6f7e0451886eaef97a694309": [
+      "52de4811-91c2-40af-b7b4-e3fc4d88ad2d"
+    ],
+    "IfcShapeRepresentation-49a51bce0d94891d8c175a37e7f5391c7081219b": [
+      "96de3526-5d20-4bc5-9517-e2e332e0ce75"
+    ],
+    "IfcShapeRepresentation-57f2a98d9e3f7097198085b64c7fcf6576436810": [
+      "bdfd429b-9ab4-4365-b169-c32e390d9078"
+    ],
+    "IfcShapeRepresentation-59747a5bcdcbd2a5b74adbce80ceb46645460cb9": [
+      "af874efd-f6a4-4ec3-92f7-94c5d7f1c87f"
+    ],
+    "IfcShapeRepresentation-6755dbfc92ac997c9ae5ff51ed987e4df9784e63": [
+      "b3571f02-6973-4374-9bd8-f19c39284a3b",
+      "6d2712b7-4853-4771-9a3e-3243d01333c1"
+    ],
+    "IfcShapeRepresentation-675d3a7f0adf6ba72a38c5495546a6b491a7bdec": [
+      "1f6f81a6-a22a-4d2b-9aa4-e22c54224c6a"
+    ],
+    "IfcShapeRepresentation-6893ffe8af3f6bc3698dc90f8437da3aa065e61b": [
+      "9889c19e-3856-45fa-ace7-4e905d0b1278"
+    ],
+    "IfcShapeRepresentation-6e884e81fa7b586facafbd93f5ffc4d31853f648": [
+      "e079bf98-616c-42fe-a7c8-1cc456891411"
+    ],
+    "IfcShapeRepresentation-70a3a99bedbc3a742336159f7a7e4757d9685c09": [
+      "041de529-e82e-4534-acda-d419b4b14842",
+      "200c7784-666a-49b6-bbc2-2e4e27655231",
+      "edbafea3-e1ab-4faa-ac25-26641d65e711",
+      "d9416ab7-955b-4d5f-9534-9e7ee217d736"
+    ],
+    "IfcShapeRepresentation-783de8af408a03574c704c752ffa62b4ab3fd0e6": [
+      "64a42f02-08b4-4650-b887-a3e03b21b0b4"
+    ],
+    "IfcShapeRepresentation-7b63f777df966fef11b77554bbe9269c05ea827c": [
+      "a17d6587-284c-477f-b6e2-a05aadc01275"
+    ],
+    "IfcShapeRepresentation-803ecfc28cd8fe764b403523f27491af68f0eb18": [
+      "f26930b2-9632-4361-a36a-aca726dbabeb"
+    ],
+    "IfcShapeRepresentation-83a8293ba6a112f0d25f890516845a16cb5349c6": [
+      "38c70755-7f5c-4cfc-be8e-2d1ca1cddfb5"
+    ],
+    "IfcShapeRepresentation-8671afb2abb6f67d2d7592b522123884c8c08137": [
+      "333c594e-42bc-42d6-b0f4-96b59f37d308"
+    ],
+    "IfcShapeRepresentation-8b02403d90998622e122588de745ee5381b4a2eb": [
+      "699baaca-5767-427e-b993-10eba751ef14"
+    ],
+    "IfcShapeRepresentation-a05b3d5c6888a78fd30d0090247bc70c616a26ea": [
+      "79e346ef-c304-40e6-b7f1-8f15aba575cd"
+    ],
+    "IfcShapeRepresentation-af4b2c9797b5bb2cad920e9e26c3781edec174b8": [
+      "a5e413fa-0cc0-4134-a215-029c4bfab6fa"
+    ],
+    "IfcShapeRepresentation-b26965e8ec564125dc3ca2dcd297400703b33359": [
+      "d02416e5-c004-4bf0-9fc2-8c314837a25a"
+    ],
+    "IfcShapeRepresentation-b392865a03ece99674994e3604c0eac7f6637d0a": [
+      "9dc6d38b-a42a-4107-9079-13d816252db9"
+    ],
+    "IfcShapeRepresentation-b499cf2b9615eb1d19bc5d852954a0a6e2d21cc4": [
+      "de244dbf-d1d8-49c9-9e25-05a51d8d433f"
+    ],
+    "IfcShapeRepresentation-b87aaeb422b0f0e73fea3e57b26545aca03e9af1": [
+      "563f472c-f2ac-4350-961e-dc3905621ee7"
+    ],
+    "IfcShapeRepresentation-b98a1ba27c75854dcab09dd11a32bd4dae8cdf46": [
+      "b43a41e6-409c-48c8-85ab-c6d9484d016a"
+    ],
+    "IfcShapeRepresentation-bba85ef11083485ecaa7d9ebcb904a71e488bde4": [
+      "4abfab36-76fb-4bab-9bca-e9c399e3246f"
+    ],
+    "IfcShapeRepresentation-c3cd8e02da282505f5e765463ad6a7efa88562f0": [
+      "67773f6b-276c-47f6-b3d5-78ed7b15ab32"
+    ],
+    "IfcShapeRepresentation-cd00283a16b0688c87c739ca750412443729871e": [
+      "c0b2cf9a-5d25-4891-9b70-387862001af1"
+    ],
+    "IfcShapeRepresentation-d2f0348db3f8ba2539a11f59d0e0757a17a612f8": [
+      "54284ac6-30cb-45c8-b4d2-b6d7fda4c9b2"
+    ],
+    "IfcShapeRepresentation-d5459bed305e006122602d46e70b3c82babc9f33": [
+      "d9635c1a-0bfb-49af-bdc1-8a671b59869b"
+    ],
+    "IfcShapeRepresentation-d591cb50b4a4e82114a13db0c33411242ece175d": [
+      "fe40f3e1-e08e-4eb5-939b-d7740a4d2b40",
+      "6ccc9bb1-e6c6-4a30-b7b7-5bd389ba66c5"
+    ],
+    "IfcShapeRepresentation-dd7baa746ababe661a6d52ae872a7879cd7d6865": [
+      "50a61ff4-2f12-42ba-884c-4a10e5a72fe6",
+      "2fa35ac4-a6a9-4fc7-b552-ecd9e9530217",
+      "ae849e8d-1e4d-4b0c-94ff-e9bc583d6815"
+    ],
+    "IfcShapeRepresentation-de41537cdd81e47c82cd6452d2de0645759e9d5c": [
+      "f174cf95-ca34-430b-bcb0-f30eb1b7c16f"
+    ],
+    "IfcShapeRepresentation-e995bc243c3527d3a42821ae9ad7b67a8ae64c15": [
+      "421756f4-95ee-46dc-aaab-2d57c49c3acf"
+    ],
+    "IfcShapeRepresentation-ee17b9d38c9854d5eb83e291b596376cbcc43923": [
+      "ad772b17-d395-4d83-8335-e7268513310e",
+      "86e6bad5-e7ca-4b97-8792-3b56e932ed8f"
+    ],
+    "IfcShapeRepresentation-f1536f2f6fd6c9febab6bb82b8c54363d46ce718": [
+      "c6e8d2f9-d783-4095-9e89-7115b276f69e"
+    ],
+    "IfcSite#1": [
+      "c67bf1c1-1f91-4044-95d2-7b423ad5646f"
+    ],
+    "IfcWallType#1": [
+      "30908b57-8df2-4ac7-a962-92e2400422a0"
+    ],
+    "IfcWindowLiningProperties-11ff815513cbb3783c611152dc1d6b6c90da3886": [
+      "29e60985-cb6b-472b-9bff-516e8e665dfa"
+    ],
+    "IfcWindowLiningProperties-6420868ecc2687e0969c30838e0fb1b46573b430": [
+      "29e60985-cb6b-472b-9bff-516e8e665d03"
+    ],
+    "IfcWindowLiningProperties-64ece5b7bd793170c44aff44fd2794700bfd999d": [
+      "29e60985-cb6b-472b-9bff-516e8e665d6e"
+    ],
+    "Rvt-IfcColumn-322621": [
+      "29e60985-cb6b-472b-9bff-516f8e6640a0"
+    ],
+    "Rvt-IfcColumn-322731": [
+      "29e60985-cb6b-472b-9bff-516f8e664036"
+    ],
+    "Rvt-IfcColumn-322885": [
+      "29e60985-cb6b-472b-9bff-516f8e6641d8"
+    ],
+    "Rvt-IfcColumn-323075": [
+      "29e60985-cb6b-472b-9bff-516f8e66429e"
+    ],
+    "Rvt-IfcDoor-323844": [
+      "29e60985-cb6b-472b-9bff-516f8e665d99"
+    ],
+    "Rvt-IfcDoor-324480": [
+      "9b3d7786-4d53-45bb-8910-bdf9abff72d5"
+    ],
+    "Rvt-IfcOpeningElement-323844": [
+      "29e60985-cb6b-472b-9bff-517c8e665d99"
+    ],
+    "Rvt-IfcOpeningElement-323943": [
+      "29e60985-cb6b-472b-9bff-517c8e665dfa"
+    ],
+    "Rvt-IfcOpeningElement-323998": [
+      "29e60985-cb6b-472b-9bff-517c8e665d03"
+    ],
+    "Rvt-IfcOpeningElement-324083": [
+      "29e60985-cb6b-472b-9bff-517c8e665d6e"
+    ],
+    "Rvt-IfcOpeningElement-324170": [
+      "29e60985-cb6b-472b-9bff-517c8e665ed7"
+    ],
+    "Rvt-IfcOpeningElement-324240": [
+      "29e60985-cb6b-472b-9bff-517c8e665e0d"
+    ],
+    "Rvt-IfcOpeningElement-324480": [
+      "9b3d7786-4d53-45bb-8910-bdeaabff72d5"
+    ],
+    "Rvt-IfcSlab-321800": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a60359"
+    ],
+    "Rvt-IfcSlab-321802": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a6035b"
+    ],
+    "Rvt-IfcSlab-321803": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a6035a"
+    ],
+    "Rvt-IfcSlab-321804": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a6035d"
+    ],
+    "Rvt-IfcSlab-321805": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a6035c"
+    ],
+    "Rvt-IfcSlab-321923": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a603d2"
+    ],
+    "Rvt-IfcSlab-321925": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a603d4"
+    ],
+    "Rvt-IfcSlab-321926": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a603d7"
+    ],
+    "Rvt-IfcSlab-321927": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a603d6"
+    ],
+    "Rvt-IfcSlab-321928": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a603d9"
+    ],
+    "Rvt-IfcSlab-322022": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a603b7"
+    ],
+    "Rvt-IfcSlab-322024": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a603b9"
+    ],
+    "Rvt-IfcSlab-322025": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a603b8"
+    ],
+    "Rvt-IfcSlab-322026": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a603bb"
+    ],
+    "Rvt-IfcSlab-322027": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a603ba"
+    ],
+    "Rvt-IfcSlab-323819": [
+      "29e60985-cb6b-472b-9bff-516f8e665c76"
+    ],
+    "Rvt-IfcSlab-324284": [
+      "29e60985-cb6b-472b-9bff-516f8e665e21"
+    ],
+    "Rvt-IfcSlab-324286": [
+      "29e60985-cb6b-472b-9bff-516f8e665e23"
+    ],
+    "Rvt-IfcSlab-324287": [
+      "29e60985-cb6b-472b-9bff-516f8e665e22"
+    ],
+    "Rvt-IfcSlab-324288": [
+      "29e60985-cb6b-472b-9bff-516f8e665e5d"
+    ],
+    "Rvt-IfcSlab-324289": [
+      "29e60985-cb6b-472b-9bff-516f8e665e5c"
+    ],
+    "Rvt-IfcSlab-324316": [
+      "29e60985-cb6b-472b-9bff-516d8e665e41"
+    ],
+    "Rvt-IfcSlab-324316#2": [
+      "29e60985-cb6b-472b-9bff-516c8e665e41"
+    ],
+    "Rvt-IfcSlab-324316#3": [
+      "29e60985-cb6b-472b-9bff-516b8e665e41"
+    ],
+    "Rvt-IfcSlab-324316#4": [
+      "29e60985-cb6b-472b-9bff-516a8e665e41"
+    ],
+    "Rvt-IfcSlabType-217694": [
+      "d8a078da-da75-47f7-a533-420fe7aefe68"
+    ],
+    "Rvt-IfcSlabType-217696": [
+      "d8a078da-da75-47f7-a533-420fe7aefe56"
+    ],
+    "Rvt-IfcSlabType-217696#2": [
+      "64527aca-4c3f-4700-a151-b0fff8979e69"
+    ],
+    "Rvt-IfcSlabType-217696#3": [
+      "ae5e6cfe-03d0-494a-b5d0-2f1a2642f361"
+    ],
+    "Rvt-IfcSlabType-217696#4": [
+      "ed91c14e-1c25-4174-8de6-fd1d9bcefe4b"
+    ],
+    "Rvt-IfcSlabType-321367": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a60d06"
+    ],
+    "Rvt-IfcSlabType-321367#10": [
+      "1d967f8b-dc6e-4985-879b-f7392ce7c8a7"
+    ],
+    "Rvt-IfcSlabType-321367#11": [
+      "549b951f-dad7-4007-824f-e25ec980cfe6"
+    ],
+    "Rvt-IfcSlabType-321367#12": [
+      "4a36b6f3-4e95-4e76-b33f-278917cc1667"
+    ],
+    "Rvt-IfcSlabType-321367#13": [
+      "4e6fb4a8-9064-4d07-a0e1-54a0ab720c3b"
+    ],
+    "Rvt-IfcSlabType-321367#14": [
+      "922b97cb-8374-40a9-a38c-2088a1ba5954"
+    ],
+    "Rvt-IfcSlabType-321367#15": [
+      "97599234-d28a-4f5f-bb6c-eff834c396da"
+    ],
+    "Rvt-IfcSlabType-321367#16": [
+      "a5c92b49-52cb-4d58-a07a-ebbfa5ba5a4d"
+    ],
+    "Rvt-IfcSlabType-321367#2": [
+      "003aa1cf-0d83-48d8-98ef-eea683c71bc5"
+    ],
+    "Rvt-IfcSlabType-321367#3": [
+      "4457da25-3e43-4d77-86eb-4140acb76219"
+    ],
+    "Rvt-IfcSlabType-321367#4": [
+      "3ede48d0-50ae-41bb-bef7-17f194729c5d"
+    ],
+    "Rvt-IfcSlabType-321367#5": [
+      "5ca4c482-0070-4b8b-b275-8c74709ce768"
+    ],
+    "Rvt-IfcSlabType-321367#6": [
+      "be0942d3-f165-4bae-954e-6e74e16e8b60"
+    ],
+    "Rvt-IfcSlabType-321367#7": [
+      "795d71c6-78a7-460e-bfff-a46749333813"
+    ],
+    "Rvt-IfcSlabType-321367#8": [
+      "5c418c86-997b-4053-bb83-5abd2ca5d064"
+    ],
+    "Rvt-IfcSlabType-321367#9": [
+      "6cc73b27-c78c-4211-bfea-34eeca11a266"
+    ],
+    "Rvt-IfcSlabType-321398": [
+      "ce600bcd-e7a3-45a2-b59a-1ccf89a60d27"
+    ],
+    "Rvt-IfcSlabType-321398#2": [
+      "b6cc2114-0bb0-447d-8228-f097e7ebb1eb"
+    ],
+    "Rvt-IfcSlabType-321398#3": [
+      "5e5ad4ae-1b10-4ead-94c2-d06d01bbc3d1"
+    ],
+    "Rvt-IfcSlabType-321398#4": [
+      "1d4d14f9-a342-473a-ac5f-923e00c13388"
+    ],
+    "Rvt-IfcWallStandardCase-323388": [
+      "29e60985-cb6b-472b-9bff-516f8e6643a1"
+    ],
+    "Rvt-IfcWallStandardCase-323541": [
+      "29e60985-cb6b-472b-9bff-516f8e664348"
+    ],
+    "Rvt-IfcWallStandardCase-323638": [
+      "29e60985-cb6b-472b-9bff-516f8e665cab"
+    ],
+    "Rvt-IfcWallStandardCase-323798": [
+      "29e60985-cb6b-472b-9bff-516f8e665c4b"
+    ],
+    "Rvt-IfcWindow-323943": [
+      "29e60985-cb6b-472b-9bff-516f8e665dfa"
+    ],
+    "Rvt-IfcWindow-323998": [
+      "29e60985-cb6b-472b-9bff-516f8e665d03"
+    ],
+    "Rvt-IfcWindow-324083": [
+      "29e60985-cb6b-472b-9bff-516f8e665d6e"
+    ],
+    "Rvt-IfcWindow-324170": [
+      "29e60985-cb6b-472b-9bff-516f8e665ed7"
+    ],
+    "Rvt-IfcWindow-324240": [
+      "29e60985-cb6b-472b-9bff-516f8e665e0d"
+    ],
+    "Rvt-IfcWindowStyle-323988": [
+      "29e60985-cb6b-472b-9bff-517a8e665d09"
+    ],
+    "Rvt-IfcWindowStyle-324015": [
+      "29e60985-cb6b-472b-9bff-517a8e665d32"
+    ],
+    "Rvt-IfcWindowStyle-324160": [
+      "29e60985-cb6b-472b-9bff-517a8e665edd"
+    ]
+  }
+}

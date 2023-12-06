@@ -1,0 +1,315 @@
+/*
+------------------------------------------------------------------------------------------------------------------------
+import fonts
+ */
+@font-face {
+    font-family: Poppins;
+    src: url(/fonts/poppins-v15-latin-regular.woff);
+}
+
+@font-face {
+    font-family: Pixer-Regular;
+    src: url(/fonts/Pixer-Regular.woff);
+}
+
+/*
+------------------------------------------------------------------------------------------------------------------------
+html body and root container
+ */
+html, body {
+    height: 100%;
+    font-family: Poppins, system-ui;
+}
+
+body.no-transition #container-left,
+body.no-transition #container-left *,
+body.no-transition #container-right {
+    transition: none !important;
+}
+
+/*
+------------------------------------------------------------------------------------------------------------------------
+sub containers:
+left: left navigation bar
+right: top navigation bar and main container
+ */
+#container-left {
+    height: 100%;
+    z-index: 10;
+    position: fixed;
+    width: 70px;
+    padding: 0;
+    background-image: url(/images/navbar-left-bg.jpg);
+    background-repeat: no-repeat;
+    background-color: #027bd3;
+    color: white;
+    transition: width .5s;
+    /* scroller */
+    overflow-y: scroll; /* for scenario where the device height is not enough for the content. This usually happens in the landscape view of a mobile device */
+    scrollbar-width: none; /* for Firefox */
+}
+
+#container-left.expanded {
+    width: 280px;
+}
+
+#container-left::-webkit-scrollbar {
+    display: none; /* avoid the improper display caused by the scroll bar in the left container */
+}
+
+#container-right {
+    height: 100%;
+    margin-left: 70px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    transition: margin-left .5s;
+}
+
+#container-right.shrunk {
+    margin-left: 280px;
+}
+
+/* shrink the left container's expanded size */
+/* when the screen width falls between 768px and 1440px (inclusive) */
+@media (min-width: 768px) and (max-width: 1441px) {
+    #container-left.expanded {
+        width: 200px;
+    }
+
+    #container-right.shrunk {
+        margin-left: 200px;
+    }
+}
+
+/* stop resizing left container and right container */
+/* when the screen width is smaller than 768px */
+@media (max-width: 767px) {
+    #container-left {
+        width: 0;
+    }
+
+    #container-right {
+        margin-left: 0 !important; /* right container shall never shrink in mobile device view */
+    }
+}
+
+/*
+------------------------------------------------------------------------------------------------------------------------
+left container: navigation bar
+ */
+#navbar-left {
+    text-align: center;
+}
+
+#container-left.expanded #navbar-left {
+    text-align: left;
+}
+
+#navbar-left .nav-link {
+    color: white;
+}
+
+#navbar-left .nav-link.active {
+    background: #0d99ff;
+    font-weight: bold;
+}
+
+.navbar-left-icon {
+    font-size: 24px;
+    display: inline;
+}
+
+#container-left #navbar-left span.desc-text {
+    display: none;
+}
+
+#container-left.expanded #navbar-left span.desc-text {
+    display: inline;
+    margin-left: 10px;
+}
+
+#logo-container {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#logo {
+    width: 50px;
+    transition: width .5s;
+}
+
+#container-left.expanded #logo {
+    width: 120px;
+    transition: width .5s;
+}
+
+#toggle-container {
+    padding: 5px 15px;
+}
+
+#greeting {
+    display: none;
+}
+
+#container-left.expanded #greeting {
+    display: inline-block;
+    font-size: 18px;
+}
+
+#navbar-left-toggle {
+    text-align: center;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+#navbar-left-toggle i.arrow-left {
+    display: none;
+}
+
+#container-left.expanded #navbar-left-toggle {
+    float: right;
+}
+
+#container-left.expanded #navbar-left-toggle i.arrow-right {
+    display: none;
+}
+
+#container-left.expanded #navbar-left-toggle i.arrow-left {
+    display: inline-block;
+}
+
+#user-profile-left {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+#avatar-left {
+    width: 40px;
+    transition: width .5s;
+}
+
+#container-left.expanded #avatar-left {
+    width: 60px;
+    transition: width .5s;
+}
+
+#username-left {
+    display: none;
+}
+
+#container-left.expanded #username-left {
+    display: block;
+    padding-top: .5em;
+}
+
+/*
+------------------------------------------------------------------------------------------------------------------------
+right container: top navigation bar and main container
+ */
+#navbar-top {
+    flex-shrink: 0; /* added to fix the improper display of top navbar in Safari on MacBook */
+    background: #199dff;
+    padding: 12px 60px;
+}
+
+#container-main {
+    flex-grow: 1;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, .5) inset;
+}
+
+#float-expand-btn {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    #navbar-top {
+        padding: 6px 12px;
+    }
+
+    #float-expand-btn {
+        z-index: 1;
+        position: fixed;
+        left: 12px;
+        top: 108px;
+        width: 48px;
+        height: 48px;
+        border-radius: 24px;
+        background: rgba(25, 157, 255, 0.5);
+        color: white;
+        /* align child both horizontally and vertically center */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #float-expand-btn.hidden {
+        display: none;
+    }
+}
+
+/*
+------------------------------------------------------------------------------------------------------------------------
+top navigation bar
+ */
+#logo-top {
+    display: none;
+}
+
+/* common css for search input in dashboards */
+input[type="search"] {
+    height: 28px;
+    border-radius: 14px;
+    border-width: 2px;
+    border-color: #666b6f;
+    padding-top: 0;
+    padding-bottom: 0;
+    align-self: center;
+    font-size: 14px;
+}
+
+button.search {
+    padding: 0 12px;
+    color: #666b6f;
+    font-size: 18px;
+}
+
+#user-profile-top {
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#avatar-top {
+    width: 32px;
+    margin-right: 8px;
+}
+
+@media (max-width: 767px) {
+    #logo-top {
+        display: inline-block;
+        width: 60px;
+    }
+
+    #user-profile-top {
+        display: none;
+    }
+}
+
+/*
+------------------------------------------------------------------------------------------------------------------------
+main container
+ */
+#display-area {
+    padding: 16px 0;
+}
+
+h3.heading {
+    color: #6a6a6a;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-shadow: 2px 0 2px #aaa;
+}
+

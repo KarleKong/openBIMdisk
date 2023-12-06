@@ -1,0 +1,605 @@
+{
+  "data_type": {
+    "IfcDoor": {
+      "$insert": {
+        "9b3d7786-4d53-45bb-8910-bdf9abff72d5": {
+          "globalId": "9b3d7786-4d53-45bb-8910-bdf9abff72d5",
+          "name": "Doors_ExtDbl_Flush:1810x2110mm:324480",
+          "objectPlacement": {
+            "placementRelTo": {
+              "placementRelTo": {
+                "placementRelTo": {
+                  "placementRelTo": {
+                    "placementRelTo": {
+                      "relativePlacement": {
+                        "location": {
+                          "coordinates": [
+                            0.0,
+                            0.0,
+                            0.0
+                          ],
+                          "type": "IfcCartesianPoint"
+                        },
+                        "type": "IfcAxis2Placement3D"
+                      },
+                      "type": "IfcLocalPlacement"
+                    },
+                    "relativePlacement": {
+                      "location": {
+                        "coordinates": [
+                          0.0,
+                          0.0,
+                          0.0
+                        ],
+                        "type": "IfcCartesianPoint"
+                      },
+                      "type": "IfcAxis2Placement3D"
+                    },
+                    "type": "IfcLocalPlacement"
+                  },
+                  "relativePlacement": {
+                    "location": {
+                      "coordinates": [
+                        0.0,
+                        0.0,
+                        0.0
+                      ],
+                      "type": "IfcCartesianPoint"
+                    },
+                    "type": "IfcAxis2Placement3D"
+                  },
+                  "type": "IfcLocalPlacement"
+                },
+                "relativePlacement": {
+                  "location": {
+                    "coordinates": [
+                      -7500.437202,
+                      4317.536128,
+                      0.0
+                    ],
+                    "type": "IfcCartesianPoint"
+                  },
+                  "type": "IfcAxis2Placement3D"
+                },
+                "type": "IfcLocalPlacement"
+              },
+              "relativePlacement": {
+                "location": {
+                  "coordinates": [
+                    7250.0,
+                    145.0,
+                    0.0
+                  ],
+                  "type": "IfcCartesianPoint"
+                },
+                "type": "IfcAxis2Placement3D"
+              },
+              "type": "IfcLocalPlacement"
+            },
+            "relativePlacement": {
+              "location": {
+                "coordinates": [
+                  -1810.0,
+                  -290.0,
+                  0.0
+                ],
+                "type": "IfcCartesianPoint"
+              },
+              "type": "IfcAxis2Placement3D"
+            },
+            "type": "IfcLocalPlacement"
+          },
+          "objectType": "Doors_ExtDbl_Flush:1810x2110mm",
+          "overallHeight": 2110.0,
+          "overallWidth": 1810.0,
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "representation": {
+            "representations": [
+              {
+                "ref": "46e33543-9acc-4848-ac74-0edb70c6a04c"
+              }
+            ],
+            "type": "IfcProductDefinitionShape"
+          },
+          "tag": "324480",
+          "type": "IfcDoor"
+        }
+      }
+    },
+    "IfcOpeningElement": [
+      {},
+      {
+        "9b3d7786-4d53-45bb-8910-bdeaabff72d5": {
+          "globalId": "9b3d7786-4d53-45bb-8910-bdeaabff72d5",
+          "name": "Doors_ExtDbl_Flush:1810x2110mm:324480:1",
+          "objectPlacement": {
+            "placementRelTo": {
+              "placementRelTo": {
+                "placementRelTo": {
+                  "placementRelTo": {
+                    "relativePlacement": {
+                      "location": {
+                        "coordinates": [
+                          0.0,
+                          0.0,
+                          0.0
+                        ],
+                        "type": "IfcCartesianPoint"
+                      },
+                      "type": "IfcAxis2Placement3D"
+                    },
+                    "type": "IfcLocalPlacement"
+                  },
+                  "relativePlacement": {
+                    "location": {
+                      "coordinates": [
+                        0.0,
+                        0.0,
+                        0.0
+                      ],
+                      "type": "IfcCartesianPoint"
+                    },
+                    "type": "IfcAxis2Placement3D"
+                  },
+                  "type": "IfcLocalPlacement"
+                },
+                "relativePlacement": {
+                  "location": {
+                    "coordinates": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "type": "IfcCartesianPoint"
+                  },
+                  "type": "IfcAxis2Placement3D"
+                },
+                "type": "IfcLocalPlacement"
+              },
+              "relativePlacement": {
+                "location": {
+                  "coordinates": [
+                    -7500.437202,
+                    4317.536128,
+                    0.0
+                  ],
+                  "type": "IfcCartesianPoint"
+                },
+                "type": "IfcAxis2Placement3D"
+              },
+              "type": "IfcLocalPlacement"
+            },
+            "relativePlacement": {
+              "location": {
+                "coordinates": [
+                  7250.0,
+                  145.0,
+                  0.0
+                ],
+                "type": "IfcCartesianPoint"
+              },
+              "type": "IfcAxis2Placement3D"
+            },
+            "type": "IfcLocalPlacement"
+          },
+          "objectType": "Opening",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "representation": {
+            "representations": [
+              {
+                "ref": "ae13eb10-2a7e-486c-a279-62b51788f923"
+              }
+            ],
+            "type": "IfcProductDefinitionShape"
+          },
+          "tag": "324480",
+          "type": "IfcOpeningElement"
+        }
+      }
+    ],
+    "IfcOwnerHistory": {
+      "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57": {
+        "creationDate": [
+          1677393940,
+          1677577927
+        ]
+      }
+    },
+    "IfcRelDefinesByProperties": [
+      {
+        "c136555d-59c4-40e6-bb4c-43ec56dfca40": {
+          "globalId": "c136555d-59c4-40e6-bb4c-43ec56dfca40",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "29e60985-cb6b-472b-9bff-5a9f8e665d99"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "2fe8fb7c-0c19-44b2-9e80-b938f5b3e4de": {
+          "globalId": "2fe8fb7c-0c19-44b2-9e80-b938f5b3e4de",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "ce1be1a0-3965-4a96-bfa0-1e0cc06a7b74"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "6f85fd42-b5a9-4845-b864-34470a3c5a5d": {
+          "globalId": "6f85fd42-b5a9-4845-b864-34470a3c5a5d",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "cdafb969-1b27-4ddf-b6f5-d44514f4aa2e"
+          },
+          "type": "IfcRelDefinesByProperties"
+        }
+      },
+      {
+        "43e9e224-8336-4f1f-b72b-b0db06fe6745": {
+          "globalId": "43e9e224-8336-4f1f-b72b-b0db06fe6745",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "29e60985-cb6b-472b-9bff-5a9f8e665d99"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "c85dab60-f488-4c9b-9e86-8bf4f0227350": {
+          "globalId": "c85dab60-f488-4c9b-9e86-8bf4f0227350",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "ce1be1a0-3965-4a96-bfa0-1e0cc06a7b74"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "22a722be-3887-43c9-9cc5-5affad689b9b": {
+          "globalId": "22a722be-3887-43c9-9cc5-5affad689b9b",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "cdafb969-1b27-4ddf-b6f5-d44514f4aa2e"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "ca2a9e36-a2aa-4ac0-8e3a-7b020de3769e": {
+          "globalId": "ca2a9e36-a2aa-4ac0-8e3a-7b020de3769e",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "9b3d7786-4d53-45bb-8910-bdf9abff72d5"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "29e60985-cb6b-472b-9bff-5a9f8e665d99"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "e8e8a032-56c4-4fd4-9e9b-bbb2928aa1b1": {
+          "globalId": "e8e8a032-56c4-4fd4-9e9b-bbb2928aa1b1",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "9b3d7786-4d53-45bb-8910-bdf9abff72d5"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "ce1be1a0-3965-4a96-bfa0-1e0cc06a7b74"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "7993a885-00ab-45e7-b0f0-8d2889611125": {
+          "globalId": "7993a885-00ab-45e7-b0f0-8d2889611125",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "9b3d7786-4d53-45bb-8910-bdf9abff72d5"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "cdafb969-1b27-4ddf-b6f5-d44514f4aa2e"
+          },
+          "type": "IfcRelDefinesByProperties"
+        }
+      }
+    ],
+    "IfcRelContainedInSpatialStructure": {
+      "e3e052f9-0156-11d5-9301-0001863f269a": {
+        "relatedElements": {
+          "$insert": [
+            [
+              35,
+              {
+                "ref": "9b3d7786-4d53-45bb-8910-bdf9abff72d5"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "IfcRelAssociatesMaterial": [
+      {
+        "253a9d7b-cd6e-4857-a633-df954b207cd8": {
+          "globalId": "253a9d7b-cd6e-4857-a633-df954b207cd8",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Door - Handle",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Door - Frame/Mullion",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Door - Panel",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "53499fce-9ae3-4ebd-81f6-c4f8c3234ee8": {
+          "globalId": "53499fce-9ae3-4ebd-81f6-c4f8c3234ee8",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-517a8e665d32"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Glass",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Window Frame",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        }
+      },
+      {
+        "900a7657-c078-4bf9-9eb4-9d6f88a9c176": {
+          "globalId": "900a7657-c078-4bf9-9eb4-9d6f88a9c176",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Door - Handle",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Door - Frame/Mullion",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Door - Panel",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "ba40d547-2047-4f6e-85fb-a03d7c1c673e": {
+          "globalId": "ba40d547-2047-4f6e-85fb-a03d7c1c673e",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-517a8e665d32"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Window Frame",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Glass",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "6a1fa38d-55e8-48dc-9668-f7af216bad23": {
+          "globalId": "6a1fa38d-55e8-48dc-9668-f7af216bad23",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "9b3d7786-4d53-45bb-8910-bdf9abff72d5"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Door - Handle",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Door - Frame/Mullion",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Door - Panel",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        }
+      }
+    ],
+    "IfcRelDefinesByType": [
+      {
+        "a810d0e8-45dd-4743-874a-d6d53947efde": {
+          "globalId": "a810d0e8-45dd-4743-874a-d6d53947efde",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+            }
+          ],
+          "relatingType": {
+            "ref": "29e60985-cb6b-472b-9bff-517a8e665da8"
+          },
+          "type": "IfcRelDefinesByType"
+        }
+      },
+      {
+        "5bbf9bf6-d27d-4123-ab86-3d272b040b6c": {
+          "globalId": "5bbf9bf6-d27d-4123-ab86-3d272b040b6c",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedObjects": [
+            {
+              "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+            },
+            {
+              "ref": "9b3d7786-4d53-45bb-8910-bdf9abff72d5"
+            }
+          ],
+          "relatingType": {
+            "ref": "29e60985-cb6b-472b-9bff-517a8e665da8"
+          },
+          "type": "IfcRelDefinesByType"
+        }
+      }
+    ],
+    "IfcRelVoidsElement": {
+      "29e60985-cb6b-472b-9bff-517b8e665d6e": {
+        "relatedOpeningElement": {
+          "ref": [
+            "29e60985-cb6b-472b-9bff-517c8e665d6e",
+            "9b3d7786-4d53-45bb-8910-bdeaabff72d5"
+          ]
+        }
+      }
+    },
+    "IfcRelFillsElement": [
+      {
+        "cf8e77e3-3043-4185-9aa1-d9dc55f15a51": {
+          "globalId": "cf8e77e3-3043-4185-9aa1-d9dc55f15a51",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedBuildingElement": {
+            "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+          },
+          "relatingOpeningElement": {
+            "ref": "29e60985-cb6b-472b-9bff-517c8e665d99"
+          },
+          "type": "IfcRelFillsElement"
+        }
+      },
+      {
+        "9e43cf58-8792-4873-a223-820fb55360c1": {
+          "globalId": "9e43cf58-8792-4873-a223-820fb55360c1",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedBuildingElement": {
+            "ref": "9b3d7786-4d53-45bb-8910-bdf9abff72d5"
+          },
+          "relatingOpeningElement": {
+            "ref": "9b3d7786-4d53-45bb-8910-bdeaabff72d5"
+          },
+          "type": "IfcRelFillsElement"
+        },
+        "7fbc93c2-6b7e-4c47-9c08-3d20fc0ab7c7": {
+          "globalId": "7fbc93c2-6b7e-4c47-9c08-3d20fc0ab7c7",
+          "ownerHistory": {
+            "ref": "03b84b3d-9e6c-461d-b4b0-4d05b8f7be57"
+          },
+          "relatedBuildingElement": {
+            "ref": "29e60985-cb6b-472b-9bff-516f8e665d99"
+          },
+          "relatingOpeningElement": {
+            "ref": "29e60985-cb6b-472b-9bff-517c8e665d99"
+          },
+          "type": "IfcRelFillsElement"
+        }
+      }
+    ]
+  }
+}

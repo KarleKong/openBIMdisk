@@ -1,0 +1,3240 @@
+{
+  "data_type": {
+    "IfcBuildingStorey": {
+      "$delete": {
+        "d59e761b-415b-47d8-adf2-70979a7e32f1": {
+          "compositionType": "ELEMENT",
+          "elevation": 19750.0,
+          "globalId": "d59e761b-415b-47d8-adf2-70979a7e32f1",
+          "longName": "G/F",
+          "name": "G/F",
+          "objectPlacement": {
+            "placementRelTo": {
+              "placementRelTo": {
+                "relativePlacement": {
+                  "axis": {
+                    "directionRatios": [
+                      0.0,
+                      0.0,
+                      1.0
+                    ],
+                    "type": "IfcDirection"
+                  },
+                  "location": {
+                    "coordinates": [
+                      -44266.644897,
+                      -24302.173176,
+                      0.0
+                    ],
+                    "type": "IfcCartesianPoint"
+                  },
+                  "refDirection": {
+                    "directionRatios": [
+                      0.893967,
+                      0.448132,
+                      0.0
+                    ],
+                    "type": "IfcDirection"
+                  },
+                  "type": "IfcAxis2Placement3D"
+                },
+                "type": "IfcLocalPlacement"
+              },
+              "relativePlacement": {
+                "location": {
+                  "coordinates": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "type": "IfcCartesianPoint"
+                },
+                "type": "IfcAxis2Placement3D"
+              },
+              "type": "IfcLocalPlacement"
+            },
+            "relativePlacement": {
+              "location": {
+                "coordinates": [
+                  0.0,
+                  0.0,
+                  19750.0
+                ],
+                "type": "IfcCartesianPoint"
+              },
+              "type": "IfcAxis2Placement3D"
+            },
+            "type": "IfcLocalPlacement"
+          },
+          "objectType": "Level:KEL SFL Level Head",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcBuildingStorey"
+        }
+      }
+    },
+    "IfcPropertySet": {
+      "40e631c4-3f5d-436a-87f6-deeae09eaf29": {
+        "hasProperties": {
+          "0": {
+            "nominalValue": {
+              "value": [
+                "Rebar Fixing and Pouring Concrete",
+                "Concrete Curing"
+              ]
+            }
+          },
+          "1": {
+            "name": [
+              "date",
+              "user"
+            ],
+            "nominalValue": {
+              "value": [
+                "02/28/2022, 18:44:38",
+                "User_PY"
+              ]
+            }
+          },
+          "2": {
+            "name": [
+              "user",
+              "date"
+            ],
+            "nominalValue": {
+              "value": [
+                "AustinW_PY",
+                "03/01/2022, 19:25:29"
+              ]
+            }
+          }
+        }
+      },
+      "40e631c4-3f5d-436a-87f6-deeae09eaf26": {
+        "hasProperties": {
+          "0": {
+            "name": [
+              "status",
+              "date"
+            ],
+            "nominalValue": {
+              "value": [
+                "Concrete Curing",
+                "03/05/2022, 17:36:59"
+              ]
+            }
+          },
+          "2": {
+            "name": [
+              "fileURL",
+              "status"
+            ],
+            "nominalValue": {
+              "value": [
+                "/uploadfile/1646105717466inspection_name.jpeg, /uploadfile/1646105717499inspection_name.jpeg",
+                "3D assembly including (welding work for bondek, Shear Stud,bracket, wall & ceiling sheet)"
+              ]
+            }
+          },
+          "3": {
+            "name": [
+              "date",
+              "fileURL"
+            ],
+            "nominalValue": {
+              "value": [
+                "03/01/2022, 19:35:17",
+                "/uploadfile/1646444219140inspection_name.jpeg, /uploadfile/1646444219171inspection_name.jpeg, /uploadfile/1646444219206inspection_name.jpeg, /uploadfile/1646444219239inspection_name.jpeg, /uploadfile/1646444219273inspection_name.jpeg, /uploadfile/1646444219311inspection_name.jpeg, /uploadfile/1646444219388inspection_name.jpeg"
+              ]
+            }
+          }
+        }
+      },
+      "8764c510-57b7-44c3-bddf-2d8686c2a2e0": {
+        "hasProperties": {
+          "1": {
+            "nominalValue": {
+              "value": [
+                2,
+                1
+              ]
+            }
+          }
+        }
+      },
+      "$insert": {
+        "40e631c4-3f5d-436a-87f6-deeae09eaf22": {
+          "globalId": "40e631c4-3f5d-436a-87f6-deeae09eaf22",
+          "hasProperties": [
+            {
+              "name": "fileURL",
+              "nominalValue": {
+                "type": "IfcText",
+                "value": "/uploadfile/1646444219140inspection_name.jpeg, /uploadfile/1646444219171inspection_name.jpeg, /uploadfile/1646444219206inspection_name.jpeg, /uploadfile/1646444219239inspection_name.jpeg, /uploadfile/1646444219273inspection_name.jpeg, /uploadfile/16464442"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "status",
+              "nominalValue": {
+                "type": "IfcText",
+                "value": "Rebar Fixing and Pouring Concrete"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "user",
+              "nominalValue": {
+                "type": "IfcText",
+                "value": "AustinW_PY"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "date",
+              "nominalValue": {
+                "type": "IfcText",
+                "value": "03/01/2022, 19:25:29"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Set",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        }
+      },
+      "$delete": {
+        "610a108c-3ee0-49ae-8c5b-7535d70d37b2": {
+          "globalId": "610a108c-3ee0-49ae-8c5b-7535d70d37b2",
+          "hasProperties": [
+            {
+              "name": "Building Story",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": true
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Name",
+              "nominalValue": {
+                "type": "IfcText",
+                "value": "G/F"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Structural",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": false
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Identity Data",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "610a108c-3ee0-49ae-8c5b-7520d70d37b2": {
+          "globalId": "610a108c-3ee0-49ae-8c5b-7520d70d37b2",
+          "hasProperties": [
+            {
+              "name": "Elevation",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 19750.0
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Constraints",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "16a3e8b8-4ce7-4ad0-9af4-544b04c93596": {
+          "globalId": "16a3e8b8-4ce7-4ad0-9af4-544b04c93596",
+          "hasProperties": [
+            {
+              "name": "Reference",
+              "nominalValue": {
+                "type": "IfcIdentifier",
+                "value": "site area"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Pset_QuantityTakeOff",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "76b1331c-b89c-4024-84a3-62425336144d": {
+          "globalId": "76b1331c-b89c-4024-84a3-62425336144d",
+          "hasProperties": [
+            {
+              "name": "Reference",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "site area"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Description",
+              "nominalValue": {
+                "type": "IfcText",
+                "value": "4305.988m"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Pset_ReinforcementBarPitchOfSlab",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "3cb11a12-510e-4ed4-91fe-f39e3c518cba": {
+          "globalId": "3cb11a12-510e-4ed4-91fe-f39e3c518cba",
+          "hasProperties": [
+            {
+              "name": "LoadBearing",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": false
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "IsExternal",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": false
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "ThermalTransmittance",
+              "nominalValue": {
+                "type": "IfcThermalTransmittanceMeasure",
+                "value": 52.3
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Reference",
+              "nominalValue": {
+                "type": "IfcIdentifier",
+                "value": "site area"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Pset_SlabCommon",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "3cb11a12-510e-4ed4-91fe-fe713c518cba": {
+          "globalId": "3cb11a12-510e-4ed4-91fe-fe713c518cba",
+          "hasProperties": [
+            {
+              "name": "Related to Mass",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": false
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Room Bounding",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": true
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Height Offset From Level",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": -500.0
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Level",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Level: G/F"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Constraints",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "3cb11a12-510e-4ed4-91fe-fe673c518cba": {
+          "globalId": "3cb11a12-510e-4ed4-91fe-fe673c518cba",
+          "hasProperties": [
+            {
+              "name": "Elevation at Bottom",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 19230.0
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Volume",
+              "nominalValue": {
+                "type": "IfcVolumeMeasure",
+                "value": 86.119756
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Perimeter",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 288933.604145
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Area",
+              "nominalValue": {
+                "type": "IfcAreaMeasure",
+                "value": 4305.989048
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Thickness",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 20.0
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Elevation at Top",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 19250.0
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Dimensions",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "ccd5ed82-5407-4433-a7fc-cd8f23dc357c": {
+          "globalId": "ccd5ed82-5407-4433-a7fc-cd8f23dc357c",
+          "hasProperties": [
+            {
+              "name": "Type",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Floor: site area"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Type Id",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Floor: site area"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Family",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Floor: site area"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Category",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Floors"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Family and Type",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Floor: site area"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Other",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "3cb11a12-510e-4ed4-91fe-fe683c518cba": {
+          "globalId": "3cb11a12-510e-4ed4-91fe-fe683c518cba",
+          "hasProperties": [
+            {
+              "name": "Enable Analytical Model",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": false
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Structural",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": false
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Structural",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "d40b5a2d-4c36-4d49-bbff-3499edf1bda4": {
+          "globalId": "d40b5a2d-4c36-4d49-bbff-3499edf1bda4",
+          "hasProperties": [
+            {
+              "name": "Thermal Mass",
+              "nominalValue": {
+                "type": "IfcReal",
+                "value": 30.222
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Thermal Resistance (R)",
+              "nominalValue": {
+                "type": "IfcReal",
+                "value": 0.01912
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Absorptance",
+              "nominalValue": {
+                "type": "IfcReal",
+                "value": 0.1
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Heat Transfer Coefficient (U)",
+              "nominalValue": {
+                "type": "IfcReal",
+                "value": 52.3
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Roughness",
+              "nominalValue": {
+                "type": "IfcInteger",
+                "value": 1
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Analytical Properties",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "d40b5a2d-4c36-4d49-bbff-34c0edf1bda4": {
+          "globalId": "d40b5a2d-4c36-4d49-bbff-34c0edf1bda4",
+          "hasProperties": [
+            {
+              "name": "Default Thickness",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 20.0
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Construction",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "d40b5a2d-4c36-4d49-bbff-34c5edf1bda4": {
+          "globalId": "d40b5a2d-4c36-4d49-bbff-34c5edf1bda4",
+          "hasProperties": [
+            {
+              "name": "Description",
+              "nominalValue": {
+                "type": "IfcText",
+                "value": "4305.988m"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Type Name",
+              "nominalValue": {
+                "type": "IfcText",
+                "value": "site area"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Identity Data",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "d8f732b2-ae2c-4457-a116-f014019ad4a6": {
+          "globalId": "d8f732b2-ae2c-4457-a116-f014019ad4a6",
+          "hasProperties": [
+            {
+              "name": "Description",
+              "nominalValue": {
+                "type": "IfcText",
+                "value": "4305.988m"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Pset_ReinforcementBarPitchOfSlab",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "d40b5a2d-4c36-4d49-bbff-393fedf1bda4": {
+          "globalId": "d40b5a2d-4c36-4d49-bbff-393fedf1bda4",
+          "hasProperties": [
+            {
+              "name": "IsExternal",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": false
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "ThermalTransmittance",
+              "nominalValue": {
+                "type": "IfcThermalTransmittanceMeasure",
+                "value": 52.3
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Pset_SlabCommon",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "567b5818-cf12-462b-8db1-1ad4911ed7e5": {
+          "globalId": "567b5818-cf12-462b-8db1-1ad4911ed7e5",
+          "hasProperties": [
+            {
+              "name": "Reference",
+              "nominalValue": {
+                "type": "IfcIdentifier",
+                "value": "\u7a97\u6237\u697c\u677f1"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Pset_QuantityTakeOff",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "475ef085-231b-4842-a05a-69b962a2218d": {
+          "globalId": "475ef085-231b-4842-a05a-69b962a2218d",
+          "hasProperties": [
+            {
+              "name": "Reference",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "\u7a97\u6237\u697c\u677f1"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Pset_ReinforcementBarPitchOfSlab",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "40e631c4-3f5d-436a-87f6-d366e09eaf1c": {
+          "globalId": "40e631c4-3f5d-436a-87f6-d366e09eaf1c",
+          "hasProperties": [
+            {
+              "name": "LoadBearing",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": false
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "IsExternal",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": false
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Reference",
+              "nominalValue": {
+                "type": "IfcIdentifier",
+                "value": "\u7a97\u6237\u697c\u677f1"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Pset_SlabCommon",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "40e631c4-3f5d-436a-87f6-de89e09eaf1c": {
+          "globalId": "40e631c4-3f5d-436a-87f6-de89e09eaf1c",
+          "hasProperties": [
+            {
+              "name": "Level",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Level: 16/F"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Related to Mass",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": false
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Room Bounding",
+              "nominalValue": {
+                "type": "IfcBoolean",
+                "value": true
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Height Offset From Level",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 800.0
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Constraints",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "40e631c4-3f5d-436a-87f6-de9fe09eaf1c": {
+          "globalId": "40e631c4-3f5d-436a-87f6-de9fe09eaf1c",
+          "hasProperties": [
+            {
+              "name": "Elevation at Bottom",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 78149.0
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Area",
+              "nominalValue": {
+                "type": "IfcAreaMeasure",
+                "value": 0.69
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Thickness",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 51.0
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Perimeter",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 5200.0
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Elevation at Top",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 78200.0
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Volume",
+              "nominalValue": {
+                "type": "IfcVolumeMeasure",
+                "value": 0.03519
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Dimensions",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "06d70bb5-9a2a-45ed-befc-4f558e4d11f5": {
+          "globalId": "06d70bb5-9a2a-45ed-befc-4f558e4d11f5",
+          "hasProperties": [
+            {
+              "name": "Category",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Floors"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Family and Type",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Floor: \u7a97\u6237\u697c\u677f1"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Family",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Floor: \u7a97\u6237\u697c\u677f1"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Type",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Floor: \u7a97\u6237\u697c\u677f1"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Type Id",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Floor: \u7a97\u6237\u697c\u677f1"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Other",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "a446b414-1b42-4f9d-9658-1e42aeced73c": {
+          "globalId": "a446b414-1b42-4f9d-9658-1e42aeced73c",
+          "hasProperties": [
+            {
+              "name": "Default Thickness",
+              "nominalValue": {
+                "type": "IfcLengthMeasure",
+                "value": 51.0
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Function",
+              "nominalValue": {
+                "type": "IfcIdentifier",
+                "value": "Interior"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Construction",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "a446b414-1b42-4f9d-9658-1e47aeced73c": {
+          "globalId": "a446b414-1b42-4f9d-9658-1e47aeced73c",
+          "hasProperties": [
+            {
+              "name": "Type Name",
+              "nominalValue": {
+                "type": "IfcText",
+                "value": "\u7a97\u6237\u697c\u677f1"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Identity Data",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "a446b414-1b42-4f9d-9658-1e40aeced73c": {
+          "globalId": "a446b414-1b42-4f9d-9658-1e40aeced73c",
+          "hasProperties": [
+            {
+              "name": "Structural Material",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "KEL ARC Floor Default"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Materials and Finishes",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "c44471be-13e1-4649-ba7a-251b8b0e08f6": {
+          "globalId": "c44471be-13e1-4649-ba7a-251b8b0e08f6",
+          "hasProperties": [
+            {
+              "name": "Name",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "G/F"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Pset_AirSideSystemInformation",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        },
+        "1d3010ca-f2dc-4100-aeee-54cb51d80e3d": {
+          "globalId": "1d3010ca-f2dc-4100-aeee-54cb51d80e3d",
+          "hasProperties": [
+            {
+              "name": "Name",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "G/F"
+              },
+              "type": "IfcPropertySingleValue"
+            },
+            {
+              "name": "Category",
+              "nominalValue": {
+                "type": "IfcLabel",
+                "value": "Levels"
+              },
+              "type": "IfcPropertySingleValue"
+            }
+          ],
+          "name": "Pset_ProductRequirements",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "type": "IfcPropertySet"
+        }
+      }
+    },
+    "IfcSlab": [
+      {
+        "3cb11a12-510e-4ed4-91fe-f8653c518cba": {
+          "globalId": "3cb11a12-510e-4ed4-91fe-f8653c518cba",
+          "name": "Floor:site area:1224914",
+          "objectPlacement": {
+            "placementRelTo": {
+              "placementRelTo": {
+                "placementRelTo": {
+                  "relativePlacement": {
+                    "axis": {
+                      "directionRatios": [
+                        0.0,
+                        0.0,
+                        1.0
+                      ],
+                      "type": "IfcDirection"
+                    },
+                    "location": {
+                      "coordinates": [
+                        -44266.644897,
+                        -24302.173176,
+                        0.0
+                      ],
+                      "type": "IfcCartesianPoint"
+                    },
+                    "refDirection": {
+                      "directionRatios": [
+                        0.893967,
+                        0.448132,
+                        0.0
+                      ],
+                      "type": "IfcDirection"
+                    },
+                    "type": "IfcAxis2Placement3D"
+                  },
+                  "type": "IfcLocalPlacement"
+                },
+                "relativePlacement": {
+                  "location": {
+                    "coordinates": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "type": "IfcCartesianPoint"
+                  },
+                  "type": "IfcAxis2Placement3D"
+                },
+                "type": "IfcLocalPlacement"
+              },
+              "relativePlacement": {
+                "location": {
+                  "coordinates": [
+                    0.0,
+                    0.0,
+                    19750.0
+                  ],
+                  "type": "IfcCartesianPoint"
+                },
+                "type": "IfcAxis2Placement3D"
+              },
+              "type": "IfcLocalPlacement"
+            },
+            "relativePlacement": {
+              "location": {
+                "coordinates": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "type": "IfcCartesianPoint"
+              },
+              "type": "IfcAxis2Placement3D"
+            },
+            "type": "IfcLocalPlacement"
+          },
+          "objectType": "Floor:site area",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "predefinedType": "FLOOR",
+          "representation": {
+            "representations": [
+              {
+                "ref": "05c93400-cfd2-41b9-ac11-661f8b4b870c"
+              }
+            ],
+            "type": "IfcProductDefinitionShape"
+          },
+          "tag": "1224914",
+          "type": "IfcSlab"
+        },
+        "40e631c4-3f5d-436a-87f6-d89de09eaf1c": {
+          "globalId": "40e631c4-3f5d-436a-87f6-d89de09eaf1c",
+          "name": "Floor:\u7a97\u6237\u697c\u677f1:1764295",
+          "objectPlacement": {
+            "placementRelTo": {
+              "placementRelTo": {
+                "placementRelTo": {
+                  "relativePlacement": {
+                    "axis": {
+                      "directionRatios": [
+                        0.0,
+                        0.0,
+                        1.0
+                      ],
+                      "type": "IfcDirection"
+                    },
+                    "location": {
+                      "coordinates": [
+                        -44266.644897,
+                        -24302.173176,
+                        0.0
+                      ],
+                      "type": "IfcCartesianPoint"
+                    },
+                    "refDirection": {
+                      "directionRatios": [
+                        0.893967,
+                        0.448132,
+                        0.0
+                      ],
+                      "type": "IfcDirection"
+                    },
+                    "type": "IfcAxis2Placement3D"
+                  },
+                  "type": "IfcLocalPlacement"
+                },
+                "relativePlacement": {
+                  "location": {
+                    "coordinates": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "type": "IfcCartesianPoint"
+                  },
+                  "type": "IfcAxis2Placement3D"
+                },
+                "type": "IfcLocalPlacement"
+              },
+              "relativePlacement": {
+                "location": {
+                  "coordinates": [
+                    0.0,
+                    0.0,
+                    77400.0
+                  ],
+                  "type": "IfcCartesianPoint"
+                },
+                "type": "IfcAxis2Placement3D"
+              },
+              "type": "IfcLocalPlacement"
+            },
+            "relativePlacement": {
+              "location": {
+                "coordinates": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "type": "IfcCartesianPoint"
+              },
+              "type": "IfcAxis2Placement3D"
+            },
+            "type": "IfcLocalPlacement"
+          },
+          "objectType": "Floor:\u7a97\u6237\u697c\u677f1",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "predefinedType": "FLOOR",
+          "representation": {
+            "representations": [
+              {
+                "ref": "ab2c9d10-5b05-47dd-81e0-3e8b4adf4c6a"
+              }
+            ],
+            "type": "IfcProductDefinitionShape"
+          },
+          "tag": "1764295",
+          "type": "IfcSlab"
+        }
+      },
+      {}
+    ],
+    "IfcSlabType": [
+      {
+        "d40b5a2d-4c36-4d49-bbff-32c4edf1bda4": {
+          "globalId": "d40b5a2d-4c36-4d49-bbff-32c4edf1bda4",
+          "hasPropertySets": [
+            {
+              "ref": "d40b5a2d-4c36-4d49-bbff-3499edf1bda4"
+            },
+            {
+              "ref": "d40b5a2d-4c36-4d49-bbff-34c0edf1bda4"
+            },
+            {
+              "ref": "d40b5a2d-4c36-4d49-bbff-34c1edf1bda4"
+            },
+            {
+              "ref": "d40b5a2d-4c36-4d49-bbff-34c5edf1bda4"
+            },
+            {
+              "ref": "7cf53f38-f57a-4ef9-ad54-087e312d6ba0"
+            },
+            {
+              "ref": "d40b5a2d-4c36-4d49-bbff-34c9edf1bda4"
+            },
+            {
+              "ref": "86ee9c31-d962-4376-9def-e9c0ef7d6b29"
+            },
+            {
+              "ref": "f4a0b830-6510-4b4e-8ad7-9ab504895d97"
+            },
+            {
+              "ref": "d8f732b2-ae2c-4457-a116-f014019ad4a6"
+            },
+            {
+              "ref": "d40b5a2d-4c36-4d49-bbff-393fedf1bda4"
+            }
+          ],
+          "name": "Floor:site area",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "predefinedType": "FLOOR",
+          "tag": "734347",
+          "type": "IfcSlabType"
+        },
+        "a446b414-1b42-4f9d-9658-1846aeced73c": {
+          "globalId": "a446b414-1b42-4f9d-9658-1846aeced73c",
+          "hasPropertySets": [
+            {
+              "ref": "4f4d3b38-a2bc-4d08-9182-973b518945b3"
+            },
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1e42aeced73c"
+            },
+            {
+              "ref": "d40b5a2d-4c36-4d49-bbff-34c1edf1bda4"
+            },
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1e47aeced73c"
+            },
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1e40aeced73c"
+            },
+            {
+              "ref": "7cf53f38-f57a-4ef9-ad54-087e312d6ba0"
+            },
+            {
+              "ref": "86ee9c31-d962-4376-9def-e9c0ef7d6b29"
+            },
+            {
+              "ref": "f4a0b830-6510-4b4e-8ad7-9ab504895d97"
+            },
+            {
+              "ref": "d40b5a2d-4c36-4d49-bbff-393fedf1bd43"
+            }
+          ],
+          "name": "Floor:\u7a97\u6237\u697c\u677f1",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "predefinedType": "FLOOR",
+          "tag": "1237893",
+          "type": "IfcSlabType"
+        }
+      },
+      {}
+    ],
+    "IfcShapeRepresentation": [
+      {
+        "05c93400-cfd2-41b9-ac11-661f8b4b870c": {
+          "contextOfItems": {
+            "ref": "5f843472-422e-43f3-91b5-5c364bcdda70"
+          },
+          "globalId": "05c93400-cfd2-41b9-ac11-661f8b4b870c",
+          "items": [
+            {
+              "depth": 20.0,
+              "extrudedDirection": {
+                "directionRatios": [
+                  0.0,
+                  0.0,
+                  -1.0
+                ],
+                "type": "IfcDirection"
+              },
+              "position": {
+                "axis": {
+                  "directionRatios": [
+                    0.0,
+                    0.0,
+                    1.0
+                  ],
+                  "type": "IfcDirection"
+                },
+                "location": {
+                  "coordinates": [
+                    40725.202309,
+                    -25015.84636,
+                    -500.0
+                  ],
+                  "type": "IfcCartesianPoint"
+                },
+                "refDirection": {
+                  "directionRatios": [
+                    -0.103966,
+                    -0.994581,
+                    0.0
+                  ],
+                  "type": "IfcDirection"
+                },
+                "type": "IfcAxis2Placement3D"
+              },
+              "sweptArea": {
+                "outerCurve": {
+                  "segments": [
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              -26779.873255,
+                              -39415.375694
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              -26883.6179,
+                              -46258.717425
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              -26883.6179,
+                              -46258.717425
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              25002.117085,
+                              -41765.189398
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              25002.117085,
+                              -41765.189398
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              23357.646633,
+                              -23208.099164
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              23357.646633,
+                              -23208.099164
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              20074.588347,
+                              -17221.069826
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              20074.588347,
+                              -17221.069826
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              18933.988211,
+                              -2602.951503
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              18933.988211,
+                              -2602.951503
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              17440.923254,
+                              1892.762682
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              17440.923254,
+                              1892.762682
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              26248.439666,
+                              2650.513726
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              26248.439666,
+                              2650.513726
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              24123.311053,
+                              26103.933272
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              24123.311053,
+                              26103.933272
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              22093.501865,
+                              26927.947628
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              22093.501865,
+                              26927.947628
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              18870.189742,
+                              26664.046204
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              18870.189742,
+                              26664.046204
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              18570.566643,
+                              29806.779409
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              18570.566643,
+                              29806.779409
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              -37641.913739,
+                              45585.83196
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              -37641.913739,
+                              45585.83196
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              -33854.138464,
+                              22375.521611
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              -33854.138464,
+                              22375.521611
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              -32019.090834,
+                              10387.510258
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              -32019.090834,
+                              10387.510258
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              -29852.163276,
+                              -2965.315995
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "points": [
+                          {
+                            "coordinates": [
+                              -29852.163276,
+                              -2965.315995
+                            ],
+                            "type": "IfcCartesianPoint"
+                          },
+                          {
+                            "coordinates": [
+                              -27684.475031,
+                              -18958.127745
+                            ],
+                            "type": "IfcCartesianPoint"
+                          }
+                        ],
+                        "type": "IfcPolyline"
+                      },
+                      "sameSense": true,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    },
+                    {
+                      "parentCurve": {
+                        "basisCurve": {
+                          "position": {
+                            "location": {
+                              "coordinates": [
+                                -258548.873255,
+                                -39415.375694
+                              ],
+                              "type": "IfcCartesianPoint"
+                            },
+                            "refDirection": {
+                              "directionRatios": [
+                                1.0,
+                                0.0
+                              ],
+                              "type": "IfcDirection"
+                            },
+                            "type": "IfcAxis2Placement2D"
+                          },
+                          "radius": 231769.0,
+                          "type": "IfcCircle"
+                        },
+                        "masterRepresentation": "PARAMETER",
+                        "senseAgreement": true,
+                        "trim1": [
+                          {
+                            "type": "IfcParameterValue",
+                            "value": 0.0
+                          }
+                        ],
+                        "trim2": [
+                          {
+                            "type": "IfcParameterValue",
+                            "value": 5.063841
+                          }
+                        ],
+                        "type": "IfcTrimmedCurve"
+                      },
+                      "sameSense": false,
+                      "transition": "CONTINUOUS",
+                      "type": "IfcCompositeCurveSegment"
+                    }
+                  ],
+                  "selfIntersect": false,
+                  "type": "IfcCompositeCurve"
+                },
+                "profileType": "AREA",
+                "type": "IfcArbitraryClosedProfileDef"
+              },
+              "type": "IfcExtrudedAreaSolid"
+            }
+          ],
+          "representationIdentifier": "Body",
+          "representationType": "SweptSolid",
+          "type": "IfcShapeRepresentation"
+        },
+        "ab2c9d10-5b05-47dd-81e0-3e8b4adf4c6a": {
+          "contextOfItems": {
+            "ref": "5f843472-422e-43f3-91b5-5c364bcdda70"
+          },
+          "globalId": "ab2c9d10-5b05-47dd-81e0-3e8b4adf4c6a",
+          "items": [
+            {
+              "depth": 51.0,
+              "extrudedDirection": {
+                "directionRatios": [
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "type": "IfcDirection"
+              },
+              "position": {
+                "axis": {
+                  "directionRatios": [
+                    0.0,
+                    0.0,
+                    -1.0
+                  ],
+                  "type": "IfcDirection"
+                },
+                "location": {
+                  "coordinates": [
+                    25130.076244,
+                    -19324.604662,
+                    800.0
+                  ],
+                  "type": "IfcCartesianPoint"
+                },
+                "refDirection": {
+                  "directionRatios": [
+                    0.0,
+                    1.0,
+                    0.0
+                  ],
+                  "type": "IfcDirection"
+                },
+                "type": "IfcAxis2Placement3D"
+              },
+              "sweptArea": {
+                "position": {
+                  "location": {
+                    "coordinates": [
+                      0.0,
+                      0.0
+                    ],
+                    "type": "IfcCartesianPoint"
+                  },
+                  "refDirection": {
+                    "directionRatios": [
+                      1.0,
+                      0.0
+                    ],
+                    "type": "IfcDirection"
+                  },
+                  "type": "IfcAxis2Placement2D"
+                },
+                "profileType": "AREA",
+                "type": "IfcRectangleProfileDef",
+                "xDim": 2300.0,
+                "yDim": 300.0
+              },
+              "type": "IfcExtrudedAreaSolid"
+            }
+          ],
+          "representationIdentifier": "Body",
+          "representationType": "SweptSolid",
+          "type": "IfcShapeRepresentation"
+        }
+      },
+      {}
+    ],
+    "IfcOwnerHistory": {
+      "cab7c830-92bf-498b-a3b0-264a71c11418": {
+        "creationDate": [
+          1683699802,
+          1683699933
+        ]
+      }
+    },
+    "IfcRelContainedInSpatialStructure": {
+      "dcf8b4b6-591e-4087-bf25-61a895e002d4": {
+        "relatedElements": {
+          "$delete": [
+            [
+              1151,
+              {
+                "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+              }
+            ]
+          ]
+        }
+      },
+      "$delete": {
+        "610a108c-3ee0-49ae-8c5b-7335d70d37b2": {
+          "globalId": "610a108c-3ee0-49ae-8c5b-7335d70d37b2",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedElements": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingStructure": {
+            "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+          },
+          "type": "IfcRelContainedInSpatialStructure"
+        }
+      }
+    },
+    "IfcRelDefinesByProperties": {
+      "$insert": {
+        "40e631c4-3f5d-436a-87f6-dfeae09eaf22": {
+          "globalId": "40e631c4-3f5d-436a-87f6-dfeae09eaf22",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf22"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "40e631c4-3f5d-436a-87f6-deeae09eaf22"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "c8624b8d-eed4-4ef3-8098-24e99ffc8c84": {
+          "globalId": "c8624b8d-eed4-4ef3-8098-24e99ffc8c84",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "1349765c-5b0e-4e0b-914d-70a90106b270"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "14b2351b-7908-410a-92f2-8714fc0a2d9e": {
+          "globalId": "14b2351b-7908-410a-92f2-8714fc0a2d9e",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "610a108c-3ee0-49ae-8c5b-78d8d70d37b2"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "baa55470-0f15-46dc-bcfa-1342b21c5ddc": {
+          "globalId": "baa55470-0f15-46dc-bcfa-1342b21c5ddc",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "9e5faddd-4ca0-4662-b5c9-5c01bd46e9f9"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "aa132c5e-7857-4b68-89ea-b623de7a8a35": {
+          "globalId": "aa132c5e-7857-4b68-89ea-b623de7a8a35",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "8abf87f3-bfa4-475a-9652-a8c7046bae6d"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "a5d1db76-0360-498a-8278-2210f7a0b820": {
+          "globalId": "a5d1db76-0360-498a-8278-2210f7a0b820",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "7f2ce09b-4076-4d5b-8a63-9b13c1c101fd"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "644ca3d3-01db-47cd-9376-49efcb6aebad": {
+          "globalId": "644ca3d3-01db-47cd-9376-49efcb6aebad",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "7f2ce09b-4076-4d5b-8a63-9b02c1c101fd"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "d7d96c6c-42a7-4834-ba63-9acf90d3737b": {
+          "globalId": "d7d96c6c-42a7-4834-ba63-9acf90d3737b",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "7f2ce09b-4076-4d5b-8a63-9b06c1c101fd"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "04581a05-7b8d-4d6e-aeed-7e63c49c09cb": {
+          "globalId": "04581a05-7b8d-4d6e-aeed-7e63c49c09cb",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "1bc35993-97dc-4504-8b25-1364f930f11d"
+          },
+          "type": "IfcRelDefinesByProperties"
+        }
+      },
+      "$delete": {
+        "dda76fe2-0738-40c1-b567-ff0992af37b1": {
+          "globalId": "dda76fe2-0738-40c1-b567-ff0992af37b1",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "8abf87f3-bfa4-475a-9652-a8c7046bae6d"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "610a108c-3ee0-49ae-8c5b-7435d70d37b2": {
+          "globalId": "610a108c-3ee0-49ae-8c5b-7435d70d37b2",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "610a108c-3ee0-49ae-8c5b-7535d70d37b2"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "610a108c-3ee0-49ae-8c5b-7436d70d37b2": {
+          "globalId": "610a108c-3ee0-49ae-8c5b-7436d70d37b2",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "610a108c-3ee0-49ae-8c5b-7536d70d37b2"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "610a108c-3ee0-49ae-8c5b-7420d70d37b2": {
+          "globalId": "610a108c-3ee0-49ae-8c5b-7420d70d37b2",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "610a108c-3ee0-49ae-8c5b-7520d70d37b2"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "0a50ea88-d2e6-4c0b-9396-47c437806038": {
+          "globalId": "0a50ea88-d2e6-4c0b-9396-47c437806038",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "8abf87f3-bfa4-475a-9652-a8c7046bae6d"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "a3ea3a61-c683-4013-866f-16e14b2ba81b": {
+          "globalId": "a3ea3a61-c683-4013-866f-16e14b2ba81b",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "86ee9c31-d962-4376-9def-e9c0ef7d6b29"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "3f369dab-ea13-4a8a-b273-739fc90a1f54": {
+          "globalId": "3f369dab-ea13-4a8a-b273-739fc90a1f54",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "f4a0b830-6510-4b4e-8ad7-9ab504895d97"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "05e8ea4b-ca77-488f-b204-ac87677b22cd": {
+          "globalId": "05e8ea4b-ca77-488f-b204-ac87677b22cd",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "16a3e8b8-4ce7-4ad0-9af4-544b04c93596"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "6265de06-ffaa-4816-9b1e-67bfdc6c0855": {
+          "globalId": "6265de06-ffaa-4816-9b1e-67bfdc6c0855",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "76b1331c-b89c-4024-84a3-62425336144d"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "b6f21bb7-edbf-4793-a19d-7f27d727d2cf": {
+          "globalId": "b6f21bb7-edbf-4793-a19d-7f27d727d2cf",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "3cb11a12-510e-4ed4-91fe-f39e3c518cba"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "3cb11a12-510e-4ed4-91fe-ff713c518cba": {
+          "globalId": "3cb11a12-510e-4ed4-91fe-ff713c518cba",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "3cb11a12-510e-4ed4-91fe-fe713c518cba"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "3cb11a12-510e-4ed4-91fe-ff673c518cba": {
+          "globalId": "3cb11a12-510e-4ed4-91fe-ff673c518cba",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "3cb11a12-510e-4ed4-91fe-fe673c518cba"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "c9e15366-229c-489f-b602-3779810d705b": {
+          "globalId": "c9e15366-229c-489f-b602-3779810d705b",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "ccd5ed82-5407-4433-a7fc-cd8f23dc357c"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "3cb11a12-510e-4ed4-91fe-ff6a3c518cba": {
+          "globalId": "3cb11a12-510e-4ed4-91fe-ff6a3c518cba",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "3cb11a12-510e-4ed4-91fe-fe6a3c518cba"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "3cb11a12-510e-4ed4-91fe-ff683c518cba": {
+          "globalId": "3cb11a12-510e-4ed4-91fe-ff683c518cba",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "3cb11a12-510e-4ed4-91fe-fe683c518cba"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "6eedc0a8-e182-4c83-a5a3-395b4916fa01": {
+          "globalId": "6eedc0a8-e182-4c83-a5a3-395b4916fa01",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "86ee9c31-d962-4376-9def-e9c0ef7d6b29"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "426cbf46-a2de-4342-be6a-6f1f05bf437f": {
+          "globalId": "426cbf46-a2de-4342-be6a-6f1f05bf437f",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "f4a0b830-6510-4b4e-8ad7-9ab504895d97"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "d5f22985-a4a6-4913-8dad-9c3f1d55de01": {
+          "globalId": "d5f22985-a4a6-4913-8dad-9c3f1d55de01",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "567b5818-cf12-462b-8db1-1ad4911ed7e5"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "295bedc9-fa43-4f38-885a-ecd2995724d7": {
+          "globalId": "295bedc9-fa43-4f38-885a-ecd2995724d7",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "475ef085-231b-4842-a05a-69b962a2218d"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "9bd9e666-a728-4185-9693-05f5c9577d2a": {
+          "globalId": "9bd9e666-a728-4185-9693-05f5c9577d2a",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "40e631c4-3f5d-436a-87f6-d366e09eaf1c"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "40e631c4-3f5d-436a-87f6-df89e09eaf1c": {
+          "globalId": "40e631c4-3f5d-436a-87f6-df89e09eaf1c",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "40e631c4-3f5d-436a-87f6-de89e09eaf1c"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "40e631c4-3f5d-436a-87f6-df9fe09eaf1c": {
+          "globalId": "40e631c4-3f5d-436a-87f6-df9fe09eaf1c",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "40e631c4-3f5d-436a-87f6-de9fe09eaf1c"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "d22d56c4-f5a2-4de7-bc69-372cd27bbfc4": {
+          "globalId": "d22d56c4-f5a2-4de7-bc69-372cd27bbfc4",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "06d70bb5-9a2a-45ed-befc-4f558e4d11f5"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "40e631c4-3f5d-436a-87f6-df92e09eaf1c": {
+          "globalId": "40e631c4-3f5d-436a-87f6-df92e09eaf1c",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "3cb11a12-510e-4ed4-91fe-fe6a3c518cba"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "40e631c4-3f5d-436a-87f6-df90e09eaf1c": {
+          "globalId": "40e631c4-3f5d-436a-87f6-df90e09eaf1c",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "3cb11a12-510e-4ed4-91fe-fe683c518cba"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "979b26fa-c2fd-4160-b985-00a93235a76b": {
+          "globalId": "979b26fa-c2fd-4160-b985-00a93235a76b",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "c44471be-13e1-4649-ba7a-251b8b0e08f6"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "e775f32b-260a-4a3a-80fc-3525d5182ab6": {
+          "globalId": "e775f32b-260a-4a3a-80fc-3525d5182ab6",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "610a108c-3ee0-49ae-8c5b-78d8d70d37b2"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "5ce92a30-d0b5-467c-a792-8b253a0b67c5": {
+          "globalId": "5ce92a30-d0b5-467c-a792-8b253a0b67c5",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "1d3010ca-f2dc-4100-aeee-54cb51d80e3d"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "f486c238-c1dd-4ffc-bd73-6ff34216879c": {
+          "globalId": "f486c238-c1dd-4ffc-bd73-6ff34216879c",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "1349765c-5b0e-4e0b-914d-70a90106b270"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "92cfe5e5-0758-4e88-a7b9-19ce129d9eda": {
+          "globalId": "92cfe5e5-0758-4e88-a7b9-19ce129d9eda",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "610a108c-3ee0-49ae-8c5b-78d8d70d37b2"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "01933ddc-35ec-4343-a446-baf92f9ae2e9": {
+          "globalId": "01933ddc-35ec-4343-a446-baf92f9ae2e9",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "9e5faddd-4ca0-4662-b5c9-5c01bd46e9f9"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "07f4f227-94cf-4a79-aa0d-dca73111f61d": {
+          "globalId": "07f4f227-94cf-4a79-aa0d-dca73111f61d",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+            },
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "7f2ce09b-4076-4d5b-8a63-9b13c1c101fd"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "fbed1656-6bf4-4f91-acdb-e7e4fe33e413": {
+          "globalId": "fbed1656-6bf4-4f91-acdb-e7e4fe33e413",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+            },
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "7f2ce09b-4076-4d5b-8a63-9b02c1c101fd"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "2288c5db-fcb2-4c8b-b15f-b227afc87e1d": {
+          "globalId": "2288c5db-fcb2-4c8b-b15f-b227afc87e1d",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+            },
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "7f2ce09b-4076-4d5b-8a63-9b06c1c101fd"
+          },
+          "type": "IfcRelDefinesByProperties"
+        },
+        "b7e28481-1c72-4fc7-b44e-a137b9e968ac": {
+          "globalId": "b7e28481-1c72-4fc7-b44e-a137b9e968ac",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+            },
+            {
+              "ref": "d59e761b-415b-47d8-adf2-70979a7655dd"
+            }
+          ],
+          "relatingPropertyDefinition": {
+            "ref": "1bc35993-97dc-4504-8b25-1364f930f11d"
+          },
+          "type": "IfcRelDefinesByProperties"
+        }
+      }
+    },
+    "IfcRelAggregates": {
+      "8764c510-57b7-44c3-bddf-266e86c2a2e0": {
+        "relatedObjects": {
+          "$delete": [
+            [
+              0,
+              {
+                "ref": "d59e761b-415b-47d8-adf2-70979a7e32f1"
+              }
+            ]
+          ]
+        }
+      }
+    },
+    "IfcRelAssociatesMaterial": [
+      {
+        "4d412564-3807-40b2-b1d4-d8e1d009da32": {
+          "globalId": "4d412564-3807-40b2-b1d4-d8e1d009da32",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingMaterial": {
+            "directionSense": "POSITIVE",
+            "forLayerSet": {
+              "layerSetName": "Floor:site area",
+              "materialLayers": [
+                {
+                  "layerThickness": 20.0,
+                  "material": {
+                    "name": "\u6df7\u51dd\u571f\uff0c\u73b0\u573a\u6d47\u6ce8\uff0c\u7070\u8272",
+                    "type": "IfcMaterial"
+                  },
+                  "type": "IfcMaterialLayer"
+                }
+              ],
+              "type": "IfcMaterialLayerSet"
+            },
+            "layerSetDirection": "AXIS3",
+            "offsetFromReferenceLine": 0.0,
+            "type": "IfcMaterialLayerSetUsage"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "ee2e55ee-f6ad-4d5a-a57d-fdf4bd906237": {
+          "globalId": "ee2e55ee-f6ad-4d5a-a57d-fdf4bd906237",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingMaterial": {
+            "directionSense": "POSITIVE",
+            "forLayerSet": {
+              "layerSetName": "Floor:\u7a97\u6237\u697c\u677f1",
+              "materialLayers": [
+                {
+                  "layerThickness": 1.0,
+                  "material": {
+                    "name": "\u571f\u5c42(1)",
+                    "type": "IfcMaterial"
+                  },
+                  "type": "IfcMaterialLayer"
+                },
+                {
+                  "layerThickness": 50.0,
+                  "material": {
+                    "name": "KEL ARC Floor Default",
+                    "type": "IfcMaterial"
+                  },
+                  "type": "IfcMaterialLayer"
+                }
+              ],
+              "type": "IfcMaterialLayerSet"
+            },
+            "layerSetDirection": "AXIS3",
+            "offsetFromReferenceLine": 0.0,
+            "type": "IfcMaterialLayerSetUsage"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "91a37f50-0b25-424b-8066-195476f8f322": {
+          "globalId": "91a37f50-0b25-424b-8066-195476f8f322",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "d40b5a2d-4c36-4d49-bbff-32c4edf1bda4"
+            }
+          ],
+          "relatingMaterial": {
+            "layerSetName": "Floor:site area",
+            "materialLayers": [
+              {
+                "layerThickness": 20.0,
+                "material": {
+                  "name": "\u6df7\u51dd\u571f\uff0c\u73b0\u573a\u6d47\u6ce8\uff0c\u7070\u8272",
+                  "type": "IfcMaterial"
+                },
+                "type": "IfcMaterialLayer"
+              }
+            ],
+            "type": "IfcMaterialLayerSet"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "aa60c9c6-6783-401e-b373-2d8a02c9a269": {
+          "globalId": "aa60c9c6-6783-401e-b373-2d8a02c9a269",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf730c"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "close glass\uff08bedroom\uff09",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Metal - Cladding",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "open glass\uff08bedroom\uff09",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "1dcc1210-3356-4e77-b040-15e4d29694b2": {
+          "globalId": "1dcc1210-3356-4e77-b040-15e4d29694b2",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf730f"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Metal - Cladding",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "close glass\uff08bedroom\uff09",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "open glass\uff08bedroom\uff09",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "bfffa0f8-e2a4-4161-a62d-69e75dcac5cf": {
+          "globalId": "bfffa0f8-e2a4-4161-a62d-69e75dcac5cf",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf7301"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "toilet open",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Metal - Cladding(1)",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "e8fe64f4-f476-423e-aba6-6a030332ab31": {
+          "globalId": "e8fe64f4-f476-423e-aba6-6a030332ab31",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf7300"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Metal - Cladding(2)",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "toilet open",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "03f9ff36-dc16-41d0-a7da-6f9172600a99": {
+          "globalId": "03f9ff36-dc16-41d0-a7da-6f9172600a99",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf7303"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "corridor close 1",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Metal - Cladding(8)",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "corridor open1",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "eab73047-20d7-4df5-b853-6607dc3ce4f4": {
+          "globalId": "eab73047-20d7-4df5-b853-6607dc3ce4f4",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aeced7c9"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Toilet Cubicle Feet",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Toilet Cubicle Frame",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Toilet Cubicle Paneling",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "21ff1e43-373d-4d34-aa57-3e4dad9c08dd": {
+          "globalId": "21ff1e43-373d-4d34-aa57-3e4dad9c08dd",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf737b"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Metal - Cladding(8)",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "corridor open1",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "corridor close 1",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "02234a82-13fb-4367-9ceb-9966bde6e8ea": {
+          "globalId": "02234a82-13fb-4367-9ceb-9966bde6e8ea",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aeced7c8"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Toilet Cubicle Frame",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Toilet Cubicle Feet",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Toilet Cubicle Paneling",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "1042ebb5-1988-4aeb-8e68-87524ae2b703": {
+          "globalId": "1042ebb5-1988-4aeb-8e68-87524ae2b703",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf737a"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "corridor open1",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Metal - Cladding(8)",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "corridor close 1",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "3648cd97-e460-4f78-b0cb-5534a5050e7a": {
+          "globalId": "3648cd97-e460-4f78-b0cb-5534a5050e7a",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1846aeced73c"
+            }
+          ],
+          "relatingMaterial": {
+            "layerSetName": "Floor:\u7a97\u6237\u697c\u677f1",
+            "materialLayers": [
+              {
+                "layerThickness": 1.0,
+                "material": {
+                  "name": "\u571f\u5c42(1)",
+                  "type": "IfcMaterial"
+                },
+                "type": "IfcMaterialLayer"
+              },
+              {
+                "layerThickness": 50.0,
+                "material": {
+                  "name": "KEL ARC Floor Default",
+                  "type": "IfcMaterial"
+                },
+                "type": "IfcMaterialLayer"
+              }
+            ],
+            "type": "IfcMaterialLayerSet"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        }
+      },
+      {
+        "3088f6af-9db9-4143-aca1-580d549cd4b6": {
+          "globalId": "3088f6af-9db9-4143-aca1-580d549cd4b6",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf730c"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "close glass\uff08bedroom\uff09",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "open glass\uff08bedroom\uff09",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Metal - Cladding",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "e134c750-270b-4bbb-82a5-f4da2e5174c3": {
+          "globalId": "e134c750-270b-4bbb-82a5-f4da2e5174c3",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf730f"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "close glass\uff08bedroom\uff09",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "open glass\uff08bedroom\uff09",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Metal - Cladding",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "2a0c98a9-32f4-41a4-8184-b3a3dd37a838": {
+          "globalId": "2a0c98a9-32f4-41a4-8184-b3a3dd37a838",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf7301"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Metal - Cladding(1)",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "toilet open",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "1caaf4e9-0ac8-4a59-885f-30f40cb6335c": {
+          "globalId": "1caaf4e9-0ac8-4a59-885f-30f40cb6335c",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf7300"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "toilet open",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Metal - Cladding(2)",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "759a339b-88b8-44cd-ad4f-457b3ca5d747": {
+          "globalId": "759a339b-88b8-44cd-ad4f-457b3ca5d747",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf7303"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Metal - Cladding(8)",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "corridor open1",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "corridor close 1",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "d08be727-e4c9-4bd7-8f52-8c1c7a21e72d": {
+          "globalId": "d08be727-e4c9-4bd7-8f52-8c1c7a21e72d",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf737b"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "corridor open1",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Metal - Cladding(8)",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "corridor close 1",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "74c79a80-790e-4ba6-8899-e04b34545157": {
+          "globalId": "74c79a80-790e-4ba6-8899-e04b34545157",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aeced7c9"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Toilet Cubicle Feet",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Toilet Cubicle Paneling",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Toilet Cubicle Frame",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "0dd687b6-a33b-49b3-817e-34ed82d0ad88": {
+          "globalId": "0dd687b6-a33b-49b3-817e-34ed82d0ad88",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aeced7c8"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Toilet Cubicle Paneling",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Toilet Cubicle Frame",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "Toilet Cubicle Feet",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        },
+        "2eadf364-ddf4-423e-85b5-86cfe885d0a2": {
+          "globalId": "2eadf364-ddf4-423e-85b5-86cfe885d0a2",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "a446b414-1b42-4f9d-9658-1853aecf737a"
+            }
+          ],
+          "relatingMaterial": {
+            "materials": [
+              {
+                "name": "Metal - Cladding(8)",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "corridor open1",
+                "type": "IfcMaterial"
+              },
+              {
+                "name": "corridor close 1",
+                "type": "IfcMaterial"
+              }
+            ],
+            "type": "IfcMaterialList"
+          },
+          "type": "IfcRelAssociatesMaterial"
+        }
+      }
+    ],
+    "IfcRelDefinesByType": [
+      {
+        "2a507e97-be4a-4355-8252-6aea5048bf9e": {
+          "globalId": "2a507e97-be4a-4355-8252-6aea5048bf9e",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "3cb11a12-510e-4ed4-91fe-f8653c518cba"
+            }
+          ],
+          "relatingType": {
+            "ref": "d40b5a2d-4c36-4d49-bbff-32c4edf1bda4"
+          },
+          "type": "IfcRelDefinesByType"
+        },
+        "2a2ca7f1-af95-48c6-b9dd-f9003d0eb424": {
+          "globalId": "2a2ca7f1-af95-48c6-b9dd-f9003d0eb424",
+          "ownerHistory": {
+            "ref": "cab7c830-92bf-498b-a3b0-264a71c11418"
+          },
+          "relatedObjects": [
+            {
+              "ref": "40e631c4-3f5d-436a-87f6-d89de09eaf1c"
+            }
+          ],
+          "relatingType": {
+            "ref": "a446b414-1b42-4f9d-9658-1846aeced73c"
+          },
+          "type": "IfcRelDefinesByType"
+        }
+      },
+      {}
+    ]
+  }
+}

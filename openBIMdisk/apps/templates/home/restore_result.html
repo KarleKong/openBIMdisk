@@ -1,0 +1,295 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} tSDT Computing {% endblock %} 
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}
+<link href="{{ config.ASSETS_ROOT }}/css/button.css" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/dropzone@5/dist/min/dropzone.min.css" type="text/css" />
+
+{% endblock stylesheets %}
+
+{% block content %}
+
+        <!-- ============================================================== -->
+        <!-- Bread crumb and right sidebar toggle -->
+        <!-- ============================================================== -->
+        <div class="page-breadcrumb">
+            <div class="row align-items-center">
+                <div class="col-md-6 col-8 align-self-center">
+                    <h3 class="page-title mb-0 p-0">tSDT</h3>
+                    <div class="d-flex align-items-center">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="{{url_for('home_blueprint.index')}}">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">tSDT Computing</li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-md-6 col-4">
+                    <div class="text-end upgrade-btn">
+                        <a href="https://appseed.us/support/"
+                            class="btn btn-danger d-none d-md-inline-block text-white" target="_blank">
+                            Support        
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ============================================================== -->
+        <!-- End Bread crumb and right sidebar toggle -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Container fluid  -->
+        <!-- ============================================================== -->
+        <div class="container-fluid">
+            <!-- ============================================================== -->
+            <!-- Start Page Content -->
+            <!-- ============================================================== -->
+            <!-- Row -->
+            <div class="row">
+                <!-- Column -->
+                <div class="col-lg-6 col-xlg-3 col-md-5">
+                    <!-- define the label for the file selection button -->
+                    <form action="/file" id="myDropzone" class="dropzone" method="POST">
+                        <img src="{{ config.ASSETS_ROOT }}/images/fileUpload.png" style="position: relative; left:37.5%; top:10%;">
+                        <div class="fallback">
+                            <input type="file" class="custom-file-input" id="fileSelect" name="file" multiple="multiple" style="display: none"> 
+                        </div>                                                                                                   
+                        <h2 style="text-align: center;">Compute Semantic Differences of Two IFC files</h2>  
+                    </form>
+                </div>  
+
+                <div class="col-lg-6 col-xlg-3 col-md-5">
+                    <!-- define the label for the file selection button -->
+                    <div class="rectangle-box">
+                        <div class="img">
+                            <img src="{{ config.ASSETS_ROOT }}/images/fileDownload.png" style="position: relative; left:37.5%; top:10%;">
+                        </div>
+                        <div class="download">
+                            <button type="button" id="downloadButton" style="display: none;" ></button>
+                            <label for="downloadButton" style=" display:flex; background-color: rgb(58, 188, 235); justify-content: center;" class="btn btn-primary mt-5">Download Diff Result</label>
+                        </div>
+                    </div>           
+                </div> 
+            </div>
+            <br>
+            <br>
+            <div class="row">
+                <div class="col-lg-6 col-xlg-3 col-md-5">
+                    <div id="logfolderId" d="{{logFolders}}" style="display:none"></div>
+                    <div class="rectangle-box">
+                        <div class="img">
+                            <img src="{{ config.ASSETS_ROOT }}/images/querying.png" style="position: relative; left:43%; top:10%;">
+                        </div>
+                        <br>
+                        <div class="restore">
+                            <form method="post" onsubmit="return handleSubmit()">
+                                <div class="flex-container" id="inputBox" >
+                                    <lable for="targetVersion">Base Version</lable>
+                                    <input type="text" size= "20" id="baseVersion" name="baseVersion">
+                                </div>
+                                <br>
+                                <div class="flex-container" id="inputBox" >
+                                    <lable for="targetVersion">Target Version</lable>
+                                    <input type="text" size= "20" id="targetVersion" name="targetVersion">
+                                </div>
+                                <button type="submit" style="display:none" id="tracing_button"></button>
+                            </form>
+                            <label for="tracing_button" style=" display:flex; background-color: rgb(58, 188, 235); opacity: 0.7;justify-content: center;" class="btn btn-primary mt-2">Restore</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-xlg-3 col-md-5">
+                <!-- define the label for the file selection button -->
+                <div class="rectangle-box">
+                    <div class="img">
+                        <img src="{{ config.ASSETS_ROOT }}/images/fileDownload.png" style="position: relative; left:37.5%; top:10%;">
+                    </div>
+                    <div class="download">
+                        <button type="button" id="restoreDownload" style="display: none;" onclick="downloadRestoreFile()"></button>
+                        <label for="restoreDownload" style=" display:flex; background-color: rgb(58, 188, 235); justify-content: center;" class="btn btn-primary mt-5">{{ restoreResult }}</label>
+                    </div>
+                </div>           
+            </div> 
+            <!-- Row -->
+            <!-- ============================================================== -->
+            <!-- End PAge Content -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- Right sidebar -->
+            <!-- ============================================================== -->
+            <!-- .right-sidebar -->
+            <!-- ============================================================== -->
+            <!-- End Right sidebar -->
+            <!-- ============================================================== -->
+        </div>
+        <!-- ============================================================== -->
+        <!-- End Container fluid  -->
+        <!-- ============================================================== -->
+
+{% endblock content %}
+
+{% block javascripts %}
+
+<script type="text/javascript" src="{{ config.ASSETS_ROOT }}/js/dropzone.js"></script>
+<script type="text/javascript" src="{{ config.ASSETS_ROOT }}/js/jquery-3.7.1.js"></script>
+
+<script>
+    Dropzone.options.myDropzone = {
+    init: function() {
+        this.on("complete", function() {
+            if(this.getQueuedFiles().length === 0 && this.getUploadingFiles().length === 0){
+                var fileNames = []
+                this.files.forEach(function(file){
+                    fileNames.push(file.name)
+                });
+                sendFileNames(fileNames)
+            }
+        });
+      }
+    };
+
+    function sendFileNames(fileNames){
+        fetch('/tsdt_function', {
+            method: 'POST',
+            headers: {
+            'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ fileNames: fileNames }),
+        })
+        .then(response => {
+            if(response.ok){
+                // console.log("111111");
+                if(response.redirected){
+                    // console.log("222222")
+                    window.location.href=response.url;
+                    console.log(response.url)
+                }
+                else{
+                    throw new Error('Request failed with status ' + response.status);
+                }
+                return response.json(); 
+            }
+
+        })
+        .then(data => {
+            console.log(data);
+            // downloadResult(data);
+        })
+        .catch(error => {
+            console.error('Error:', error);
+        });
+    }
+
+    function downloadResult(data){
+        resultFileName = data.resultFileName
+        console.log(JSON.stringify({ resultFileName: resultFileName }))
+        fetch('/computeResult', {
+            method: 'POST',
+            headers: {
+            'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ resultFileName: resultFileName }),
+            
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+        })
+        .catch(error => {
+            console.error('Error:', error);
+        });
+    }
+
+</script>
+
+<script>
+    function handleSubmit() {
+        var base_version = document.getElementById('baseVersion').value;
+        var target_version = document.getElementById('targetVersion').value;
+        var Project = "WCH";
+        // determine whether there is the difference record
+        var sdt_aim = base_version + "-" + target_version
+        var sdt_aim_reverse = target_version + "-" + base_version
+        var log_folder_records = document.getElementById('logfolderId').getAttribute('d') // this is a string result
+        // console.log("The type of log_folder_records is " + typeof(log_folder_records)) 
+        // Convert the Result from String to a list
+        var logFolderList = []
+        logFolderList = log_folder_records.replace("[", "").replace("]","").split(",")
+        for(k=0;k<=logFolderList.length-1;k++){
+            log_item = logFolderList[k].replace("'","").replace("'","").replace(" ","")
+            console.log(log_item)
+            if(k<logFolderList.length-1 && log_item === sdt_aim){
+                var base_version_real = base_version
+                var target_version_real = target_version
+                break;
+            }
+            else if (k<logFolderList.length-1 && log_item === sdt_aim_reverse){
+                var base_version_real = target_version
+                var target_version_real = base_version
+                break;
+            }
+            else if (k<logFolderList.length-1){
+                continue
+            }
+            else if (k === logFolderList.length-1){
+                if(log_item === sdt_aim){
+                    var base_version_real = base_version
+                    var target_version_real = target_version
+                    break;
+                }
+                else if(log_item === sdt_aim_reverse){
+                    var base_version_real = target_version
+                    var target_version_real = base_version
+                    break;
+                }
+                else{
+                    console.log("No tSDT records!")
+                    swal({
+                        title: "No tSDT Records!",
+                        text: "The semantic difference of these two BIM versions has not been computed before, please run tSDT function to capture differences first.",
+                        showCancelButton: true
+                    })
+                } 
+            }
+        }   
+        console.log("The real base version is " + base_version_real)
+        console.log("The real target version is " + target_version_real)
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', '/tsdt_restore');
+        xhr.setRequestHeader('Content-Type', 'application/json'); 
+        xhr.onload = function() {
+            if(xhr.status === 200){
+                window.location.href = '/restore_result'
+            }
+            console.log(xhr.responseText);
+        };
+        xhr.send(JSON.stringify({baseVersion: base_version_real, targetVersion: target_version_real, Project: Project}));
+        return false;
+    }
+ </script>
+
+<script>
+function downloadRestoreFile(){
+    resultFile = "{{ restoreResult }}";
+    var fileUrl = '/restore/WCH/'+resultFile;
+    // console.log(fileUrl)
+    fetch(fileUrl)
+    .then(response => response.blob())
+    .then(blob => {
+        const a = document.createElement('a');
+        a.href = window.URL.createObjectURL(blob);
+        document.body.appendChild(a)
+        a.click();
+        document.body.removeChild(a);
+    })
+    .catch(error => {
+        console.error('Error: ', error);
+    });
+}
+</script>
+{% endblock javascripts %}
