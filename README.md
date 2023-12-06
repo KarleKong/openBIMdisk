@@ -10,6 +10,7 @@ $ # Get the code (he recommanded python version is 3.8)
 $ # Install the required dependencies    
 `pip install -r requirements.txt`  
 $ # Set the FLASK_APP environment variable  
+`cd ..`  
 `(Unix/Mac) export FLASK_APP = run.py`  
 `(Windows) set FLASK_APP=run.py`  
 `(Powershell) $env:FLASK_APP=".\run.py"`  
