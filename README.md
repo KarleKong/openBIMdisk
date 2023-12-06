@@ -9,6 +9,6 @@ The Blockchain 3.0 backbone extends a cached layer for BIM data indexing, queryi
 ### tSDT model
 The traceable Semantic Differential Transaction (tSDT) model incorporates two key features: (1) remove duplicated instances of BIM semantics; and (2) indexing BIM data such as Id, GUID, change type, etc., and further storing them on a local cached database for querying of BIM semantic changes.
 ### Application UI
-![image](https://github.com/KarleKong/openBIMdisk/blob/main/UserInterface.png)
+![image](https://github.com/KarleKong/openBIMdisk/blob/main/openBIMdisk/UserInterface.png)
 ## License
 [Apache License 2.0](https://github.com/KarleKong/openBIMdisk/blob/main/LICENSE)
