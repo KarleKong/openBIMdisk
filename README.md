@@ -40,5 +40,12 @@ $ # Start the hyperledger explorer
 The traceable Semantic Differential Transaction (tSDT) model incorporates two key features: (1) remove duplicated instances of BIM semantics; and (2) indexing BIM data such as Id, GUID, change type, etc., and further storing them on a local cached database for querying of BIM semantic changes.
 ## Application UI
 ![image](https://github.com/KarleKong/openBIMdisk/blob/main/openBIMdisk/GUI.svg)
+## Citation
+Please consider citing our work if you found this code or our paper beneficial to your research.
+```
+@article{
+
+}
+```
 ## License
 [Apache License 2.0](https://github.com/KarleKong/openBIMdisk/blob/main/LICENSE)
