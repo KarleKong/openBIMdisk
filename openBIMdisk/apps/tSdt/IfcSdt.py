@@ -34,13 +34,6 @@ class IfcSdt:
     jsonData.pop('group', None)
     ifc = IfcSemantics()
     ifc.setjson(jsonData)
-    if self.Verbose:
-      with open(self.log_folder + '0-' + jsonfile, 'w') as outfile:
-        json.dump(jsonData, outfile, sort_keys=True, indent=2)
-      with open(self.log_folder + '0-idDict-' + jsonfile.replace("ifcjson", "json"), 'w') as outfile:
-        json.dump(idDict, outfile, sort_keys=True, indent=2)
-      with open(self.log_folder + '0-groupObj-' + jsonfile.replace("ifcjson", "json"), 'w') as outfile:
-        json.dump(groupObj, outfile, sort_keys=True, indent=2)
     return ifc, idDict, groupObj
 
   
