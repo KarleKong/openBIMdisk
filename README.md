@@ -3,15 +3,7 @@
 ## Citation
 Please consider citing our work if you found this code or our paper beneficial to your research.
 ```
-@article{KONG,
-    title = {Open BIM exchange on Blockchain 3.0 virtual disk: A traceable semantic differential transaction approach},
-    author = {Lingming Kong and Rui Zhao and Chimay J. ANUMBA and Weisheng Lu and Fan Xue},
-    journal = {Frontiers of Engineering Management},
-    issue = {4},
-    year = {2024},
-    doi = {https://doi.org/10.1007/s42524-024-4006-x},
-    url = {https://frankxue.com/pdf/kong24openbim.pdf}
-}
+Kong, L., Zhao, R., Anumba, C.J. et al. Open BIM exchange on Blockchain 3.0 virtual disk: A traceable semantic differential transaction approach. Front. Eng. Manag. 12, 510–528 (2025). https://doi-org.eproxy.lib.hku.hk/10.1007/s42524-024-4006-x
 ```
 
 ## Introduction
